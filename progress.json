@@ -1263,5 +1263,18 @@
       "Graph Theory"
     ],
     "solved_at": "2026-10-05T08:02:06.549753"
+  },
+  "1688": {
+    "id": "1688",
+    "title": "Count of Matches in Tournament",
+    "slug": "count-of-matches-in-tournament",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1688-count-of-matches-in-tournament",
+    "tags": [
+      "Math",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:02:23.552806"
   }
 }
