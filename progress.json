@@ -1666,5 +1666,18 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:23:35.410928"
+  },
+  "1528": {
+    "id": "1528",
+    "title": "Shuffle String",
+    "slug": "shuffle-string",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1528-shuffle-string",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:23:52.814331"
   }
 }
