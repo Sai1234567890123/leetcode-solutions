@@ -2783,5 +2783,18 @@
       "String"
     ],
     "solved_at": "2026-10-05T12:26:00.033761+00:00"
+  },
+  "3162": {
+    "id": "3162",
+    "title": "Find the Number of Good Pairs I",
+    "slug": "find-the-number-of-good-pairs-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3162-find-the-number-of-good-pairs-i",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ],
+    "solved_at": "2026-10-05T12:27:45.622167+00:00"
   }
 }
