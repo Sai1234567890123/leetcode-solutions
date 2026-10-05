@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `164 / 1000` (16.4%)
-- **🟢 Easy:** `123`
+- **Total Solved:** `165 / 1000` (16.5%)
+- **🟢 Easy:** `124`
 - **🟡 Medium:** `41`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:37:40 UTC`
+- **Last Updated:** `2026-10-05 08:38:01 UTC`
 
 ---
 
@@ -165,6 +165,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 **Easy** | [PY](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.py) • [Notes](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | `Array`, `Math` |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | 🟢 **Easy** | [PY](solutions/3516-find-closest-person/solution.py) • [Notes](solutions/3516-find-closest-person/README.md) | `Math` |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | 🟢 **Easy** | [PY](solutions/3541-find-most-frequent-vowel-and-consonant/solution.py) • [Notes](solutions/3541-find-most-frequent-vowel-and-consonant/README.md) | `Hash Table`, `String`, `Counting` |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 **Easy** | [PY](solutions/3550-smallest-index-with-digit-sum-equal-to-index/solution.py) • [Notes](solutions/3550-smallest-index-with-digit-sum-equal-to-index/README.md) | `Array`, `Math` |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 **Easy** | [PY](solutions/3658-gcd-of-odd-and-even-sums/solution.py) • [Notes](solutions/3658-gcd-of-odd-and-even-sums/README.md) | `Math`, `Number Theory` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 **Easy** | [PY](solutions/3668-restore-finishing-order/solution.py) • [Notes](solutions/3668-restore-finishing-order/README.md) | `Array`, `Hash Table` |
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | 🟢 **Easy** | [PY](solutions/3688-bitwise-or-of-even-numbers-in-an-array/solution.py) • [Notes](solutions/3688-bitwise-or-of-even-numbers-in-an-array/README.md) | `Array`, `Bit Manipulation`, `Simulation` |
