@@ -2833,5 +2833,19 @@
     "relative_dir": "solutions/2724-sort-by",
     "tags": [],
     "solved_at": "2026-10-05T13:43:19.590763+00:00"
+  },
+  "1111": {
+    "id": "1111",
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "solved_at": "2026-10-05T13:43:47.143982+00:00"
   }
 }

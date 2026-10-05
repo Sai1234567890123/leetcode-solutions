@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `216 / 10` (2160.0%)
+- **Total Solved:** `217 / 10` (2170.0%)
 - **🟢 Easy:** `157`
-- **🟡 Medium:** `58`
+- **🟡 Medium:** `59`
 - **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 13:43:19 UTC`
+- **Last Updated:** `2026-10-05 13:43:47 UTC`
 
 ---
 
@@ -39,6 +39,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 **Easy** | [PY](solutions/1068-product-sales-analysis-i/solution.py) • [Notes](solutions/1068-product-sales-analysis-i/README.md) | `Database` |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | 🟡 **Medium** | [PY](solutions/1079-letter-tile-possibilities/solution.py) • [Notes](solutions/1079-letter-tile-possibilities/README.md) | `Hash Table`, `String`, `Backtracking` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡 **Medium** | [PY](solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.py) • [Notes](solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | `String`, `Stack`, `Bracket Sequences` |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | 🟢 **Easy** | [PY](solutions/1221-split-a-string-in-balanced-strings/solution.py) • [Notes](solutions/1221-split-a-string-in-balanced-strings/README.md) | `String`, `Greedy`, `Counting` |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | 🟡 **Medium** | [PY](solutions/1261-find-elements-in-a-contaminated-binary-tree/solution.py) • [Notes](solutions/1261-find-elements-in-a-contaminated-binary-tree/README.md) | `Hash Table`, `Tree`, `Depth-First Search` |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | 🟢 **Easy** | [PY](solutions/1266-minimum-time-visiting-all-points/solution.py) • [Notes](solutions/1266-minimum-time-visiting-all-points/README.md) | `Array`, `Math`, `Geometry` |
