@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `74 / 1000` (7.4%)
-- **🟢 Easy:** `59`
+- **Total Solved:** `75 / 1000` (7.5%)
+- **🟢 Easy:** `60`
 - **🟡 Medium:** `15`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:53:52 UTC`
+- **Last Updated:** `2026-10-05 07:54:11 UTC`
 
 ---
 
@@ -19,6 +19,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 **Easy** | [PY](solutions/0938-range-sum-of-bst/solution.py) • [Notes](solutions/0938-range-sum-of-bst/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 **Easy** | [PY](solutions/1021-remove-outermost-parentheses/solution.py) • [Notes](solutions/1021-remove-outermost-parentheses/README.md) | `String`, `Stack`, `Bracket Sequences` |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 **Medium** | [PY](solutions/1038-binary-search-tree-to-greater-sum-tree/solution.py) • [Notes](solutions/1038-binary-search-tree-to-greater-sum-tree/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | 🟢 **Easy** | [PY](solutions/1221-split-a-string-in-balanced-strings/solution.py) • [Notes](solutions/1221-split-a-string-in-balanced-strings/README.md) | `String`, `Greedy`, `Counting` |

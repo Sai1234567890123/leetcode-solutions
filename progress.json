@@ -951,5 +951,19 @@
       "Greedy"
     ],
     "solved_at": "2026-10-05T07:53:52.937764"
+  },
+  "1021": {
+    "id": "1021",
+    "title": "Remove Outermost Parentheses",
+    "slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1021-remove-outermost-parentheses",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "solved_at": "2026-10-05T07:54:11.713964"
   }
 }
