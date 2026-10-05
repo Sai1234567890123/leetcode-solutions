@@ -2551,5 +2551,20 @@
     "relative_dir": "solutions/2648-generate-fibonacci-sequence",
     "tags": [],
     "solved_at": "2026-10-05T08:49:55.240998"
+  },
+  "1079": {
+    "id": "1079",
+    "title": "Letter Tile Possibilities",
+    "slug": "letter-tile-possibilities",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1079-letter-tile-possibilities",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T08:50:29.877695"
   }
 }
