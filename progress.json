@@ -1985,5 +1985,19 @@
       "Geometry"
     ],
     "solved_at": "2026-10-05T08:33:27.541823"
+  },
+  "3688": {
+    "id": "3688",
+    "title": "Bitwise OR of Even Numbers in an Array",
+    "slug": "bitwise-or-of-even-numbers-in-an-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3688-bitwise-or-of-even-numbers-in-an-array",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:33:44.007528"
   }
 }
