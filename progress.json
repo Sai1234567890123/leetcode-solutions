@@ -2731,5 +2731,19 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T08:56:14.003070"
+  },
+  "1913": {
+    "id": "1913",
+    "title": "Maximum Product Difference Between Two Pairs",
+    "slug": "maximum-product-difference-between-two-pairs",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1913-maximum-product-difference-between-two-pairs",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ],
+    "solved_at": "2026-10-05T08:56:33.951767"
   }
 }
