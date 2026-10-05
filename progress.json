@@ -2333,5 +2333,22 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:42:43.624507"
+  },
+  "1261": {
+    "id": "1261",
+    "title": "Find Elements in a Contaminated Binary Tree",
+    "slug": "find-elements-in-a-contaminated-binary-tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1261-find-elements-in-a-contaminated-binary-tree",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:43:11.617626"
   }
 }
