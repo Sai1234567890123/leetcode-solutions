@@ -479,5 +479,18 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:41:41.062757"
+  },
+  "3658": {
+    "id": "3658",
+    "title": "GCD of Odd and Even Sums",
+    "slug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3658-gcd-of-odd-and-even-sums",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ],
+    "solved_at": "2026-10-05T07:42:00.638020"
   }
 }

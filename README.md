@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `38 / 1000` (3.8%)
-- **🟢 Easy:** `30`
+- **Total Solved:** `39 / 1000` (3.9%)
+- **🟢 Easy:** `31`
 - **🟡 Medium:** `8`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:41:41 UTC`
+- **Last Updated:** `2026-10-05 07:42:00 UTC`
 
 ---
 
@@ -47,6 +47,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 **Easy** | [PY](solutions/3289-the-two-sneaky-numbers-of-digitville/solution.py) • [Notes](solutions/3289-the-two-sneaky-numbers-of-digitville/README.md) | `Array`, `Hash Table`, `Math` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 **Easy** | [PY](solutions/3498-reverse-degree-of-a-string/solution.py) • [Notes](solutions/3498-reverse-degree-of-a-string/README.md) | `String`, `Simulation` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 **Easy** | [PY](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.py) • [Notes](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | `Array`, `Math` |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 **Easy** | [PY](solutions/3658-gcd-of-odd-and-even-sums/solution.py) • [Notes](solutions/3658-gcd-of-odd-and-even-sums/README.md) | `Math`, `Number Theory` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 **Easy** | [PY](solutions/3668-restore-finishing-order/solution.py) • [Notes](solutions/3668-restore-finishing-order/README.md) | `Array`, `Hash Table` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
