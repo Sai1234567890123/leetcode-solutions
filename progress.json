@@ -606,5 +606,19 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T07:44:43.976249"
+  },
+  "3211": {
+    "id": "3211",
+    "title": "Generate Binary Strings Without Adjacent Zeros",
+    "slug": "generate-binary-strings-without-adjacent-zeros",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3211-generate-binary-strings-without-adjacent-zeros",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T07:45:04.785302"
   }
 }

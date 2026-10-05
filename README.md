@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `48 / 1000` (4.8%)
+- **Total Solved:** `49 / 1000` (4.9%)
 - **🟢 Easy:** `39`
-- **🟡 Medium:** `9`
+- **🟡 Medium:** `10`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:44:43 UTC`
+- **Last Updated:** `2026-10-05 07:45:04 UTC`
 
 ---
 
@@ -49,6 +49,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 **Easy** | [PY](solutions/2942-find-words-containing-character/solution.py) • [Notes](solutions/2942-find-words-containing-character/README.md) | `Array`, `String` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 **Easy** | [PY](solutions/3110-score-of-a-string/solution.py) • [Notes](solutions/3110-score-of-a-string/README.md) | `String` |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 **Easy** | [PY](solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/solution.py) • [Notes](solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md) | `Array`, `Math` |
+| 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | 🟡 **Medium** | [PY](solutions/3211-generate-binary-strings-without-adjacent-zeros/solution.py) • [Notes](solutions/3211-generate-binary-strings-without-adjacent-zeros/README.md) | `String`, `Backtracking`, `Bit Manipulation` |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 **Easy** | [PY](solutions/3289-the-two-sneaky-numbers-of-digitville/solution.py) • [Notes](solutions/3289-the-two-sneaky-numbers-of-digitville/README.md) | `Array`, `Hash Table`, `Math` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 🟢 **Easy** | [PY](solutions/3300-minimum-element-after-replacement-with-digit-sum/solution.py) • [Notes](solutions/3300-minimum-element-after-replacement-with-digit-sum/README.md) | `Array`, `Math` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 **Easy** | [PY](solutions/3467-transform-array-by-parity/solution.py) • [Notes](solutions/3467-transform-array-by-parity/README.md) | `Array`, `Sorting`, `Counting` |
