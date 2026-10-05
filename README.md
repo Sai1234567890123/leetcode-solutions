@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `114 / 1000` (11.4%)
+- **Total Solved:** `115 / 1000` (11.5%)
 - **🟢 Easy:** `87`
-- **🟡 Medium:** `27`
+- **🟡 Medium:** `28`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:18:09 UTC`
+- **Last Updated:** `2026-10-05 08:18:28 UTC`
 
 ---
 
@@ -30,6 +30,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 **Medium** | [PY](solutions/1282-group-the-people-given-the-group-size-they-belong-to/solution.py) • [Notes](solutions/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | `Array`, `Hash Table`, `Greedy` |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | 🟡 **Medium** | [PY](solutions/1302-deepest-leaves-sum/solution.py) • [Notes](solutions/1302-deepest-leaves-sum/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | 🟢 **Easy** | [PY](solutions/1313-decompress-run-length-encoded-list/solution.py) • [Notes](solutions/1313-decompress-run-length-encoded-list/README.md) | `Array` |
+| 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | 🟡 **Medium** | [PY](solutions/1315-sum-of-nodes-with-even-valued-grandparent/solution.py) • [Notes](solutions/1315-sum-of-nodes-with-even-valued-grandparent/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 **Easy** | [PY](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/solution.py) • [Notes](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | `Array`, `Hash Table`, `Sorting` |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | 🟡 **Medium** | [PY](solutions/1382-balance-a-binary-search-tree/solution.py) • [Notes](solutions/1382-balance-a-binary-search-tree/README.md) | `Divide and Conquer`, `Greedy`, `Tree` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | 🟢 **Easy** | [PY](solutions/1389-create-target-array-in-the-given-order/solution.py) • [Notes](solutions/1389-create-target-array-in-the-given-order/README.md) | `Array`, `Simulation` |

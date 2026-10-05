@@ -1475,5 +1475,20 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T08:18:09.438378"
+  },
+  "1315": {
+    "id": "1315",
+    "title": "Sum of Nodes with Even-Valued Grandparent",
+    "slug": "sum-of-nodes-with-even-valued-grandparent",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1315-sum-of-nodes-with-even-valued-grandparent",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:18:28.753043"
   }
 }
