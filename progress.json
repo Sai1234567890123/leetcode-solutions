@@ -738,5 +738,20 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T07:47:57.370358"
+  },
+  "1038": {
+    "id": "1038",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "slug": "binary-search-tree-to-greater-sum-tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1038-binary-search-tree-to-greater-sum-tree",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T07:48:15.342931"
   }
 }
