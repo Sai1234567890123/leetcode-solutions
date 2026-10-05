@@ -2863,5 +2863,17 @@
       "Hamiltonian Path"
     ],
     "solved_at": "2026-10-05T13:44:08.923813+00:00"
+  },
+  "1844": {
+    "id": "1844",
+    "title": "Replace All Digits with Characters",
+    "slug": "replace-all-digits-with-characters",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1844-replace-all-digits-with-characters",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T13:44:31.088445+00:00"
   }
 }
