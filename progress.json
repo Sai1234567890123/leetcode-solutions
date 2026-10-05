@@ -1316,5 +1316,17 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T08:03:21.313506"
+  },
+  "1741": {
+    "id": "1741",
+    "title": "Find Total Time Spent by Each Employee",
+    "slug": "find-total-time-spent-by-each-employee",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1741-find-total-time-spent-by-each-employee",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:03:40.571894"
   }
 }
