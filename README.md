@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `86 / 1000` (8.6%)
+- **Total Solved:** `87 / 1000` (8.7%)
 - **🟢 Easy:** `69`
-- **🟡 Medium:** `17`
+- **🟡 Medium:** `18`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:57:56 UTC`
+- **Last Updated:** `2026-10-05 07:58:25 UTC`
 
 ---
 
@@ -95,6 +95,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 **Easy** | [PY](solutions/3668-restore-finishing-order/solution.py) • [Notes](solutions/3668-restore-finishing-order/README.md) | `Array`, `Hash Table` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 **Easy** | [PY](solutions/3701-compute-alternating-sum/solution.py) • [Notes](solutions/3701-compute-alternating-sum/README.md) | `Array`, `Simulation` |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 **Easy** | [PY](solutions/3731-find-missing-elements/solution.py) • [Notes](solutions/3731-find-missing-elements/README.md) | `Array`, `Hash Table`, `Sorting` |
+| 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | 🟡 **Medium** | [PY](solutions/3751-total-waviness-of-numbers-in-range-i/solution.py) • [Notes](solutions/3751-total-waviness-of-numbers-in-range-i/README.md) | `Math`, `Dynamic Programming`, `Enumeration` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | 🟢 **Easy** | [PY](solutions/3794-reverse-string-prefix/solution.py) • [Notes](solutions/3794-reverse-string-prefix/README.md) | `Two Pointers`, `String` |

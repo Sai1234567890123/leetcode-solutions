@@ -1108,5 +1108,19 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T07:57:56.319710"
+  },
+  "3751": {
+    "id": "3751",
+    "title": "Total Waviness of Numbers in Range I",
+    "slug": "total-waviness-of-numbers-in-range-i",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3751-total-waviness-of-numbers-in-range-i",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Enumeration"
+    ],
+    "solved_at": "2026-10-05T07:58:25.155566"
   }
 }
