@@ -1383,5 +1383,17 @@
       "Array"
     ],
     "solved_at": "2026-10-05T08:05:07.676258"
+  },
+  "1068": {
+    "id": "1068",
+    "title": "Product Sales Analysis I",
+    "slug": "product-sales-analysis-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1068-product-sales-analysis-i",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:05:27.154682"
   }
 }
