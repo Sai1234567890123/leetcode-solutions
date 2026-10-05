@@ -2054,5 +2054,18 @@
     "relative_dir": "solutions/2878-get-the-size-of-a-dataframe",
     "tags": [],
     "solved_at": "2026-10-05T08:35:19.330108"
+  },
+  "2956": {
+    "id": "2956",
+    "title": "Find Common Elements Between Two Arrays",
+    "slug": "find-common-elements-between-two-arrays",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2956-find-common-elements-between-two-arrays",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ],
+    "solved_at": "2026-10-05T08:35:39.359455"
   }
 }
