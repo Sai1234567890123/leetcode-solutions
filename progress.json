@@ -696,5 +696,21 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:46:58.443047"
+  },
+  "1684": {
+    "id": "1684",
+    "title": "Count the Number of Consistent Strings",
+    "slug": "count-the-number-of-consistent-strings",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1684-count-the-number-of-consistent-strings",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T07:47:18.988878"
   }
 }
