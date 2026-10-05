@@ -2579,5 +2579,21 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T08:50:58.497780"
+  },
+  "1979": {
+    "id": "1979",
+    "title": "Find Greatest Common Divisor of Array",
+    "slug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1979-find-greatest-common-divisor-of-array",
+    "tags": [
+      "Array",
+      "Math",
+      "Number Theory",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor"
+    ],
+    "solved_at": "2026-10-05T08:51:25.565648"
   }
 }
