@@ -670,5 +670,18 @@
       "Array"
     ],
     "solved_at": "2026-10-05T07:46:22.878427"
+  },
+  "3794": {
+    "id": "3794",
+    "title": "Reverse String Prefix",
+    "slug": "reverse-string-prefix",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3794-reverse-string-prefix",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:46:40.896108"
   }
 }

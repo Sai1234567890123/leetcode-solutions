@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `53 / 1000` (5.3%)
-- **🟢 Easy:** `42`
+- **Total Solved:** `54 / 1000` (5.4%)
+- **🟢 Easy:** `43`
 - **🟡 Medium:** `11`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:46:22 UTC`
+- **Last Updated:** `2026-10-05 07:46:40 UTC`
 
 ---
 
@@ -65,6 +65,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 **Easy** | [PY](solutions/3701-compute-alternating-sum/solution.py) • [Notes](solutions/3701-compute-alternating-sum/README.md) | `Array`, `Simulation` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
+| 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | 🟢 **Easy** | [PY](solutions/3794-reverse-string-prefix/solution.py) • [Notes](solutions/3794-reverse-string-prefix/README.md) | `Two Pointers`, `String` |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 **Easy** | [PY](solutions/3838-weighted-word-mapping/solution.py) • [Notes](solutions/3838-weighted-word-mapping/README.md) | `Array`, `String`, `Simulation` |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 **Easy** | [PY](solutions/3898-find-the-degree-of-each-vertex/solution.py) • [Notes](solutions/3898-find-the-degree-of-each-vertex/README.md) | `Array`, `Graph Theory`, `Matrix` |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 **Easy** | [PY](solutions/3925-concatenate-array-with-reverse/solution.py) • [Notes](solutions/3925-concatenate-array-with-reverse/README.md) | `Array`, `Simulation` |
