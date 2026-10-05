@@ -1174,5 +1174,20 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:59:42.338395"
+  },
+  "2415": {
+    "id": "2415",
+    "title": "Reverse Odd Levels of Binary Tree",
+    "slug": "reverse-odd-levels-of-binary-tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2415-reverse-odd-levels-of-binary-tree",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:00:07.074806"
   }
 }

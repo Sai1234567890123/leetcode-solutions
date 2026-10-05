@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `91 / 1000` (9.1%)
+- **Total Solved:** `92 / 1000` (9.2%)
 - **🟢 Easy:** `72`
-- **🟡 Medium:** `19`
+- **🟡 Medium:** `20`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:59:42 UTC`
+- **Last Updated:** `2026-10-05 08:00:07 UTC`
 
 ---
 
@@ -60,6 +60,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | 🟢 **Easy** | [PY](solutions/2373-largest-local-values-in-a-matrix/solution.py) • [Notes](solutions/2373-largest-local-values-in-a-matrix/README.md) | `Array`, `Matrix` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | 🟢 **Easy** | [PY](solutions/2413-smallest-even-multiple/solution.py) • [Notes](solutions/2413-smallest-even-multiple/README.md) | `Math`, `Number Theory` |
+| 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 **Medium** | [PY](solutions/2415-reverse-odd-levels-of-binary-tree/solution.py) • [Notes](solutions/2415-reverse-odd-levels-of-binary-tree/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | 🟡 **Medium** | [PY](solutions/2433-find-the-original-array-of-prefix-xor/solution.py) • [Notes](solutions/2433-find-the-original-array-of-prefix-xor/README.md) | `Array`, `Bit Manipulation` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 **Easy** | [PY](solutions/2574-left-and-right-sum-differences/solution.py) • [Notes](solutions/2574-left-and-right-sum-differences/README.md) | `Array`, `Prefix Sum` |
