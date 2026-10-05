@@ -1224,5 +1224,17 @@
       "Math"
     ],
     "solved_at": "2026-10-05T08:01:05.799944"
+  },
+  "3065": {
+    "id": "3065",
+    "title": "Minimum Operations to Exceed Threshold Value I",
+    "slug": "minimum-operations-to-exceed-threshold-value-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3065-minimum-operations-to-exceed-threshold-value-i",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T08:01:22.002738"
   }
 }
