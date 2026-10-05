@@ -842,5 +842,17 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T07:50:37.326885"
+  },
+  "2798": {
+    "id": "2798",
+    "title": "Number of Employees Who Met the Target",
+    "slug": "number-of-employees-who-met-the-target",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2798-number-of-employees-who-met-the-target",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T07:50:53.463120"
   }
 }
