@@ -2770,5 +2770,18 @@
       "String"
     ],
     "solved_at": "2026-10-05T12:22:28.695488"
+  },
+  "1967": {
+    "id": "1967",
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "slug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1967-number-of-strings-that-appear-as-substrings-in-word",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T12:26:00.033761+00:00"
   }
 }
