@@ -1766,5 +1766,17 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:26:07.553080"
+  },
+  "3475": {
+    "id": "3475",
+    "title": "DNA Pattern Recognition ",
+    "slug": "dna-pattern-recognition",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3475-dna-pattern-recognition",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:26:35.461366"
   }
 }
