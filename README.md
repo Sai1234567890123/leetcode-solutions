@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `190 / 1000` (19.0%)
+- **Total Solved:** `191 / 1000` (19.1%)
 - **🟢 Easy:** `141`
-- **🟡 Medium:** `49`
+- **🟡 Medium:** `50`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:47:58 UTC`
+- **Last Updated:** `2026-10-05 08:48:29 UTC`
 
 ---
 
@@ -70,6 +70,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 **Easy** | [PY](solutions/1588-sum-of-all-odd-length-subarrays/solution.py) • [Notes](solutions/1588-sum-of-all-odd-length-subarrays/README.md) | `Array`, `Math`, `Prefix Sum` |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | 🟢 **Easy** | [PY](solutions/1603-design-parking-system/solution.py) • [Notes](solutions/1603-design-parking-system/README.md) | `Design`, `Simulation`, `Counting` |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 **Easy** | [PY](solutions/1614-maximum-nesting-depth-of-the-parentheses/solution.py) • [Notes](solutions/1614-maximum-nesting-depth-of-the-parentheses/README.md) | `String`, `Stack`, `Bracket Sequences` |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | 🟡 **Medium** | [PY](solutions/1630-arithmetic-subarrays/solution.py) • [Notes](solutions/1630-arithmetic-subarrays/README.md) | `Array`, `Hash Table`, `Sorting` |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | 🟢 **Easy** | [PY](solutions/1637-widest-vertical-area-between-two-points-containing-no-points/solution.py) • [Notes](solutions/1637-widest-vertical-area-between-two-points-containing-no-points/README.md) | `Array`, `Sorting` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 **Easy** | [PY](solutions/1672-richest-customer-wealth/solution.py) • [Notes](solutions/1672-richest-customer-wealth/README.md) | `Array`, `Matrix` |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | 🟢 **Easy** | [PY](solutions/1678-goal-parser-interpretation/solution.py) • [Notes](solutions/1678-goal-parser-interpretation/README.md) | `String` |

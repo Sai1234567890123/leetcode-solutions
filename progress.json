@@ -2489,5 +2489,19 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:47:58.150869"
+  },
+  "1630": {
+    "id": "1630",
+    "title": "Arithmetic Subarrays",
+    "slug": "arithmetic-subarrays",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1630-arithmetic-subarrays",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T08:48:29.330546"
   }
 }
