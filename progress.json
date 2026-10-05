@@ -2663,5 +2663,17 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:53:53.393630"
+  },
+  "1669": {
+    "id": "1669",
+    "title": "Merge In Between Linked Lists",
+    "slug": "merge-in-between-linked-lists",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1669-merge-in-between-linked-lists",
+    "tags": [
+      "Linked List"
+    ],
+    "solved_at": "2026-10-05T08:54:16.255191"
   }
 }
