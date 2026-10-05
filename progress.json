@@ -1328,5 +1328,19 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:03:40.571894"
+  },
+  "807": {
+    "id": "807",
+    "title": "Max Increase to Keep City Skyline",
+    "slug": "max-increase-to-keep-city-skyline",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/0807-max-increase-to-keep-city-skyline",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T08:04:03.985337"
   }
 }
