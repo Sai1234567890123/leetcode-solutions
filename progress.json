@@ -1928,5 +1928,18 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:31:49.411665"
+  },
+  "3314": {
+    "id": "3314",
+    "title": "Construct the Minimum Bitwise Array I",
+    "slug": "construct-the-minimum-bitwise-array-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3314-construct-the-minimum-bitwise-array-i",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T08:32:20.141604"
   }
 }
