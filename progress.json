@@ -658,5 +658,17 @@
       "Database"
     ],
     "solved_at": "2026-10-05T07:45:58.404431"
+  },
+  "1470": {
+    "id": "1470",
+    "title": "Shuffle the Array",
+    "slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1470-shuffle-the-array",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T07:46:22.878427"
   }
 }
