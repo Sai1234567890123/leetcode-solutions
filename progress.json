@@ -93,5 +93,15 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:21:55.220154"
+  },
+  "2723": {
+    "id": "2723",
+    "title": "Add Two Promises",
+    "slug": "add-two-promises",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2723-add-two-promises",
+    "tags": [],
+    "solved_at": "2026-10-05T07:22:32.457222"
   }
 }
