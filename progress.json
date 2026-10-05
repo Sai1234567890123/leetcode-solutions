@@ -1395,5 +1395,22 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:05:27.154682"
+  },
+  "1382": {
+    "id": "1382",
+    "title": "Balance a Binary Search Tree",
+    "slug": "balance-a-binary-search-tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1382-balance-a-binary-search-tree",
+    "tags": [
+      "Divide and Conquer",
+      "Greedy",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:05:49.694294"
   }
 }

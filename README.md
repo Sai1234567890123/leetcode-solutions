@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `108 / 1000` (10.8%)
+- **Total Solved:** `109 / 1000` (10.9%)
 - **🟢 Easy:** `84`
-- **🟡 Medium:** `24`
+- **🟡 Medium:** `25`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:05:27 UTC`
+- **Last Updated:** `2026-10-05 08:05:49 UTC`
 
 ---
 
@@ -31,6 +31,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | 🟡 **Medium** | [PY](solutions/1302-deepest-leaves-sum/solution.py) • [Notes](solutions/1302-deepest-leaves-sum/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | 🟢 **Easy** | [PY](solutions/1313-decompress-run-length-encoded-list/solution.py) • [Notes](solutions/1313-decompress-run-length-encoded-list/README.md) | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 **Easy** | [PY](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/solution.py) • [Notes](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | `Array`, `Hash Table`, `Sorting` |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | 🟡 **Medium** | [PY](solutions/1382-balance-a-binary-search-tree/solution.py) • [Notes](solutions/1382-balance-a-binary-search-tree/README.md) | `Divide and Conquer`, `Greedy`, `Tree` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | 🟢 **Easy** | [PY](solutions/1389-create-target-array-in-the-given-order/solution.py) • [Notes](solutions/1389-create-target-array-in-the-given-order/README.md) | `Array`, `Simulation` |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 **Medium** | [PY](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.py) • [Notes](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | `String`, `Backtracking` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
