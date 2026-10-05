@@ -2350,5 +2350,17 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:43:11.617626"
+  },
+  "2194": {
+    "id": "2194",
+    "title": "Cells in a Range on an Excel Sheet",
+    "slug": "cells-in-a-range-on-an-excel-sheet",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2194-cells-in-a-range-on-an-excel-sheet",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:43:31.729753"
   }
 }
