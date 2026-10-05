@@ -646,5 +646,17 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T07:45:42.102414"
+  },
+  "1757": {
+    "id": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "slug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1757-recyclable-and-low-fat-products",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T07:45:58.404431"
   }
 }
