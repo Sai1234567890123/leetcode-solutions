@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `93 / 1000` (9.3%)
-- **🟢 Easy:** `73`
+- **Total Solved:** `94 / 1000` (9.4%)
+- **🟢 Easy:** `74`
 - **🟡 Medium:** `20`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:00:27 UTC`
+- **Last Updated:** `2026-10-05 08:00:46 UTC`
 
 ---
 
@@ -69,6 +69,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2627 | [Debounce](https://leetcode.com/problems/debounce/) | 🟡 **Medium** | [PY](solutions/2627-debounce/solution.py) • [Notes](solutions/2627-debounce/README.md) |  |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | 🟢 **Easy** | [PY](solutions/2629-function-composition/solution.py) • [Notes](solutions/2629-function-composition/README.md) |  |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 **Medium** | [PY](solutions/2657-find-the-prefix-common-array-of-two-arrays/solution.py) • [Notes](solutions/2657-find-the-prefix-common-array-of-two-arrays/README.md) | `Array`, `Hash Table`, `Bit Manipulation` |
+| 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | 🟢 **Easy** | [PY](solutions/2666-allow-one-function-call/solution.py) • [Notes](solutions/2666-allow-one-function-call/README.md) |  |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | 🟢 **Easy** | [PY](solutions/2695-array-wrapper/solution.py) • [Notes](solutions/2695-array-wrapper/README.md) |  |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 **Easy** | [PY](solutions/2703-return-length-of-arguments-passed/solution.py) • [Notes](solutions/2703-return-length-of-arguments-passed/README.md) |  |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | 🟢 **Easy** | [PY](solutions/2715-timeout-cancellation/solution.py) • [Notes](solutions/2715-timeout-cancellation/README.md) |  |

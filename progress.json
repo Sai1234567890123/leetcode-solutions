@@ -1202,5 +1202,15 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:00:27.053003"
+  },
+  "2666": {
+    "id": "2666",
+    "title": "Allow One Function Call",
+    "slug": "allow-one-function-call",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2666-allow-one-function-call",
+    "tags": [],
+    "solved_at": "2026-10-05T08:00:46.442197"
   }
 }
