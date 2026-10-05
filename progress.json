@@ -2503,5 +2503,19 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T08:48:29.330546"
+  },
+  "3069": {
+    "id": "3069",
+    "title": "Distribute Elements Into Two Arrays I",
+    "slug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3069-distribute-elements-into-two-arrays-i",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:48:51.175181"
   }
 }
