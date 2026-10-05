@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `124 / 1000` (12.4%)
-- **🟢 Easy:** `94`
+- **Total Solved:** `125 / 1000` (12.5%)
+- **🟢 Easy:** `95`
 - **🟡 Medium:** `30`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:21:56 UTC`
+- **Last Updated:** `2026-10-05 08:22:23 UTC`
 
 ---
 
@@ -77,6 +77,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 **Medium** | [PY](solutions/2265-count-nodes-equal-to-average-of-subtree/solution.py) • [Notes](solutions/2265-count-nodes-equal-to-average-of-subtree/README.md) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | 🟢 **Easy** | [PY](solutions/2325-decode-the-message/solution.py) • [Notes](solutions/2325-decode-the-message/README.md) | `Hash Table`, `String` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 **Easy** | [PY](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/solution.py) • [Notes](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | `Database` |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | 🟢 **Easy** | [PY](solutions/2367-number-of-arithmetic-triplets/solution.py) • [Notes](solutions/2367-number-of-arithmetic-triplets/README.md) | `Array`, `Hash Table`, `Two Pointers` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | 🟢 **Easy** | [PY](solutions/2373-largest-local-values-in-a-matrix/solution.py) • [Notes](solutions/2373-largest-local-values-in-a-matrix/README.md) | `Array`, `Matrix` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | 🟢 **Easy** | [PY](solutions/2413-smallest-even-multiple/solution.py) • [Notes](solutions/2413-smallest-even-multiple/README.md) | `Math`, `Number Theory` |

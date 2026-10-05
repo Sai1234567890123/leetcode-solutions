@@ -1611,5 +1611,20 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:21:56.544281"
+  },
+  "2367": {
+    "id": "2367",
+    "title": "Number of Arithmetic Triplets",
+    "slug": "number-of-arithmetic-triplets",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2367-number-of-arithmetic-triplets",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Enumeration"
+    ],
+    "solved_at": "2026-10-05T08:22:23.566454"
   }
 }
