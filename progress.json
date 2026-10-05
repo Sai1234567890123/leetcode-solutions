@@ -177,5 +177,17 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:27:18.902207"
+  },
+  "3783": {
+    "id": "3783",
+    "title": "Mirror Distance of an Integer",
+    "slug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3783-mirror-distance-of-an-integer",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:28:04.251778"
   }
 }
