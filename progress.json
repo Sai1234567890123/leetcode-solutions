@@ -140,5 +140,17 @@
       "Number Theory"
     ],
     "solved_at": "2026-10-05T07:25:17.490558"
+  },
+  "3110": {
+    "id": "3110",
+    "title": "Score of a String",
+    "slug": "score-of-a-string",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3110-score-of-a-string",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:25:51.998363"
   }
 }

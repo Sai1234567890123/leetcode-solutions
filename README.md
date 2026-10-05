@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `12 / 1000` (1.2%)
-- **🟢 Easy:** `9`
+- **Total Solved:** `13 / 1000` (1.3%)
+- **🟢 Easy:** `10`
 - **🟡 Medium:** `3`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:25:17 UTC`
+- **Last Updated:** `2026-10-05 07:25:52 UTC`
 
 ---
 
@@ -24,6 +24,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | 🟢 **Easy** | [PY](solutions/2879-display-the-first-three-rows/solution.py) • [Notes](solutions/2879-display-the-first-three-rows/README.md) |  |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 **Easy** | [PY](solutions/2884-modify-columns/solution.py) • [Notes](solutions/2884-modify-columns/README.md) |  |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 **Easy** | [PY](solutions/3110-score-of-a-string/solution.py) • [Notes](solutions/3110-score-of-a-string/README.md) | `String` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 **Easy** | [PY](solutions/3498-reverse-degree-of-a-string/solution.py) • [Notes](solutions/3498-reverse-degree-of-a-string/README.md) | `String`, `Simulation` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 **Easy** | [PY](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.py) • [Notes](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | `Array`, `Math` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
