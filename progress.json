@@ -990,5 +990,15 @@
     "relative_dir": "solutions/2886-change-data-type",
     "tags": [],
     "solved_at": "2026-10-05T07:54:51.040626"
+  },
+  "2621": {
+    "id": "2621",
+    "title": "Sleep",
+    "slug": "sleep",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2621-sleep",
+    "tags": [],
+    "solved_at": "2026-10-05T07:55:08.395588"
   }
 }
