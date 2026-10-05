@@ -103,5 +103,15 @@
     "relative_dir": "solutions/2723-add-two-promises",
     "tags": [],
     "solved_at": "2026-10-05T07:22:32.457222"
+  },
+  "2627": {
+    "id": "2627",
+    "title": "Debounce",
+    "slug": "debounce",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2627-debounce",
+    "tags": [],
+    "solved_at": "2026-10-05T07:23:14.987122"
   }
 }
