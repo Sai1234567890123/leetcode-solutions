@@ -829,5 +829,18 @@
       "Array"
     ],
     "solved_at": "2026-10-05T07:50:13.478648"
+  },
+  "1486": {
+    "id": "1486",
+    "title": "XOR Operation in an Array",
+    "slug": "xor-operation-in-an-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1486-xor-operation-in-an-array",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T07:50:37.326885"
   }
 }

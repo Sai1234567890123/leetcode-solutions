@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `65 / 1000` (6.5%)
-- **🟢 Easy:** `51`
+- **Total Solved:** `66 / 1000` (6.6%)
+- **🟢 Easy:** `52`
 - **🟡 Medium:** `14`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:50:13 UTC`
+- **Last Updated:** `2026-10-05 07:50:37 UTC`
 
 ---
 
@@ -22,6 +22,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 **Easy** | [PY](solutions/1470-shuffle-the-array/solution.py) • [Notes](solutions/1470-shuffle-the-array/README.md) | `Array` |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | 🟢 **Easy** | [PY](solutions/1486-xor-operation-in-an-array/solution.py) • [Notes](solutions/1486-xor-operation-in-an-array/README.md) | `Math`, `Bit Manipulation` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 **Easy** | [PY](solutions/1512-number-of-good-pairs/solution.py) • [Notes](solutions/1512-number-of-good-pairs/README.md) | `Array`, `Hash Table`, `Math` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 **Easy** | [PY](solutions/1672-richest-customer-wealth/solution.py) • [Notes](solutions/1672-richest-customer-wealth/README.md) | `Array`, `Matrix` |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | 🟢 **Easy** | [PY](solutions/1678-goal-parser-interpretation/solution.py) • [Notes](solutions/1678-goal-parser-interpretation/README.md) | `String` |
