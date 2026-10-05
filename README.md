@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `156 / 1000` (15.6%)
-- **🟢 Easy:** `118`
+- **Total Solved:** `157 / 1000` (15.7%)
+- **🟢 Easy:** `119`
 - **🟡 Medium:** `38`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:34:39 UTC`
+- **Last Updated:** `2026-10-05 08:34:58 UTC`
 
 ---
 
@@ -99,6 +99,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | 🟢 **Easy** | [PY](solutions/2413-smallest-even-multiple/solution.py) • [Notes](solutions/2413-smallest-even-multiple/README.md) | `Math`, `Number Theory` |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 **Medium** | [PY](solutions/2415-reverse-odd-levels-of-binary-tree/solution.py) • [Notes](solutions/2415-reverse-odd-levels-of-binary-tree/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | 🟢 **Easy** | [PY](solutions/2418-sort-the-people/solution.py) • [Notes](solutions/2418-sort-the-people/README.md) | `Array`, `Hash Table`, `String` |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | 🟡 **Medium** | [PY](solutions/2433-find-the-original-array-of-prefix-xor/solution.py) • [Notes](solutions/2433-find-the-original-array-of-prefix-xor/README.md) | `Array`, `Bit Manipulation` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | 🟢 **Easy** | [PY](solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array/solution.py) • [Notes](solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | `Array`, `Math` |

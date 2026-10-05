@@ -2029,5 +2029,20 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T08:34:39.501487"
+  },
+  "2418": {
+    "id": "2418",
+    "title": "Sort the People",
+    "slug": "sort-the-people",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2418-sort-the-people",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T08:34:58.881320"
   }
 }
