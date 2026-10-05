@@ -2900,5 +2900,17 @@
       "String"
     ],
     "solved_at": "2026-10-05T13:45:14.543138+00:00"
+  },
+  "3131": {
+    "id": "3131",
+    "title": "Find the Integer Added to Array I",
+    "slug": "find-the-integer-added-to-array-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3131-find-the-integer-added-to-array-i",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T13:45:33.991205+00:00"
   }
 }
