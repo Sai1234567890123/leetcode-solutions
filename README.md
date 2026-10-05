@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `187 / 1000` (18.7%)
-- **🟢 Easy:** `138`
+- **Total Solved:** `188 / 1000` (18.8%)
+- **🟢 Easy:** `139`
 - **🟡 Medium:** `49`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:45:31 UTC`
+- **Last Updated:** `2026-10-05 08:47:12 UTC`
 
 ---
 
@@ -104,6 +104,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 **Medium** | [PY](solutions/2149-rearrange-array-elements-by-sign/solution.py) • [Notes](solutions/2149-rearrange-array-elements-by-sign/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 **Easy** | [PY](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.py) • [Notes](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md) | `Math`, `Greedy`, `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | 🟢 **Easy** | [PY](solutions/2176-count-equal-and-divisible-pairs-in-an-array/solution.py) • [Notes](solutions/2176-count-equal-and-divisible-pairs-in-an-array/README.md) | `Array` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | 🟢 **Easy** | [PY](solutions/2185-counting-words-with-a-given-prefix/solution.py) • [Notes](solutions/2185-counting-words-with-a-given-prefix/README.md) | `Array`, `String`, `String Matching` |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | 🟢 **Easy** | [PY](solutions/2194-cells-in-a-range-on-an-excel-sheet/solution.py) • [Notes](solutions/2194-cells-in-a-range-on-an-excel-sheet/README.md) | `String` |

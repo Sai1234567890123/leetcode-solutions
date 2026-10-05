@@ -2450,5 +2450,17 @@
       "Directed Acyclic Graph"
     ],
     "solved_at": "2026-10-05T08:45:31.129409"
+  },
+  "2176": {
+    "id": "2176",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "slug": "count-equal-and-divisible-pairs-in-an-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2176-count-equal-and-divisible-pairs-in-an-array",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T08:47:12.838812"
   }
 }
