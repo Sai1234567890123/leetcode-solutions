@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `81 / 1000` (8.1%)
-- **🟢 Easy:** `66`
+- **Total Solved:** `82 / 1000` (8.2%)
+- **🟢 Easy:** `67`
 - **🟡 Medium:** `15`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:56:18 UTC`
+- **Last Updated:** `2026-10-05 07:56:36 UTC`
 
 ---
 
@@ -27,6 +27,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 **Easy** | [PY](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/solution.py) • [Notes](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | `Array`, `Hash Table`, `Sorting` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 **Easy** | [PY](solutions/1470-shuffle-the-array/solution.py) • [Notes](solutions/1470-shuffle-the-array/README.md) | `Array` |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 **Easy** | [PY](solutions/1480-running-sum-of-1d-array/solution.py) • [Notes](solutions/1480-running-sum-of-1d-array/README.md) | `Array`, `Prefix Sum` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | 🟢 **Easy** | [PY](solutions/1486-xor-operation-in-an-array/solution.py) • [Notes](solutions/1486-xor-operation-in-an-array/README.md) | `Math`, `Bit Manipulation` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 **Easy** | [PY](solutions/1512-number-of-good-pairs/solution.py) • [Notes](solutions/1512-number-of-good-pairs/README.md) | `Array`, `Hash Table`, `Math` |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | 🟢 **Easy** | [PY](solutions/1603-design-parking-system/solution.py) • [Notes](solutions/1603-design-parking-system/README.md) | `Design`, `Simulation`, `Counting` |

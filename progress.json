@@ -1042,5 +1042,18 @@
       "Counting Sort"
     ],
     "solved_at": "2026-10-05T07:56:18.006958"
+  },
+  "1480": {
+    "id": "1480",
+    "title": "Running Sum of 1d Array",
+    "slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1480-running-sum-of-1d-array",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T07:56:36.690834"
   }
 }
