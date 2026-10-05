@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `219 / 10` (2190.0%)
+- **Total Solved:** `220 / 10` (2200.0%)
 - **🟢 Easy:** `158`
-- **🟡 Medium:** `59`
+- **🟡 Medium:** `60`
 - **🔴 Hard:** `2`
-- **Last Updated:** `2026-10-05 13:44:31 UTC`
+- **Last Updated:** `2026-10-05 13:44:55 UTC`
 
 ---
 
@@ -71,6 +71,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 **Easy** | [PY](solutions/1512-number-of-good-pairs/solution.py) • [Notes](solutions/1512-number-of-good-pairs/README.md) | `Array`, `Hash Table`, `Math` |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | 🟢 **Easy** | [PY](solutions/1528-shuffle-string/solution.py) • [Notes](solutions/1528-shuffle-string/README.md) | `Array`, `String` |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | 🟢 **Easy** | [PY](solutions/1534-count-good-triplets/solution.py) • [Notes](solutions/1534-count-good-triplets/README.md) | `Array`, `Enumeration` |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | 🟡 **Medium** | [PY](solutions/1551-minimum-operations-to-make-array-equal/solution.py) • [Notes](solutions/1551-minimum-operations-to-make-array-equal/README.md) | `Math` |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | 🟡 **Medium** | [PY](solutions/1561-maximum-number-of-coins-you-can-get/solution.py) • [Notes](solutions/1561-maximum-number-of-coins-you-can-get/README.md) | `Array`, `Math`, `Greedy` |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 **Easy** | [PY](solutions/1572-matrix-diagonal-sum/solution.py) • [Notes](solutions/1572-matrix-diagonal-sum/README.md) | `Array`, `Matrix` |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | 🟢 **Easy** | [PY](solutions/1587-bank-account-summary-ii/solution.py) • [Notes](solutions/1587-bank-account-summary-ii/README.md) | `Database` |

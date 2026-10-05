@@ -2875,5 +2875,17 @@
       "String"
     ],
     "solved_at": "2026-10-05T13:44:31.088445+00:00"
+  },
+  "1551": {
+    "id": "1551",
+    "title": "Minimum Operations to Make Array Equal",
+    "slug": "minimum-operations-to-make-array-equal",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1551-minimum-operations-to-make-array-equal",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T13:44:55.947437+00:00"
   }
 }
