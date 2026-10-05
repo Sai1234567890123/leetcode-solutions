@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `63 / 1000` (6.3%)
-- **🟢 Easy:** `49`
+- **Total Solved:** `64 / 1000` (6.4%)
+- **🟢 Easy:** `50`
 - **🟡 Medium:** `14`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:49:39 UTC`
+- **Last Updated:** `2026-10-05 07:49:53 UTC`
 
 ---
 
@@ -36,6 +36,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | 🟢 **Easy** | [PY](solutions/2220-minimum-bit-flips-to-convert-number/solution.py) • [Notes](solutions/2220-minimum-bit-flips-to-convert-number/README.md) | `Bit Manipulation` |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 **Easy** | [PY](solutions/2235-add-two-integers/solution.py) • [Notes](solutions/2235-add-two-integers/README.md) | `Math` |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 **Medium** | [PY](solutions/2265-count-nodes-equal-to-average-of-subtree/solution.py) • [Notes](solutions/2265-count-nodes-equal-to-average-of-subtree/README.md) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 **Easy** | [PY](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/solution.py) • [Notes](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | `Database` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
