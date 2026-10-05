@@ -2566,5 +2566,18 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T08:50:29.877695"
+  },
+  "2785": {
+    "id": "2785",
+    "title": "Sort Vowels in a String",
+    "slug": "sort-vowels-in-a-string",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2785-sort-vowels-in-a-string",
+    "tags": [
+      "String",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T08:50:58.497780"
   }
 }

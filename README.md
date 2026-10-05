@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `196 / 1000` (19.6%)
+- **Total Solved:** `197 / 1000` (19.7%)
 - **🟢 Easy:** `145`
-- **🟡 Medium:** `51`
+- **🟡 Medium:** `52`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:50:29 UTC`
+- **Last Updated:** `2026-10-05 08:50:58 UTC`
 
 ---
 
@@ -153,6 +153,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | 🟢 **Easy** | [PY](solutions/2723-add-two-promises/solution.py) • [Notes](solutions/2723-add-two-promises/README.md) |  |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | 🟢 **Easy** | [PY](solutions/2725-interval-cancellation/solution.py) • [Notes](solutions/2725-interval-cancellation/README.md) |  |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 **Easy** | [PY](solutions/2769-find-the-maximum-achievable-number/solution.py) • [Notes](solutions/2769-find-the-maximum-achievable-number/README.md) | `Math` |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 **Medium** | [PY](solutions/2785-sort-vowels-in-a-string/solution.py) • [Notes](solutions/2785-sort-vowels-in-a-string/README.md) | `String`, `Sorting` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 **Easy** | [PY](solutions/2798-number-of-employees-who-met-the-target/solution.py) • [Notes](solutions/2798-number-of-employees-who-met-the-target/README.md) | `Array` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | 🟢 **Easy** | [PY](solutions/2824-count-pairs-whose-sum-is-less-than-target/solution.py) • [Notes](solutions/2824-count-pairs-whose-sum-is-less-than-target/README.md) | `Array`, `Two Pointers`, `Binary Search` |
