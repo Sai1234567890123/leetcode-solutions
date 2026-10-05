@@ -2044,5 +2044,15 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T08:34:58.881320"
+  },
+  "2878": {
+    "id": "2878",
+    "title": "Get the Size of a DataFrame",
+    "slug": "get-the-size-of-a-dataframe",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2878-get-the-size-of-a-dataframe",
+    "tags": [],
+    "solved_at": "2026-10-05T08:35:19.330108"
   }
 }
