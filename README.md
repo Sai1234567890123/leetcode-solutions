@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `68 / 1000` (6.8%)
-- **🟢 Easy:** `54`
+- **Total Solved:** `69 / 1000` (6.9%)
+- **🟢 Easy:** `55`
 - **🟡 Medium:** `14`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:51:18 UTC`
+- **Last Updated:** `2026-10-05 07:51:38 UTC`
 
 ---
 
@@ -56,6 +56,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 **Easy** | [PY](solutions/2769-find-the-maximum-achievable-number/solution.py) • [Notes](solutions/2769-find-the-maximum-achievable-number/README.md) | `Math` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 **Easy** | [PY](solutions/2798-number-of-employees-who-met-the-target/solution.py) • [Notes](solutions/2798-number-of-employees-who-met-the-target/README.md) | `Array` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | 🟢 **Easy** | [PY](solutions/2824-count-pairs-whose-sum-is-less-than-target/solution.py) • [Notes](solutions/2824-count-pairs-whose-sum-is-less-than-target/README.md) | `Array`, `Two Pointers`, `Binary Search` |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | 🟢 **Easy** | [PY](solutions/2879-display-the-first-three-rows/solution.py) • [Notes](solutions/2879-display-the-first-three-rows/README.md) |  |
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | 🟢 **Easy** | [PY](solutions/2881-create-a-new-column/solution.py) • [Notes](solutions/2881-create-a-new-column/README.md) |  |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 **Easy** | [PY](solutions/2884-modify-columns/solution.py) • [Notes](solutions/2884-modify-columns/README.md) |  |

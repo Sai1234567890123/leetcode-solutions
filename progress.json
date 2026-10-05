@@ -867,5 +867,20 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T07:51:18.039944"
+  },
+  "2824": {
+    "id": "2824",
+    "title": "Count Pairs Whose Sum is Less than Target",
+    "slug": "count-pairs-whose-sum-is-less-than-target",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2824-count-pairs-whose-sum-is-less-than-target",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T07:51:38.953188"
   }
 }
