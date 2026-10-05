@@ -2376,5 +2376,21 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:43:50.005704"
+  },
+  "832": {
+    "id": "832",
+    "title": "Flipping an Image",
+    "slug": "flipping-an-image",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0832-flipping-an-image",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Bit Manipulation",
+      "Matrix",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:44:16.039921"
   }
 }

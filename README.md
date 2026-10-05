@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `182 / 1000` (18.2%)
-- **🟢 Easy:** `136`
+- **Total Solved:** `183 / 1000` (18.3%)
+- **🟢 Easy:** `137`
 - **🟡 Medium:** `46`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:43:50 UTC`
+- **Last Updated:** `2026-10-05 08:44:16 UTC`
 
 ---
 
@@ -25,6 +25,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 **Easy** | [PY](solutions/0709-to-lower-case/solution.py) • [Notes](solutions/0709-to-lower-case/README.md) | `String` |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | 🟡 **Medium** | [PY](solutions/0807-max-increase-to-keep-city-skyline/solution.py) • [Notes](solutions/0807-max-increase-to-keep-city-skyline/README.md) | `Array`, `Greedy`, `Matrix` |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | 🟢 **Easy** | [PY](solutions/0832-flipping-an-image/solution.py) • [Notes](solutions/0832-flipping-an-image/README.md) | `Array`, `Two Pointers`, `Bit Manipulation` |
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | 🟡 **Medium** | [PY](solutions/0885-spiral-matrix-iii/solution.py) • [Notes](solutions/0885-spiral-matrix-iii/README.md) | `Array`, `Matrix`, `Simulation` |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 **Easy** | [PY](solutions/0938-range-sum-of-bst/solution.py) • [Notes](solutions/0938-range-sum-of-bst/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 **Medium** | [PY](solutions/1008-construct-binary-search-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | `Array`, `Stack`, `Tree` |
