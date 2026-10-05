@@ -2226,5 +2226,19 @@
       "Linked List"
     ],
     "solved_at": "2026-10-05T08:40:05.267565"
+  },
+  "2185": {
+    "id": "2185",
+    "title": "Counting Words With a Given Prefix",
+    "slug": "counting-words-with-a-given-prefix",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2185-counting-words-with-a-given-prefix",
+    "tags": [
+      "Array",
+      "String",
+      "String Matching"
+    ],
+    "solved_at": "2026-10-05T08:40:23.297593"
   }
 }

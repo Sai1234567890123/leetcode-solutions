@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `171 / 1000` (17.1%)
-- **🟢 Easy:** `126`
+- **Total Solved:** `172 / 1000` (17.2%)
+- **🟢 Easy:** `127`
 - **🟡 Medium:** `45`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:40:05 UTC`
+- **Last Updated:** `2026-10-05 08:40:23 UTC`
 
 ---
 
@@ -94,6 +94,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 **Easy** | [PY](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.py) • [Notes](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md) | `Math`, `Greedy`, `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
+| 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | 🟢 **Easy** | [PY](solutions/2185-counting-words-with-a-given-prefix/solution.py) • [Notes](solutions/2185-counting-words-with-a-given-prefix/README.md) | `Array`, `String`, `String Matching` |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | 🟢 **Easy** | [PY](solutions/2220-minimum-bit-flips-to-convert-number/solution.py) • [Notes](solutions/2220-minimum-bit-flips-to-convert-number/README.md) | `Bit Manipulation` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 **Easy** | [PY](solutions/2235-add-two-integers/solution.py) • [Notes](solutions/2235-add-two-integers/README.md) | `Math` |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | 🟢 **Easy** | [PY](solutions/2236-root-equals-sum-of-children/solution.py) • [Notes](solutions/2236-root-equals-sum-of-children/README.md) | `Tree`, `Binary Tree` |
