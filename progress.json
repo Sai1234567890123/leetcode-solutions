@@ -282,5 +282,19 @@
       "Greedy"
     ],
     "solved_at": "2026-10-05T07:33:01.649610"
+  },
+  "2396": {
+    "id": "2396",
+    "title": "Strictly Palindromic Number",
+    "slug": "strictly-palindromic-number",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2396-strictly-palindromic-number",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "Brainteaser"
+    ],
+    "solved_at": "2026-10-05T07:33:55.435455"
   }
 }
