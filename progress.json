@@ -882,5 +882,19 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T07:51:38.953188"
+  },
+  "1221": {
+    "id": "1221",
+    "title": "Split a String in Balanced Strings",
+    "slug": "split-a-string-in-balanced-strings",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1221-split-a-string-in-balanced-strings",
+    "tags": [
+      "String",
+      "Greedy",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T07:52:30.061307"
   }
 }
