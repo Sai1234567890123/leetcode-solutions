@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `175 / 1000` (17.5%)
-- **🟢 Easy:** `130`
+- **Total Solved:** `176 / 1000` (17.6%)
+- **🟢 Easy:** `131`
 - **🟡 Medium:** `45`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:41:20 UTC`
+- **Last Updated:** `2026-10-05 08:41:37 UTC`
 
 ---
 
@@ -191,3 +191,4 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 **Easy** | [PY](solutions/3898-find-the-degree-of-each-vertex/solution.py) • [Notes](solutions/3898-find-the-degree-of-each-vertex/README.md) | `Array`, `Graph Theory`, `Matrix` |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 **Easy** | [PY](solutions/3925-concatenate-array-with-reverse/solution.py) • [Notes](solutions/3925-concatenate-array-with-reverse/README.md) | `Array`, `Simulation` |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | 🟢 **Easy** | [PY](solutions/3945-digit-frequency-score/solution.py) • [Notes](solutions/3945-digit-frequency-score/README.md) | `Hash Table`, `Math` |
+| 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | 🟢 **Easy** | [PY](solutions/4020-elevator-requests-i/solution.py) • [Notes](solutions/4020-elevator-requests-i/README.md) | `Array`, `Simulation` |

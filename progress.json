@@ -2279,5 +2279,18 @@
       "Array"
     ],
     "solved_at": "2026-10-05T08:41:20.843677"
+  },
+  "4020": {
+    "id": "4020",
+    "title": "Elevator Requests I",
+    "slug": "elevator-requests-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/4020-elevator-requests-i",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:41:37.081526"
   }
 }
