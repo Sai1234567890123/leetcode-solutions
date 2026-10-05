@@ -2648,5 +2648,20 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T08:53:20.930988"
+  },
+  "1028": {
+    "id": "1028",
+    "title": "Recover a Tree From Preorder Traversal",
+    "slug": "recover-a-tree-from-preorder-traversal",
+    "difficulty": "Hard",
+    "language": "python3",
+    "relative_dir": "solutions/1028-recover-a-tree-from-preorder-traversal",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:53:53.393630"
   }
 }

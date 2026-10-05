@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `202 / 1000` (20.2%)
+- **Total Solved:** `203 / 1000` (20.3%)
 - **🟢 Easy:** `146`
 - **🟡 Medium:** `56`
-- **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:53:20 UTC`
+- **🔴 Hard:** `1`
+- **Last Updated:** `2026-10-05 08:53:53 UTC`
 
 ---
 
@@ -33,6 +33,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | 🟡 **Medium** | [PY](solutions/0950-reveal-cards-in-increasing-order/solution.py) • [Notes](solutions/0950-reveal-cards-in-increasing-order/README.md) | `Array`, `Queue`, `Sorting` |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 **Medium** | [PY](solutions/1008-construct-binary-search-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | `Array`, `Stack`, `Tree` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 **Easy** | [PY](solutions/1021-remove-outermost-parentheses/solution.py) • [Notes](solutions/1021-remove-outermost-parentheses/README.md) | `String`, `Stack`, `Bracket Sequences` |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | 🔴 **Hard** | [PY](solutions/1028-recover-a-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1028-recover-a-tree-from-preorder-traversal/README.md) | `String`, `Tree`, `Depth-First Search` |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 **Medium** | [PY](solutions/1038-binary-search-tree-to-greater-sum-tree/solution.py) • [Notes](solutions/1038-binary-search-tree-to-greater-sum-tree/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 **Easy** | [PY](solutions/1068-product-sales-analysis-i/solution.py) • [Notes](solutions/1068-product-sales-analysis-i/README.md) | `Database` |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | 🟡 **Medium** | [PY](solutions/1079-letter-tile-possibilities/solution.py) • [Notes](solutions/1079-letter-tile-possibilities/README.md) | `Hash Table`, `String`, `Backtracking` |
