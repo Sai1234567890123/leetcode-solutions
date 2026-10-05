@@ -515,5 +515,20 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:42:35.927378"
+  },
+  "2044": {
+    "id": "2044",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "slug": "count-number-of-maximum-bitwise-or-subsets",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2044-count-number-of-maximum-bitwise-or-subsets",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ],
+    "solved_at": "2026-10-05T07:42:57.611136"
   }
 }
