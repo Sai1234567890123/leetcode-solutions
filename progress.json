@@ -2013,5 +2013,21 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:34:04.074149"
+  },
+  "1442": {
+    "id": "1442",
+    "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+    "slug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1442-count-triplets-that-can-form-two-arrays-of-equal-xor",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:34:39.501487"
   }
 }

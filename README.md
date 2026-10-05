@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `155 / 1000` (15.5%)
+- **Total Solved:** `156 / 1000` (15.6%)
 - **🟢 Easy:** `118`
-- **🟡 Medium:** `37`
+- **🟡 Medium:** `38`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:34:04 UTC`
+- **Last Updated:** `2026-10-05 08:34:39 UTC`
 
 ---
 
@@ -43,6 +43,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | 🟡 **Medium** | [PY](solutions/1409-queries-on-a-permutation-with-key/solution.py) • [Notes](solutions/1409-queries-on-a-permutation-with-key/README.md) | `Array`, `Binary Indexed Tree`, `Simulation` |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 **Medium** | [PY](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.py) • [Notes](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | `String`, `Backtracking` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 🟡 **Medium** | [PY](solutions/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/solution.py) • [Notes](solutions/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/README.md) | `Array`, `Hash Table`, `Math` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | 🟢 **Easy** | [PY](solutions/1464-maximum-product-of-two-elements-in-an-array/solution.py) • [Notes](solutions/1464-maximum-product-of-two-elements-in-an-array/README.md) | `Array`, `Sorting`, `Heap (Priority Queue)` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 **Easy** | [PY](solutions/1470-shuffle-the-array/solution.py) • [Notes](solutions/1470-shuffle-the-array/README.md) | `Array` |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | 🟡 **Medium** | [PY](solutions/1476-subrectangle-queries/solution.py) • [Notes](solutions/1476-subrectangle-queries/README.md) | `Array`, `Design`, `Matrix` |
