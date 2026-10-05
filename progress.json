@@ -1189,5 +1189,18 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:00:07.074806"
+  },
+  "1389": {
+    "id": "1389",
+    "title": "Create Target Array in the Given Order",
+    "slug": "create-target-array-in-the-given-order",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1389-create-target-array-in-the-given-order",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:00:27.053003"
   }
 }
