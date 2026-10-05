@@ -1461,5 +1461,19 @@
       "Bracket Sequences"
     ],
     "solved_at": "2026-10-05T08:17:50.940980"
+  },
+  "2545": {
+    "id": "2545",
+    "title": "Sort the Students by Their Kth Score",
+    "slug": "sort-the-students-by-their-kth-score",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2545-sort-the-students-by-their-kth-score",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T08:18:09.438378"
   }
 }

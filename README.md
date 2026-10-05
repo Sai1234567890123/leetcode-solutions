@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `113 / 1000` (11.3%)
+- **Total Solved:** `114 / 1000` (11.4%)
 - **🟢 Easy:** `87`
-- **🟡 Medium:** `26`
+- **🟡 Medium:** `27`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:17:50 UTC`
+- **Last Updated:** `2026-10-05 08:18:09 UTC`
 
 ---
 
@@ -78,6 +78,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 **Medium** | [PY](solutions/2415-reverse-odd-levels-of-binary-tree/solution.py) • [Notes](solutions/2415-reverse-odd-levels-of-binary-tree/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | 🟡 **Medium** | [PY](solutions/2433-find-the-original-array-of-prefix-xor/solution.py) • [Notes](solutions/2433-find-the-original-array-of-prefix-xor/README.md) | `Array`, `Bit Manipulation` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
+| 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | 🟡 **Medium** | [PY](solutions/2545-sort-the-students-by-their-kth-score/solution.py) • [Notes](solutions/2545-sort-the-students-by-their-kth-score/README.md) | `Array`, `Sorting`, `Matrix` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 **Easy** | [PY](solutions/2574-left-and-right-sum-differences/solution.py) • [Notes](solutions/2574-left-and-right-sum-differences/README.md) | `Array`, `Prefix Sum` |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | 🟡 **Medium** | [PY](solutions/2610-convert-an-array-into-a-2d-array-with-conditions/solution.py) • [Notes](solutions/2610-convert-an-array-into-a-2d-array-with-conditions/README.md) | `Array`, `Hash Table` |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | 🟢 **Easy** | [PY](solutions/2621-sleep/solution.py) • [Notes](solutions/2621-sleep/README.md) |  |
