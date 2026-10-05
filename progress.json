@@ -896,5 +896,20 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T07:52:30.061307"
+  },
+  "938": {
+    "id": "938",
+    "title": "Range Sum of BST",
+    "slug": "range-sum-of-bst",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0938-range-sum-of-bst",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T07:52:55.528112"
   }
 }
