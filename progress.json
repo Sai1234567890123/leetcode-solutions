@@ -2111,5 +2111,19 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:37:03.231097"
+  },
+  "2482": {
+    "id": "2482",
+    "title": "Difference Between Ones and Zeros in Row and Column",
+    "slug": "difference-between-ones-and-zeros-in-row-and-column",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2482-difference-between-ones-and-zeros-in-row-and-column",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:37:25.176652"
   }
 }
