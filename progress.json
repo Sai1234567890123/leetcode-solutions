@@ -2125,5 +2125,18 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:37:25.176652"
+  },
+  "1732": {
+    "id": "1732",
+    "title": "Find the Highest Altitude",
+    "slug": "find-the-highest-altitude",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1732-find-the-highest-altitude",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:37:40.842178"
   }
 }
