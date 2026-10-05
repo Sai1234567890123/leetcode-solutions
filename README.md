@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `121 / 1000` (12.1%)
-- **🟢 Easy:** `91`
+- **Total Solved:** `122 / 1000` (12.2%)
+- **🟢 Easy:** `92`
 - **🟡 Medium:** `30`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:20:48 UTC`
+- **Last Updated:** `2026-10-05 08:21:08 UTC`
 
 ---
 
@@ -101,6 +101,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 **Easy** | [PY](solutions/2798-number-of-employees-who-met-the-target/solution.py) • [Notes](solutions/2798-number-of-employees-who-met-the-target/README.md) | `Array` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | 🟢 **Easy** | [PY](solutions/2824-count-pairs-whose-sum-is-less-than-target/solution.py) • [Notes](solutions/2824-count-pairs-whose-sum-is-less-than-target/README.md) | `Array`, `Two Pointers`, `Binary Search` |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | 🟢 **Easy** | [PY](solutions/2859-sum-of-values-at-indices-with-k-set-bits/solution.py) • [Notes](solutions/2859-sum-of-values-at-indices-with-k-set-bits/README.md) | `Array`, `Bit Manipulation` |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | 🟢 **Easy** | [PY](solutions/2879-display-the-first-three-rows/solution.py) • [Notes](solutions/2879-display-the-first-three-rows/README.md) |  |
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | 🟢 **Easy** | [PY](solutions/2881-create-a-new-column/solution.py) • [Notes](solutions/2881-create-a-new-column/README.md) |  |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 **Easy** | [PY](solutions/2884-modify-columns/solution.py) • [Notes](solutions/2884-modify-columns/README.md) |  |

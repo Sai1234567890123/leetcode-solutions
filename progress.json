@@ -1572,5 +1572,18 @@
       "Cartesian Tree"
     ],
     "solved_at": "2026-10-05T08:20:48.221169"
+  },
+  "2859": {
+    "id": "2859",
+    "title": "Sum of Values at Indices With K Set Bits",
+    "slug": "sum-of-values-at-indices-with-k-set-bits",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2859-sum-of-values-at-indices-with-k-set-bits",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T08:21:08.369882"
   }
 }
