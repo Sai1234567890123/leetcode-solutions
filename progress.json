@@ -357,5 +357,15 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:36:45.715911"
+  },
+  "2881": {
+    "id": "2881",
+    "title": "Create a New Column",
+    "slug": "create-a-new-column",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2881-create-a-new-column",
+    "tags": [],
+    "solved_at": "2026-10-05T07:37:13.152661"
   }
 }
