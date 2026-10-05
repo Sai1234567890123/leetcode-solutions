@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `200 / 1000` (20.0%)
+- **Total Solved:** `201 / 1000` (20.1%)
 - **🟢 Easy:** `146`
-- **🟡 Medium:** `54`
+- **🟡 Medium:** `55`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:52:24 UTC`
+- **Last Updated:** `2026-10-05 08:52:53 UTC`
 
 ---
 
@@ -106,6 +106,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | 🟢 **Easy** | [PY](solutions/2108-find-first-palindromic-string-in-the-array/solution.py) • [Notes](solutions/2108-find-first-palindromic-string-in-the-array/README.md) | `Array`, `Two Pointers`, `String` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | 🟢 **Easy** | [PY](solutions/2114-maximum-number-of-words-found-in-sentences/solution.py) • [Notes](solutions/2114-maximum-number-of-words-found-in-sentences/README.md) | `Array`, `String` |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | 🟡 **Medium** | [PY](solutions/2125-number-of-laser-beams-in-a-bank/solution.py) • [Notes](solutions/2125-number-of-laser-beams-in-a-bank/README.md) | `Array`, `Math`, `String` |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 **Medium** | [PY](solutions/2130-maximum-twin-sum-of-a-linked-list/solution.py) • [Notes](solutions/2130-maximum-twin-sum-of-a-linked-list/README.md) | `Linked List`, `Two Pointers`, `Stack` |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 **Medium** | [PY](solutions/2149-rearrange-array-elements-by-sign/solution.py) • [Notes](solutions/2149-rearrange-array-elements-by-sign/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 **Easy** | [PY](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.py) • [Notes](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md) | `Math`, `Greedy`, `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |

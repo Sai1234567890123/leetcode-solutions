@@ -2619,5 +2619,19 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T08:52:24.993515"
+  },
+  "2130": {
+    "id": "2130",
+    "title": "Maximum Twin Sum of a Linked List",
+    "slug": "maximum-twin-sum-of-a-linked-list",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2130-maximum-twin-sum-of-a-linked-list",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack"
+    ],
+    "solved_at": "2026-10-05T08:52:53.243994"
   }
 }
