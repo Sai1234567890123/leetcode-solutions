@@ -911,5 +911,18 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T07:52:55.528112"
+  },
+  "3146": {
+    "id": "3146",
+    "title": "Permutation Difference between Two Strings",
+    "slug": "permutation-difference-between-two-strings",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3146-permutation-difference-between-two-strings",
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:53:12.194751"
   }
 }

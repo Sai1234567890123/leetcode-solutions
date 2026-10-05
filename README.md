@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `71 / 1000` (7.1%)
-- **🟢 Easy:** `57`
+- **Total Solved:** `72 / 1000` (7.2%)
+- **🟢 Easy:** `58`
 - **🟡 Medium:** `14`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:52:55 UTC`
+- **Last Updated:** `2026-10-05 07:53:12 UTC`
 
 ---
 
@@ -66,6 +66,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 **Easy** | [PY](solutions/2894-divisible-and-non-divisible-sums-difference/solution.py) • [Notes](solutions/2894-divisible-and-non-divisible-sums-difference/README.md) | `Math` |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 **Easy** | [PY](solutions/2942-find-words-containing-character/solution.py) • [Notes](solutions/2942-find-words-containing-character/README.md) | `Array`, `String` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 **Easy** | [PY](solutions/3110-score-of-a-string/solution.py) • [Notes](solutions/3110-score-of-a-string/README.md) | `String` |
+| 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | 🟢 **Easy** | [PY](solutions/3146-permutation-difference-between-two-strings/solution.py) • [Notes](solutions/3146-permutation-difference-between-two-strings/README.md) | `Hash Table`, `String` |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 **Easy** | [PY](solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/solution.py) • [Notes](solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md) | `Array`, `Math` |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | 🟡 **Medium** | [PY](solutions/3211-generate-binary-strings-without-adjacent-zeros/solution.py) • [Notes](solutions/3211-generate-binary-strings-without-adjacent-zeros/README.md) | `String`, `Backtracking`, `Bit Manipulation` |
 | 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | 🟢 **Easy** | [PY](solutions/3280-convert-date-to-binary/solution.py) • [Notes](solutions/3280-convert-date-to-binary/README.md) | `Math`, `String` |
