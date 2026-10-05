@@ -1598,5 +1598,18 @@
       "Math"
     ],
     "solved_at": "2026-10-05T08:21:38.533425"
+  },
+  "2553": {
+    "id": "2553",
+    "title": "Separate the Digits in an Array",
+    "slug": "separate-the-digits-in-an-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2553-separate-the-digits-in-an-array",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:21:56.544281"
   }
 }
