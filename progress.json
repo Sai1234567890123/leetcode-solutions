@@ -1276,5 +1276,17 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:02:23.552806"
+  },
+  "3285": {
+    "id": "3285",
+    "title": "Find Indices of Stable Mountains",
+    "slug": "find-indices-of-stable-mountains",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3285-find-indices-of-stable-mountains",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T08:02:39.148624"
   }
 }
