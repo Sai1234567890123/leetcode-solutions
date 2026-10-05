@@ -2633,5 +2633,20 @@
       "Stack"
     ],
     "solved_at": "2026-10-05T08:52:53.243994"
+  },
+  "1877": {
+    "id": "1877",
+    "title": "Minimize Maximum Pair Sum in Array",
+    "slug": "minimize-maximum-pair-sum-in-array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1877-minimize-maximum-pair-sum-in-array",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T08:53:20.930988"
   }
 }
