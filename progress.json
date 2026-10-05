@@ -465,5 +465,19 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:41:18.162969"
+  },
+  "3289": {
+    "id": "3289",
+    "title": "The Two Sneaky Numbers of Digitville",
+    "slug": "the-two-sneaky-numbers-of-digitville",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3289-the-two-sneaky-numbers-of-digitville",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:41:41.062757"
   }
 }
