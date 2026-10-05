@@ -2462,5 +2462,18 @@
       "Array"
     ],
     "solved_at": "2026-10-05T08:47:12.838812"
+  },
+  "2485": {
+    "id": "2485",
+    "title": "Find the Pivot Integer",
+    "slug": "find-the-pivot-integer",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2485-find-the-pivot-integer",
+    "tags": [
+      "Math",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:47:35.878384"
   }
 }

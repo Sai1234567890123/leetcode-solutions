@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `188 / 1000` (18.8%)
-- **🟢 Easy:** `139`
+- **Total Solved:** `189 / 1000` (18.9%)
+- **🟢 Easy:** `140`
 - **🟡 Medium:** `49`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:47:12 UTC`
+- **Last Updated:** `2026-10-05 08:47:35 UTC`
 
 ---
 
@@ -126,6 +126,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | 🟡 **Medium** | [PY](solutions/2433-find-the-original-array-of-prefix-xor/solution.py) • [Notes](solutions/2433-find-the-original-array-of-prefix-xor/README.md) | `Array`, `Bit Manipulation` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | 🟡 **Medium** | [PY](solutions/2482-difference-between-ones-and-zeros-in-row-and-column/solution.py) • [Notes](solutions/2482-difference-between-ones-and-zeros-in-row-and-column/README.md) | `Array`, `Matrix`, `Simulation` |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 **Easy** | [PY](solutions/2485-find-the-pivot-integer/solution.py) • [Notes](solutions/2485-find-the-pivot-integer/README.md) | `Math`, `Prefix Sum` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | 🟢 **Easy** | [PY](solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array/solution.py) • [Notes](solutions/2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md) | `Array`, `Math` |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | 🟡 **Medium** | [PY](solutions/2545-sort-the-students-by-their-kth-score/solution.py) • [Notes](solutions/2545-sort-the-students-by-their-kth-score/README.md) | `Array`, `Sorting`, `Matrix` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 **Easy** | [PY](solutions/2553-separate-the-digits-in-an-array/solution.py) • [Notes](solutions/2553-separate-the-digits-in-an-array/README.md) | `Array`, `Simulation` |
