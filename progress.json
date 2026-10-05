@@ -2407,5 +2407,17 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:44:34.092743"
+  },
+  "1378": {
+    "id": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "slug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1378-replace-employee-id-with-the-unique-identifier",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:44:50.902501"
   }
 }
