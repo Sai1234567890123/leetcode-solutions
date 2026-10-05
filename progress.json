@@ -31,5 +31,15 @@
     "relative_dir": "solutions/2879-display-the-first-three-rows",
     "tags": [],
     "solved_at": "2026-10-05T07:18:32.154901"
+  },
+  "2884": {
+    "id": "2884",
+    "title": "Modify Columns",
+    "slug": "modify-columns",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2884-modify-columns",
+    "tags": [],
+    "solved_at": "2026-10-05T07:19:04.084037"
   }
 }
