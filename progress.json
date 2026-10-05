@@ -1955,5 +1955,21 @@
       "Heap (Priority Queue)"
     ],
     "solved_at": "2026-10-05T08:32:42.045433"
+  },
+  "1561": {
+    "id": "1561",
+    "title": "Maximum Number of Coins You Can Get",
+    "slug": "maximum-number-of-coins-you-can-get",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1561-maximum-number-of-coins-you-can-get",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Game Theory"
+    ],
+    "solved_at": "2026-10-05T08:33:09.400636"
   }
 }
