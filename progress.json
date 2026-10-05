@@ -781,5 +781,17 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T07:48:58.894621"
+  },
+  "1678": {
+    "id": "1678",
+    "title": "Goal Parser Interpretation",
+    "slug": "goal-parser-interpretation",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1678-goal-parser-interpretation",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:49:18.323299"
   }
 }
