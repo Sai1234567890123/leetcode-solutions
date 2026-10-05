@@ -2715,5 +2715,21 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:55:46.567025"
+  },
+  "3016": {
+    "id": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "slug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3016-minimum-number-of-pushes-to-type-word-ii",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T08:56:14.003070"
   }
 }

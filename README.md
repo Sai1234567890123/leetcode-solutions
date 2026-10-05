@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `207 / 1000` (20.7%)
+- **Total Solved:** `208 / 1000` (20.8%)
 - **🟢 Easy:** `149`
-- **🟡 Medium:** `57`
+- **🟡 Medium:** `58`
 - **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 08:55:46 UTC`
+- **Last Updated:** `2026-10-05 08:56:14 UTC`
 
 ---
 
@@ -182,6 +182,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | 🟢 **Easy** | [PY](solutions/2956-find-common-elements-between-two-arrays/solution.py) • [Notes](solutions/2956-find-common-elements-between-two-arrays/README.md) | `Array`, `Hash Table` |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | 🟢 **Easy** | [PY](solutions/2974-minimum-number-game/solution.py) • [Notes](solutions/2974-minimum-number-game/README.md) | `Array`, `Sorting`, `Heap (Priority Queue)` |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | 🟡 **Medium** | [PY](solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/solution.py) • [Notes](solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/README.md) | `Array`, `Bit Manipulation` |
+| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 **Medium** | [PY](solutions/3016-minimum-number-of-pushes-to-type-word-ii/solution.py) • [Notes](solutions/3016-minimum-number-of-pushes-to-type-word-ii/README.md) | `Hash Table`, `String`, `Greedy` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | 🟢 **Easy** | [PY](solutions/3065-minimum-operations-to-exceed-threshold-value-i/solution.py) • [Notes](solutions/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | `Array` |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 **Easy** | [PY](solutions/3069-distribute-elements-into-two-arrays-i/solution.py) • [Notes](solutions/3069-distribute-elements-into-two-arrays-i/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | 🟢 **Easy** | [PY](solutions/3099-harshad-number/solution.py) • [Notes](solutions/3099-harshad-number/README.md) | `Math` |
