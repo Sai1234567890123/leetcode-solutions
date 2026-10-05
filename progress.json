@@ -411,5 +411,20 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:39:56.915577"
+  },
+  "1512": {
+    "id": "1512",
+    "title": "Number of Good Pairs",
+    "slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1512-number-of-good-pairs",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T07:40:15.506752"
   }
 }
