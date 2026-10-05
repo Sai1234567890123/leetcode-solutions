@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `144 / 1000` (14.4%)
-- **🟢 Easy:** `111`
+- **Total Solved:** `145 / 1000` (14.5%)
+- **🟢 Easy:** `112`
 - **🟡 Medium:** `33`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:29:51 UTC`
+- **Last Updated:** `2026-10-05 08:30:10 UTC`
 
 ---
 
@@ -111,6 +111,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 **Easy** | [PY](solutions/2703-return-length-of-arguments-passed/solution.py) • [Notes](solutions/2703-return-length-of-arguments-passed/README.md) |  |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | 🟢 **Easy** | [PY](solutions/2715-timeout-cancellation/solution.py) • [Notes](solutions/2715-timeout-cancellation/README.md) |  |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | 🟢 **Easy** | [PY](solutions/2723-add-two-promises/solution.py) • [Notes](solutions/2723-add-two-promises/README.md) |  |
+| 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | 🟢 **Easy** | [PY](solutions/2725-interval-cancellation/solution.py) • [Notes](solutions/2725-interval-cancellation/README.md) |  |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 **Easy** | [PY](solutions/2769-find-the-maximum-achievable-number/solution.py) • [Notes](solutions/2769-find-the-maximum-achievable-number/README.md) | `Math` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 **Easy** | [PY](solutions/2798-number-of-employees-who-met-the-target/solution.py) • [Notes](solutions/2798-number-of-employees-who-met-the-target/README.md) | `Array` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |

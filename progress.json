@@ -1864,5 +1864,15 @@
     "relative_dir": "solutions/2882-drop-duplicate-rows",
     "tags": [],
     "solved_at": "2026-10-05T08:29:51.484369"
+  },
+  "2725": {
+    "id": "2725",
+    "title": "Interval Cancellation",
+    "slug": "interval-cancellation",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2725-interval-cancellation",
+    "tags": [],
+    "solved_at": "2026-10-05T08:30:10.223158"
   }
 }
