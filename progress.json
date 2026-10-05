@@ -1371,5 +1371,17 @@
       "Hash Function"
     ],
     "solved_at": "2026-10-05T08:04:46.396574"
+  },
+  "1313": {
+    "id": "1313",
+    "title": "Decompress Run-Length Encoded List",
+    "slug": "decompress-run-length-encoded-list",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1313-decompress-run-length-encoded-list",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T08:05:07.676258"
   }
 }

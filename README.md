@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `106 / 1000` (10.6%)
-- **🟢 Easy:** `82`
+- **Total Solved:** `107 / 1000` (10.7%)
+- **🟢 Easy:** `83`
 - **🟡 Medium:** `24`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:04:46 UTC`
+- **Last Updated:** `2026-10-05 08:05:07 UTC`
 
 ---
 
@@ -28,6 +28,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 **Easy** | [PY](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.py) • [Notes](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md) | `Math` |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 **Medium** | [PY](solutions/1282-group-the-people-given-the-group-size-they-belong-to/solution.py) • [Notes](solutions/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | `Array`, `Hash Table`, `Greedy` |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | 🟡 **Medium** | [PY](solutions/1302-deepest-leaves-sum/solution.py) • [Notes](solutions/1302-deepest-leaves-sum/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | 🟢 **Easy** | [PY](solutions/1313-decompress-run-length-encoded-list/solution.py) • [Notes](solutions/1313-decompress-run-length-encoded-list/README.md) | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 **Easy** | [PY](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/solution.py) • [Notes](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | `Array`, `Hash Table`, `Sorting` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | 🟢 **Easy** | [PY](solutions/1389-create-target-array-in-the-given-order/solution.py) • [Notes](solutions/1389-create-target-array-in-the-given-order/README.md) | `Array`, `Simulation` |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 **Medium** | [PY](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.py) • [Notes](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | `String`, `Backtracking` |
