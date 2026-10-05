@@ -229,5 +229,18 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:30:05.561981"
+  },
+  "3190": {
+    "id": "3190",
+    "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+    "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "tags": [
+      "Array",
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:30:53.210477"
   }
 }
