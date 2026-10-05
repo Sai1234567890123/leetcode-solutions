@@ -2757,5 +2757,18 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:56:58.085060"
+  },
+  "1662": {
+    "id": "1662",
+    "title": "Check If Two String Arrays are Equivalent",
+    "slug": "check-if-two-string-arrays-are-equivalent",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1662-check-if-two-string-arrays-are-equivalent",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T12:22:28.695488"
   }
 }
