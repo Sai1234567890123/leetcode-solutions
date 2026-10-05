@@ -2529,5 +2529,17 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:49:11.055884"
+  },
+  "3099": {
+    "id": "3099",
+    "title": "Harshad Number",
+    "slug": "harshad-number",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3099-harshad-number",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T08:49:36.658239"
   }
 }
