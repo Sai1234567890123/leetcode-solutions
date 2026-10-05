@@ -2702,5 +2702,18 @@
       "Enumeration"
     ],
     "solved_at": "2026-10-05T08:55:00.457828"
+  },
+  "2828": {
+    "id": "2828",
+    "title": "Check if a String Is an Acronym of Words",
+    "slug": "check-if-a-string-is-an-acronym-of-words",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2828-check-if-a-string-is-an-acronym-of-words",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:55:46.567025"
   }
 }

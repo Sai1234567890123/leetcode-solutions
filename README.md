@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `206 / 1000` (20.6%)
-- **🟢 Easy:** `148`
+- **Total Solved:** `207 / 1000` (20.7%)
+- **🟢 Easy:** `149`
 - **🟡 Medium:** `57`
 - **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 08:55:00 UTC`
+- **Last Updated:** `2026-10-05 08:55:46 UTC`
 
 ---
 
@@ -165,6 +165,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 **Easy** | [PY](solutions/2798-number-of-employees-who-met-the-target/solution.py) • [Notes](solutions/2798-number-of-employees-who-met-the-target/README.md) | `Array` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | 🟢 **Easy** | [PY](solutions/2824-count-pairs-whose-sum-is-less-than-target/solution.py) • [Notes](solutions/2824-count-pairs-whose-sum-is-less-than-target/README.md) | `Array`, `Two Pointers`, `Binary Search` |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | 🟢 **Easy** | [PY](solutions/2828-check-if-a-string-is-an-acronym-of-words/solution.py) • [Notes](solutions/2828-check-if-a-string-is-an-acronym-of-words/README.md) | `Array`, `String` |
 | 2843 | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | 🟢 **Easy** | [PY](solutions/2843-count-symmetric-integers/solution.py) • [Notes](solutions/2843-count-symmetric-integers/README.md) | `Math`, `Enumeration` |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | 🟢 **Easy** | [PY](solutions/2859-sum-of-values-at-indices-with-k-set-bits/solution.py) • [Notes](solutions/2859-sum-of-values-at-indices-with-k-set-bits/README.md) | `Array`, `Bit Manipulation` |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | 🟢 **Easy** | [PY](solutions/2878-get-the-size-of-a-dataframe/solution.py) • [Notes](solutions/2878-get-the-size-of-a-dataframe/README.md) |  |
