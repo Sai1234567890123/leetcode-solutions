@@ -1706,5 +1706,20 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T08:24:28.191819"
+  },
+  "2375": {
+    "id": "2375",
+    "title": "Construct Smallest Number From DI String",
+    "slug": "construct-smallest-number-from-di-string",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2375-construct-smallest-number-from-di-string",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Stack",
+      "Greedy"
+    ],
+    "solved_at": "2026-10-05T08:24:49.641581"
   }
 }
