@@ -937,5 +937,19 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T07:53:34.603919"
+  },
+  "1282": {
+    "id": "1282",
+    "title": "Group the People Given the Group Size They Belong To",
+    "slug": "group-the-people-given-the-group-size-they-belong-to",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1282-group-the-people-given-the-group-size-they-belong-to",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy"
+    ],
+    "solved_at": "2026-10-05T07:53:52.937764"
   }
 }

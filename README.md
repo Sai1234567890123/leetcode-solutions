@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `73 / 1000` (7.3%)
+- **Total Solved:** `74 / 1000` (7.4%)
 - **🟢 Easy:** `59`
-- **🟡 Medium:** `14`
+- **🟡 Medium:** `15`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:53:34 UTC`
+- **Last Updated:** `2026-10-05 07:53:52 UTC`
 
 ---
 
@@ -22,6 +22,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 **Medium** | [PY](solutions/1038-binary-search-tree-to-greater-sum-tree/solution.py) • [Notes](solutions/1038-binary-search-tree-to-greater-sum-tree/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | 🟢 **Easy** | [PY](solutions/1221-split-a-string-in-balanced-strings/solution.py) • [Notes](solutions/1221-split-a-string-in-balanced-strings/README.md) | `String`, `Greedy`, `Counting` |
+| 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 **Medium** | [PY](solutions/1282-group-the-people-given-the-group-size-they-belong-to/solution.py) • [Notes](solutions/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | `Array`, `Hash Table`, `Greedy` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 **Easy** | [PY](solutions/1470-shuffle-the-array/solution.py) • [Notes](solutions/1470-shuffle-the-array/README.md) | `Array` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | 🟢 **Easy** | [PY](solutions/1486-xor-operation-in-an-array/solution.py) • [Notes](solutions/1486-xor-operation-in-an-array/README.md) | `Math`, `Bit Manipulation` |
