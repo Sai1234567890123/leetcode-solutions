@@ -332,5 +332,18 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:35:40.104855"
+  },
+  "2942": {
+    "id": "2942",
+    "title": "Find Words Containing Character",
+    "slug": "find-words-containing-character",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2942-find-words-containing-character",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:36:12.839213"
   }
 }
