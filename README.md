@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `36 / 1000` (3.6%)
-- **🟢 Easy:** `28`
+- **Total Solved:** `37 / 1000` (3.7%)
+- **🟢 Easy:** `29`
 - **🟡 Medium:** `8`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:41:01 UTC`
+- **Last Updated:** `2026-10-05 07:41:18 UTC`
 
 ---
 
@@ -17,6 +17,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | # | Title | Difficulty | Solution | Topics |
 |---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 **Easy** | [PY](solutions/1512-number-of-good-pairs/solution.py) • [Notes](solutions/1512-number-of-good-pairs/README.md) | `Array`, `Hash Table`, `Math` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 **Medium** | [PY](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) • [Notes](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md) | `String`, `Greedy` |

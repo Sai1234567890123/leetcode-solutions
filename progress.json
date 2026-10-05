@@ -452,5 +452,18 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:41:01.220786"
+  },
+  "771": {
+    "id": "771",
+    "title": "Jewels and Stones",
+    "slug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0771-jewels-and-stones",
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:41:18.162969"
   }
 }
