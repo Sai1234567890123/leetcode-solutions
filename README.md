@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `185 / 1000` (18.5%)
+- **Total Solved:** `186 / 1000` (18.6%)
 - **🟢 Easy:** `138`
-- **🟡 Medium:** `47`
+- **🟡 Medium:** `48`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:44:50 UTC`
+- **Last Updated:** `2026-10-05 08:45:10 UTC`
 
 ---
 
@@ -28,6 +28,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | 🟢 **Easy** | [PY](solutions/0832-flipping-an-image/solution.py) • [Notes](solutions/0832-flipping-an-image/README.md) | `Array`, `Two Pointers`, `Bit Manipulation` |
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | 🟡 **Medium** | [PY](solutions/0885-spiral-matrix-iii/solution.py) • [Notes](solutions/0885-spiral-matrix-iii/README.md) | `Array`, `Matrix`, `Simulation` |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 **Easy** | [PY](solutions/0938-range-sum-of-bst/solution.py) • [Notes](solutions/0938-range-sum-of-bst/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | 🟡 **Medium** | [PY](solutions/0950-reveal-cards-in-increasing-order/solution.py) • [Notes](solutions/0950-reveal-cards-in-increasing-order/README.md) | `Array`, `Queue`, `Sorting` |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 **Medium** | [PY](solutions/1008-construct-binary-search-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | `Array`, `Stack`, `Tree` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 **Easy** | [PY](solutions/1021-remove-outermost-parentheses/solution.py) • [Notes](solutions/1021-remove-outermost-parentheses/README.md) | `String`, `Stack`, `Bracket Sequences` |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 **Medium** | [PY](solutions/1038-binary-search-tree-to-greater-sum-tree/solution.py) • [Notes](solutions/1038-binary-search-tree-to-greater-sum-tree/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
