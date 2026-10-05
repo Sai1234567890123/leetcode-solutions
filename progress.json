@@ -544,5 +544,17 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T07:43:15.934481"
+  },
+  "2356": {
+    "id": "2356",
+    "title": "Number of Unique Subjects Taught by Each Teacher",
+    "slug": "number-of-unique-subjects-taught-by-each-teacher",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2356-number-of-unique-subjects-taught-by-each-teacher",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T07:43:32.056856"
   }
 }
