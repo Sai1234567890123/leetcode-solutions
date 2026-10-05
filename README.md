@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `170 / 1000` (17.0%)
+- **Total Solved:** `171 / 1000` (17.1%)
 - **🟢 Easy:** `126`
-- **🟡 Medium:** `44`
+- **🟡 Medium:** `45`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:39:48 UTC`
+- **Last Updated:** `2026-10-05 08:40:05 UTC`
 
 ---
 
@@ -17,6 +17,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | # | Title | Difficulty | Solution | Topics |
 |---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 **Medium** | [PY](solutions/0237-delete-node-in-a-linked-list/solution.py) • [Notes](solutions/0237-delete-node-in-a-linked-list/README.md) | `Linked List` |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | 🟡 **Medium** | [PY](solutions/0535-encode-and-decode-tinyurl/solution.py) • [Notes](solutions/0535-encode-and-decode-tinyurl/README.md) | `Hash Table`, `String`, `Design` |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 **Easy** | [PY](solutions/0627-swap-sex-of-employees/solution.py) • [Notes](solutions/0627-swap-sex-of-employees/README.md) | `Database` |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 🟡 **Medium** | [PY](solutions/0654-maximum-binary-tree/solution.py) • [Notes](solutions/0654-maximum-binary-tree/README.md) | `Array`, `Divide and Conquer`, `Stack` |

@@ -2214,5 +2214,17 @@
     "relative_dir": "solutions/2677-chunk-array",
     "tags": [],
     "solved_at": "2026-10-05T08:39:48.563869"
+  },
+  "237": {
+    "id": "237",
+    "title": "Delete Node in a Linked List",
+    "slug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/0237-delete-node-in-a-linked-list",
+    "tags": [
+      "Linked List"
+    ],
+    "solved_at": "2026-10-05T08:40:05.267565"
   }
 }
