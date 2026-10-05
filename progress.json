@@ -1342,5 +1342,19 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T08:04:03.985337"
+  },
+  "2160": {
+    "id": "2160",
+    "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+    "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+    "tags": [
+      "Math",
+      "Greedy",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T08:04:22.077583"
   }
 }
