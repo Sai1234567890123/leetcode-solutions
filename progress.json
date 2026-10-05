@@ -1874,5 +1874,20 @@
     "relative_dir": "solutions/2725-interval-cancellation",
     "tags": [],
     "solved_at": "2026-10-05T08:30:10.223158"
+  },
+  "1409": {
+    "id": "1409",
+    "title": "Queries on a Permutation With Key",
+    "slug": "queries-on-a-permutation-with-key",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1409-queries-on-a-permutation-with-key",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Simulation",
+      "Sqrt Decomposition"
+    ],
+    "solved_at": "2026-10-05T08:30:36.461063"
   }
 }
