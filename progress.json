@@ -1778,5 +1778,19 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:26:35.461366"
+  },
+  "3194": {
+    "id": "3194",
+    "title": "Minimum Average of Smallest and Largest Elements",
+    "slug": "minimum-average-of-smallest-and-largest-elements",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3194-minimum-average-of-smallest-and-largest-elements",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T08:26:58.712639"
   }
 }
