@@ -1136,5 +1136,15 @@
       "Geometry"
     ],
     "solved_at": "2026-10-05T07:58:50.254165"
+  },
+  "2629": {
+    "id": "2629",
+    "title": "Function Composition",
+    "slug": "function-composition",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2629-function-composition",
+    "tags": [],
+    "solved_at": "2026-10-05T07:59:07.614582"
   }
 }
