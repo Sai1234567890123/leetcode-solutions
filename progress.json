@@ -854,5 +854,18 @@
       "Array"
     ],
     "solved_at": "2026-10-05T07:50:53.463120"
+  },
+  "2373": {
+    "id": "2373",
+    "title": "Largest Local Values in a Matrix",
+    "slug": "largest-local-values-in-a-matrix",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2373-largest-local-values-in-a-matrix",
+    "tags": [
+      "Array",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T07:51:18.039944"
   }
 }
