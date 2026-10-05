@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `154 / 1000` (15.4%)
+- **Total Solved:** `155 / 1000` (15.5%)
 - **🟢 Easy:** `118`
-- **🟡 Medium:** `36`
+- **🟡 Medium:** `37`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:33:44 UTC`
+- **Last Updated:** `2026-10-05 08:34:04 UTC`
 
 ---
 
@@ -81,6 +81,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | 🟡 **Medium** | [PY](solutions/2044-count-number-of-maximum-bitwise-or-subsets/solution.py) • [Notes](solutions/2044-count-number-of-maximum-bitwise-or-subsets/README.md) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | 🟢 **Easy** | [PY](solutions/2114-maximum-number-of-words-found-in-sentences/solution.py) • [Notes](solutions/2114-maximum-number-of-words-found-in-sentences/README.md) | `Array`, `String` |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | 🟡 **Medium** | [PY](solutions/2125-number-of-laser-beams-in-a-bank/solution.py) • [Notes](solutions/2125-number-of-laser-beams-in-a-bank/README.md) | `Array`, `Math`, `String` |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 **Medium** | [PY](solutions/2149-rearrange-array-elements-by-sign/solution.py) • [Notes](solutions/2149-rearrange-array-elements-by-sign/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 **Easy** | [PY](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.py) • [Notes](solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md) | `Math`, `Greedy`, `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |

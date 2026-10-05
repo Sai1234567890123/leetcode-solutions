@@ -1999,5 +1999,19 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:33:44.007528"
+  },
+  "2149": {
+    "id": "2149",
+    "title": "Rearrange Array Elements by Sign",
+    "slug": "rearrange-array-elements-by-sign",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2149-rearrange-array-elements-by-sign",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:34:04.074149"
   }
 }
