@@ -1014,5 +1014,18 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T07:55:29.292489"
+  },
+  "1816": {
+    "id": "1816",
+    "title": "Truncate Sentence",
+    "slug": "truncate-sentence",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1816-truncate-sentence",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:55:49.129752"
   }
 }

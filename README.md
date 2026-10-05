@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `79 / 1000` (7.9%)
-- **🟢 Easy:** `64`
+- **Total Solved:** `80 / 1000` (8.0%)
+- **🟢 Easy:** `65`
 - **🟡 Medium:** `15`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:55:29 UTC`
+- **Last Updated:** `2026-10-05 07:55:49 UTC`
 
 ---
 
@@ -37,6 +37,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | 🟢 **Easy** | [PY](solutions/1720-decode-xored-array/solution.py) • [Notes](solutions/1720-decode-xored-array/README.md) | `Array`, `Bit Manipulation` |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 **Easy** | [PY](solutions/1757-recyclable-and-low-fat-products/solution.py) • [Notes](solutions/1757-recyclable-and-low-fat-products/README.md) | `Database` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | 🟡 **Medium** | [PY](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.py) • [Notes](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | `Array`, `String`, `Prefix Sum` |
+| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | 🟢 **Easy** | [PY](solutions/1816-truncate-sentence/solution.py) • [Notes](solutions/1816-truncate-sentence/README.md) | `Array`, `String` |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 **Easy** | [PY](solutions/1863-sum-of-all-subset-xor-totals/solution.py) • [Notes](solutions/1863-sum-of-all-subset-xor-totals/README.md) | `Array`, `Math`, `Backtracking` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 **Easy** | [PY](solutions/1929-concatenation-of-array/solution.py) • [Notes](solutions/1929-concatenation-of-array/README.md) | `Array`, `Simulation` |
