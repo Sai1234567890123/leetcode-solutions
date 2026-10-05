@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `161 / 1000` (16.1%)
+- **Total Solved:** `162 / 1000` (16.2%)
 - **🟢 Easy:** `122`
-- **🟡 Medium:** `39`
+- **🟡 Medium:** `40`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:36:44 UTC`
+- **Last Updated:** `2026-10-05 08:37:03 UTC`
 
 ---
 
@@ -24,6 +24,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | 🟡 **Medium** | [PY](solutions/0807-max-increase-to-keep-city-skyline/solution.py) • [Notes](solutions/0807-max-increase-to-keep-city-skyline/README.md) | `Array`, `Greedy`, `Matrix` |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 **Easy** | [PY](solutions/0938-range-sum-of-bst/solution.py) • [Notes](solutions/0938-range-sum-of-bst/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 **Medium** | [PY](solutions/1008-construct-binary-search-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | `Array`, `Stack`, `Tree` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 **Easy** | [PY](solutions/1021-remove-outermost-parentheses/solution.py) • [Notes](solutions/1021-remove-outermost-parentheses/README.md) | `String`, `Stack`, `Bracket Sequences` |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 **Medium** | [PY](solutions/1038-binary-search-tree-to-greater-sum-tree/solution.py) • [Notes](solutions/1038-binary-search-tree-to-greater-sum-tree/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 **Easy** | [PY](solutions/1068-product-sales-analysis-i/solution.py) • [Notes](solutions/1068-product-sales-analysis-i/README.md) | `Database` |

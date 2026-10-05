@@ -2094,5 +2094,22 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T08:36:44.030212"
+  },
+  "1008": {
+    "id": "1008",
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "slug": "construct-binary-search-tree-from-preorder-traversal",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1008-construct-binary-search-tree-from-preorder-traversal",
+    "tags": [
+      "Array",
+      "Stack",
+      "Tree",
+      "Binary Search Tree",
+      "Monotonic Stack",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:37:03.231097"
   }
 }
