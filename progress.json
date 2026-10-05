@@ -1854,5 +1854,15 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T08:28:47.430845"
+  },
+  "2882": {
+    "id": "2882",
+    "title": "Drop Duplicate Rows",
+    "slug": "drop-duplicate-rows",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2882-drop-duplicate-rows",
+    "tags": [],
+    "solved_at": "2026-10-05T08:29:51.484369"
   }
 }

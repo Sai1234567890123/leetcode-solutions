@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `143 / 1000` (14.3%)
-- **🟢 Easy:** `110`
+- **Total Solved:** `144 / 1000` (14.4%)
+- **🟢 Easy:** `111`
 - **🟡 Medium:** `33`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:28:47 UTC`
+- **Last Updated:** `2026-10-05 08:29:51 UTC`
 
 ---
 
@@ -118,6 +118,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | 🟢 **Easy** | [PY](solutions/2859-sum-of-values-at-indices-with-k-set-bits/solution.py) • [Notes](solutions/2859-sum-of-values-at-indices-with-k-set-bits/README.md) | `Array`, `Bit Manipulation` |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | 🟢 **Easy** | [PY](solutions/2879-display-the-first-three-rows/solution.py) • [Notes](solutions/2879-display-the-first-three-rows/README.md) |  |
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | 🟢 **Easy** | [PY](solutions/2881-create-a-new-column/solution.py) • [Notes](solutions/2881-create-a-new-column/README.md) |  |
+| 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | 🟢 **Easy** | [PY](solutions/2882-drop-duplicate-rows/solution.py) • [Notes](solutions/2882-drop-duplicate-rows/README.md) |  |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 **Easy** | [PY](solutions/2884-modify-columns/solution.py) • [Notes](solutions/2884-modify-columns/README.md) |  |
 | 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | 🟢 **Easy** | [PY](solutions/2885-rename-columns/solution.py) • [Notes](solutions/2885-rename-columns/README.md) |  |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | 🟢 **Easy** | [PY](solutions/2886-change-data-type/solution.py) • [Notes](solutions/2886-change-data-type/README.md) |  |
