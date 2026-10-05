@@ -398,5 +398,18 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T07:39:39.264330"
+  },
+  "1929": {
+    "id": "1929",
+    "title": "Concatenation of Array",
+    "slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1929-concatenation-of-array",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:39:56.915577"
   }
 }
