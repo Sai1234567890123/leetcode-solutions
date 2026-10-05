@@ -1356,5 +1356,20 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T08:04:22.077583"
+  },
+  "535": {
+    "id": "535",
+    "title": "Encode and Decode TinyURL",
+    "slug": "encode-and-decode-tinyurl",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/0535-encode-and-decode-tinyurl",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ],
+    "solved_at": "2026-10-05T08:04:46.396574"
   }
 }
