@@ -2689,5 +2689,18 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:54:36.536772"
+  },
+  "2843": {
+    "id": "2843",
+    "title": "  Count Symmetric Integers",
+    "slug": "count-symmetric-integers",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2843-count-symmetric-integers",
+    "tags": [
+      "Math",
+      "Enumeration"
+    ],
+    "solved_at": "2026-10-05T08:55:00.457828"
   }
 }
