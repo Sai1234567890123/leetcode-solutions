@@ -55,5 +55,18 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T07:19:41.634747"
+  },
+  "3512": {
+    "id": "3512",
+    "title": "Minimum Operations to Make Array Sum Divisible by K",
+    "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k",
+    "tags": [
+      "Array",
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:20:21.822795"
   }
 }
