@@ -793,5 +793,17 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:49:18.323299"
+  },
+  "2220": {
+    "id": "2220",
+    "title": "Minimum Bit Flips to Convert Number",
+    "slug": "minimum-bit-flips-to-convert-number",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2220-minimum-bit-flips-to-convert-number",
+    "tags": [
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T07:49:39.110693"
   }
 }
