@@ -1500,5 +1500,18 @@
     "relative_dir": "solutions/2890-reshape-data-melt",
     "tags": [],
     "solved_at": "2026-10-05T08:18:46.064782"
+  },
+  "2325": {
+    "id": "2325",
+    "title": "Decode the Message",
+    "slug": "decode-the-message",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2325-decode-the-message",
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:19:13.865350"
   }
 }

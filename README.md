@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `116 / 1000` (11.6%)
-- **🟢 Easy:** `88`
+- **Total Solved:** `117 / 1000` (11.7%)
+- **🟢 Easy:** `89`
 - **🟡 Medium:** `28`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:18:46 UTC`
+- **Last Updated:** `2026-10-05 08:19:13 UTC`
 
 ---
 
@@ -72,6 +72,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | 🟢 **Easy** | [PY](solutions/2220-minimum-bit-flips-to-convert-number/solution.py) • [Notes](solutions/2220-minimum-bit-flips-to-convert-number/README.md) | `Bit Manipulation` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 **Easy** | [PY](solutions/2235-add-two-integers/solution.py) • [Notes](solutions/2235-add-two-integers/README.md) | `Math` |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 **Medium** | [PY](solutions/2265-count-nodes-equal-to-average-of-subtree/solution.py) • [Notes](solutions/2265-count-nodes-equal-to-average-of-subtree/README.md) | `Tree`, `Depth-First Search`, `Binary Tree` |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | 🟢 **Easy** | [PY](solutions/2325-decode-the-message/solution.py) • [Notes](solutions/2325-decode-the-message/README.md) | `Hash Table`, `String` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 **Easy** | [PY](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/solution.py) • [Notes](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | `Database` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | 🟢 **Easy** | [PY](solutions/2373-largest-local-values-in-a-matrix/solution.py) • [Notes](solutions/2373-largest-local-values-in-a-matrix/README.md) | `Array`, `Matrix` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
