@@ -242,5 +242,18 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:30:53.210477"
+  },
+  "3945": {
+    "id": "3945",
+    "title": "Digit Frequency Score",
+    "slug": "digit-frequency-score",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3945-digit-frequency-score",
+    "tags": [
+      "Hash Table",
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:31:35.707020"
   }
 }
