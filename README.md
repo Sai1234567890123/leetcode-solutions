@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `28 / 1000` (2.8%)
-- **🟢 Easy:** `22`
+- **Total Solved:** `29 / 1000` (2.9%)
+- **🟢 Easy:** `23`
 - **🟡 Medium:** `6`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:36:12 UTC`
+- **Last Updated:** `2026-10-05 07:36:45 UTC`
 
 ---
 
@@ -17,6 +17,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | # | Title | Difficulty | Solution | Topics |
 |---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 **Medium** | [PY](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) • [Notes](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md) | `String`, `Greedy` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 **Easy** | [PY](solutions/2011-final-value-of-variable-after-performing-operations/solution.py) • [Notes](solutions/2011-final-value-of-variable-after-performing-operations/README.md) | `Array`, `String`, `Simulation` |

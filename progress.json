@@ -345,5 +345,17 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:36:12.839213"
+  },
+  "1108": {
+    "id": "1108",
+    "title": "Defanging an IP Address",
+    "slug": "defanging-an-ip-address",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1108-defanging-an-ip-address",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:36:45.715911"
   }
 }
