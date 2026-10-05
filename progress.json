@@ -593,5 +593,18 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T07:44:27.212468"
+  },
+  "1672": {
+    "id": "1672",
+    "title": "Richest Customer Wealth",
+    "slug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1672-richest-customer-wealth",
+    "tags": [
+      "Array",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T07:44:43.976249"
   }
 }
