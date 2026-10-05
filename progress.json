@@ -2204,5 +2204,15 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:39:30.812361"
+  },
+  "2677": {
+    "id": "2677",
+    "title": "Chunk Array",
+    "slug": "chunk-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2677-chunk-array",
+    "tags": [],
+    "solved_at": "2026-10-05T08:39:48.563869"
   }
 }
