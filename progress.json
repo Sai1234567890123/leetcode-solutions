@@ -1626,5 +1626,17 @@
       "Enumeration"
     ],
     "solved_at": "2026-10-05T08:22:23.566454"
+  },
+  "1795": {
+    "id": "1795",
+    "title": "Rearrange Products Table",
+    "slug": "rearrange-products-table",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1795-rearrange-products-table",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:22:42.770906"
   }
 }
