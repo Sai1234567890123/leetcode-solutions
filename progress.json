@@ -1841,5 +1841,18 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T08:28:28.240765"
+  },
+  "2997": {
+    "id": "2997",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T08:28:47.430845"
   }
 }

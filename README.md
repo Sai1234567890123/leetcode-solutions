@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `142 / 1000` (14.2%)
+- **Total Solved:** `143 / 1000` (14.3%)
 - **🟢 Easy:** `110`
-- **🟡 Medium:** `32`
+- **🟡 Medium:** `33`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:28:28 UTC`
+- **Last Updated:** `2026-10-05 08:28:47 UTC`
 
 ---
 
@@ -126,6 +126,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 **Easy** | [PY](solutions/2894-divisible-and-non-divisible-sums-difference/solution.py) • [Notes](solutions/2894-divisible-and-non-divisible-sums-difference/README.md) | `Math` |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 **Easy** | [PY](solutions/2942-find-words-containing-character/solution.py) • [Notes](solutions/2942-find-words-containing-character/README.md) | `Array`, `String` |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | 🟢 **Easy** | [PY](solutions/2974-minimum-number-game/solution.py) • [Notes](solutions/2974-minimum-number-game/README.md) | `Array`, `Sorting`, `Heap (Priority Queue)` |
+| 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | 🟡 **Medium** | [PY](solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/solution.py) • [Notes](solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/README.md) | `Array`, `Bit Manipulation` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | 🟢 **Easy** | [PY](solutions/3065-minimum-operations-to-exceed-threshold-value-i/solution.py) • [Notes](solutions/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | `Array` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 **Easy** | [PY](solutions/3110-score-of-a-string/solution.py) • [Notes](solutions/3110-score-of-a-string/README.md) | `String` |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | 🟢 **Easy** | [PY](solutions/3146-permutation-difference-between-two-strings/solution.py) • [Notes](solutions/3146-permutation-difference-between-two-strings/README.md) | `Hash Table`, `String` |
