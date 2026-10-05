@@ -306,5 +306,17 @@
     "relative_dir": "solutions/2888-reshape-data-concatenate",
     "tags": [],
     "solved_at": "2026-10-05T07:34:30.147655"
+  },
+  "2469": {
+    "id": "2469",
+    "title": "Convert the Temperature",
+    "slug": "convert-the-temperature",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2469-convert-the-temperature",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:34:55.804766"
   }
 }
