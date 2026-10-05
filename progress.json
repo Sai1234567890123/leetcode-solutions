@@ -2362,5 +2362,19 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:43:31.729753"
+  },
+  "2108": {
+    "id": "2108",
+    "title": "Find First Palindromic String in the Array",
+    "slug": "find-first-palindromic-string-in-the-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2108-find-first-palindromic-string-in-the-array",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:43:50.005704"
   }
 }
