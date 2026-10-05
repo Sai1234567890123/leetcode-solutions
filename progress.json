@@ -1068,5 +1068,18 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T07:56:56.626764"
+  },
+  "1415": {
+    "id": "1415",
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "tags": [
+      "String",
+      "Backtracking"
+    ],
+    "solved_at": "2026-10-05T07:57:20.622836"
   }
 }

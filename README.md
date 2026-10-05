@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `83 / 1000` (8.3%)
+- **Total Solved:** `84 / 1000` (8.4%)
 - **🟢 Easy:** `68`
-- **🟡 Medium:** `15`
+- **🟡 Medium:** `16`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:56:56 UTC`
+- **Last Updated:** `2026-10-05 07:57:20 UTC`
 
 ---
 
@@ -25,6 +25,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | 🟢 **Easy** | [PY](solutions/1221-split-a-string-in-balanced-strings/solution.py) • [Notes](solutions/1221-split-a-string-in-balanced-strings/README.md) | `String`, `Greedy`, `Counting` |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 **Medium** | [PY](solutions/1282-group-the-people-given-the-group-size-they-belong-to/solution.py) • [Notes](solutions/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | `Array`, `Hash Table`, `Greedy` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 **Easy** | [PY](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/solution.py) • [Notes](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | `Array`, `Hash Table`, `Sorting` |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 **Medium** | [PY](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.py) • [Notes](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | `String`, `Backtracking` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 **Easy** | [PY](solutions/1470-shuffle-the-array/solution.py) • [Notes](solutions/1470-shuffle-the-array/README.md) | `Array` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 **Easy** | [PY](solutions/1480-running-sum-of-1d-array/solution.py) • [Notes](solutions/1480-running-sum-of-1d-array/README.md) | `Array`, `Prefix Sum` |
