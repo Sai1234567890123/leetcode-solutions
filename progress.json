@@ -2240,5 +2240,19 @@
       "String Matching"
     ],
     "solved_at": "2026-10-05T08:40:23.297593"
+  },
+  "1475": {
+    "id": "1475",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "slug": "final-prices-with-a-special-discount-in-a-shop",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1475-final-prices-with-a-special-discount-in-a-shop",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "solved_at": "2026-10-05T08:40:44.240394"
   }
 }
