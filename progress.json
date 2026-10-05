@@ -1754,5 +1754,17 @@
     "relative_dir": "solutions/2626-array-reduce-transformation",
     "tags": [],
     "solved_at": "2026-10-05T08:25:48.560417"
+  },
+  "1683": {
+    "id": "1683",
+    "title": "Invalid Tweets",
+    "slug": "invalid-tweets",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1683-invalid-tweets",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:26:07.553080"
   }
 }
