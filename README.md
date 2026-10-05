@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `217 / 10` (2170.0%)
+- **Total Solved:** `218 / 10` (2180.0%)
 - **🟢 Easy:** `157`
 - **🟡 Medium:** `59`
-- **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 13:43:47 UTC`
+- **🔴 Hard:** `2`
+- **Last Updated:** `2026-10-05 13:44:08 UTC`
 
 ---
 
@@ -32,6 +32,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | 🟡 **Medium** | [PY](solutions/0885-spiral-matrix-iii/solution.py) • [Notes](solutions/0885-spiral-matrix-iii/README.md) | `Array`, `Matrix`, `Simulation` |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 **Easy** | [PY](solutions/0938-range-sum-of-bst/solution.py) • [Notes](solutions/0938-range-sum-of-bst/README.md) | `Tree`, `Depth-First Search`, `Binary Search Tree` |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | 🟡 **Medium** | [PY](solutions/0950-reveal-cards-in-increasing-order/solution.py) • [Notes](solutions/0950-reveal-cards-in-increasing-order/README.md) | `Array`, `Queue`, `Sorting` |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | 🔴 **Hard** | [PY](solutions/0980-unique-paths-iii/solution.py) • [Notes](solutions/0980-unique-paths-iii/README.md) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 **Medium** | [PY](solutions/1008-construct-binary-search-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1008-construct-binary-search-tree-from-preorder-traversal/README.md) | `Array`, `Stack`, `Tree` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 **Easy** | [PY](solutions/1021-remove-outermost-parentheses/solution.py) • [Notes](solutions/1021-remove-outermost-parentheses/README.md) | `String`, `Stack`, `Bracket Sequences` |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | 🔴 **Hard** | [PY](solutions/1028-recover-a-tree-from-preorder-traversal/solution.py) • [Notes](solutions/1028-recover-a-tree-from-preorder-traversal/README.md) | `String`, `Tree`, `Depth-First Search` |

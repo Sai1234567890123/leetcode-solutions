@@ -2847,5 +2847,21 @@
       "Bracket Sequences"
     ],
     "solved_at": "2026-10-05T13:43:47.143982+00:00"
+  },
+  "980": {
+    "id": "980",
+    "title": "Unique Paths III",
+    "slug": "unique-paths-iii",
+    "difficulty": "Hard",
+    "language": "python3",
+    "relative_dir": "solutions/0980-unique-paths-iii",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Matrix",
+      "Hamiltonian Path"
+    ],
+    "solved_at": "2026-10-05T13:44:08.923813+00:00"
   }
 }
