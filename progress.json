@@ -68,5 +68,18 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:20:21.822795"
+  },
+  "3498": {
+    "id": "3498",
+    "title": "Reverse Degree of a String",
+    "slug": "reverse-degree-of-a-string",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3498-reverse-degree-of-a-string",
+    "tags": [
+      "String",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:21:03.067469"
   }
 }
