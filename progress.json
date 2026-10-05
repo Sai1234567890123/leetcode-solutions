@@ -2796,5 +2796,17 @@
       "Hash Table"
     ],
     "solved_at": "2026-10-05T12:27:45.622167+00:00"
+  },
+  "2520": {
+    "id": "2520",
+    "title": "Count the Digits That Divide a Number",
+    "slug": "count-the-digits-that-divide-a-number",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2520-count-the-digits-that-divide-a-number",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T12:28:06.516612+00:00"
   }
 }
