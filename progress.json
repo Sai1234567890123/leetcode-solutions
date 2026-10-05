@@ -439,5 +439,18 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T07:40:34.940860"
+  },
+  "2181": {
+    "id": "2181",
+    "title": "Merge Nodes in Between Zeros",
+    "slug": "merge-nodes-in-between-zeros",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2181-merge-nodes-in-between-zeros",
+    "tags": [
+      "Linked List",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:41:01.220786"
   }
 }

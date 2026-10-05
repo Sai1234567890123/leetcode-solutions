@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `35 / 1000` (3.5%)
+- **Total Solved:** `36 / 1000` (3.6%)
 - **🟢 Easy:** `28`
-- **🟡 Medium:** `7`
+- **🟡 Medium:** `8`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:40:34 UTC`
+- **Last Updated:** `2026-10-05 07:41:01 UTC`
 
 ---
 
@@ -26,6 +26,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 **Easy** | [PY](solutions/1929-concatenation-of-array/solution.py) • [Notes](solutions/1929-concatenation-of-array/README.md) | `Array`, `Simulation` |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 **Easy** | [PY](solutions/2011-final-value-of-variable-after-performing-operations/solution.py) • [Notes](solutions/2011-final-value-of-variable-after-performing-operations/README.md) | `Array`, `String`, `Simulation` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 **Easy** | [PY](solutions/2574-left-and-right-sum-differences/solution.py) • [Notes](solutions/2574-left-and-right-sum-differences/README.md) | `Array`, `Prefix Sum` |
