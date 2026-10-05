@@ -367,5 +367,22 @@
     "relative_dir": "solutions/2881-create-a-new-column",
     "tags": [],
     "solved_at": "2026-10-05T07:37:13.152661"
+  },
+  "1863": {
+    "id": "1863",
+    "title": "Sum of All Subset XOR Totals",
+    "slug": "sum-of-all-subset-xor-totals",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1863-sum-of-all-subset-xor-totals",
+    "tags": [
+      "Array",
+      "Math",
+      "Backtracking",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Enumeration"
+    ],
+    "solved_at": "2026-10-05T07:38:16.405844"
   }
 }
