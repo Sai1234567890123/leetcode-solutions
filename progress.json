@@ -2192,5 +2192,17 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:39:12.082182"
+  },
+  "1393": {
+    "id": "1393",
+    "title": "Capital Gain/Loss",
+    "slug": "capital-gainloss",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1393-capital-gainloss",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:39:30.812361"
   }
 }

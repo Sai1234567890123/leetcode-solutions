@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `168 / 1000` (16.8%)
+- **Total Solved:** `169 / 1000` (16.9%)
 - **🟢 Easy:** `125`
-- **🟡 Medium:** `43`
+- **🟡 Medium:** `44`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:39:12 UTC`
+- **Last Updated:** `2026-10-05 08:39:30 UTC`
 
 ---
 
@@ -43,6 +43,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | 🟢 **Easy** | [PY](solutions/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/solution.py) • [Notes](solutions/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | 🟡 **Medium** | [PY](solutions/1382-balance-a-binary-search-tree/solution.py) • [Notes](solutions/1382-balance-a-binary-search-tree/README.md) | `Divide and Conquer`, `Greedy`, `Tree` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | 🟢 **Easy** | [PY](solutions/1389-create-target-array-in-the-given-order/solution.py) • [Notes](solutions/1389-create-target-array-in-the-given-order/README.md) | `Array`, `Simulation` |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | 🟡 **Medium** | [PY](solutions/1393-capital-gainloss/solution.py) • [Notes](solutions/1393-capital-gainloss/README.md) | `Database` |
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | 🟡 **Medium** | [PY](solutions/1409-queries-on-a-permutation-with-key/solution.py) • [Notes](solutions/1409-queries-on-a-permutation-with-key/README.md) | `Array`, `Binary Indexed Tree`, `Simulation` |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 **Medium** | [PY](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.py) • [Notes](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | `String`, `Backtracking` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
