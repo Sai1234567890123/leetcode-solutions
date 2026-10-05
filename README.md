@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `72 / 1000` (7.2%)
-- **🟢 Easy:** `58`
+- **Total Solved:** `73 / 1000` (7.3%)
+- **🟢 Easy:** `59`
 - **🟡 Medium:** `14`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:53:12 UTC`
+- **Last Updated:** `2026-10-05 07:53:34 UTC`
 
 ---
 
@@ -30,6 +30,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | 🟢 **Easy** | [PY](solutions/1678-goal-parser-interpretation/solution.py) • [Notes](solutions/1678-goal-parser-interpretation/README.md) | `String` |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | 🟢 **Easy** | [PY](solutions/1684-count-the-number-of-consistent-strings/solution.py) • [Notes](solutions/1684-count-the-number-of-consistent-strings/README.md) | `Array`, `Hash Table`, `String` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 **Medium** | [PY](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) • [Notes](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md) | `String`, `Greedy` |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | 🟢 **Easy** | [PY](solutions/1720-decode-xored-array/solution.py) • [Notes](solutions/1720-decode-xored-array/README.md) | `Array`, `Bit Manipulation` |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 **Easy** | [PY](solutions/1757-recyclable-and-low-fat-products/solution.py) • [Notes](solutions/1757-recyclable-and-low-fat-products/README.md) | `Database` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | 🟡 **Medium** | [PY](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.py) • [Notes](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | `Array`, `String`, `Prefix Sum` |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 **Easy** | [PY](solutions/1863-sum-of-all-subset-xor-totals/solution.py) • [Notes](solutions/1863-sum-of-all-subset-xor-totals/README.md) | `Array`, `Math`, `Backtracking` |

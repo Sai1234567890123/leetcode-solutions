@@ -924,5 +924,18 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:53:12.194751"
+  },
+  "1720": {
+    "id": "1720",
+    "title": "Decode XORed Array",
+    "slug": "decode-xored-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1720-decode-xored-array",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T07:53:34.603919"
   }
 }
