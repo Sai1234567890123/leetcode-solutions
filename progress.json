@@ -1122,5 +1122,19 @@
       "Enumeration"
     ],
     "solved_at": "2026-10-05T07:58:25.155566"
+  },
+  "1828": {
+    "id": "1828",
+    "title": "Queries on Number of Points Inside a Circle",
+    "slug": "queries-on-number-of-points-inside-a-circle",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1828-queries-on-number-of-points-inside-a-circle",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ],
+    "solved_at": "2026-10-05T07:58:50.254165"
   }
 }
