@@ -980,5 +980,15 @@
       "Counting Sort"
     ],
     "solved_at": "2026-10-05T07:54:34.188640"
+  },
+  "2886": {
+    "id": "2886",
+    "title": "Change Data Type",
+    "slug": "change-data-type",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2886-change-data-type",
+    "tags": [],
+    "solved_at": "2026-10-05T07:54:51.040626"
   }
 }
