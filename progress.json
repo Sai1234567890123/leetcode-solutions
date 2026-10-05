@@ -2081,5 +2081,18 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T08:36:23.211435"
+  },
+  "1572": {
+    "id": "1572",
+    "title": "Matrix Diagonal Sum",
+    "slug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1572-matrix-diagonal-sum",
+    "tags": [
+      "Array",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T08:36:44.030212"
   }
 }
