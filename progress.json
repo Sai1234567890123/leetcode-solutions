@@ -556,5 +556,18 @@
       "Database"
     ],
     "solved_at": "2026-10-05T07:43:32.056856"
+  },
+  "3300": {
+    "id": "3300",
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "slug": "minimum-element-after-replacement-with-digit-sum",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3300-minimum-element-after-replacement-with-digit-sum",
+    "tags": [
+      "Array",
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:43:49.911525"
   }
 }

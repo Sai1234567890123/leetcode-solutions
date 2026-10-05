@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `44 / 1000` (4.4%)
-- **🟢 Easy:** `35`
+- **Total Solved:** `45 / 1000` (4.5%)
+- **🟢 Easy:** `36`
 - **🟡 Medium:** `9`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:43:32 UTC`
+- **Last Updated:** `2026-10-05 07:43:49 UTC`
 
 ---
 
@@ -48,6 +48,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 **Easy** | [PY](solutions/3110-score-of-a-string/solution.py) • [Notes](solutions/3110-score-of-a-string/README.md) | `String` |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 **Easy** | [PY](solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/solution.py) • [Notes](solutions/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md) | `Array`, `Math` |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 **Easy** | [PY](solutions/3289-the-two-sneaky-numbers-of-digitville/solution.py) • [Notes](solutions/3289-the-two-sneaky-numbers-of-digitville/README.md) | `Array`, `Hash Table`, `Math` |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 🟢 **Easy** | [PY](solutions/3300-minimum-element-after-replacement-with-digit-sum/solution.py) • [Notes](solutions/3300-minimum-element-after-replacement-with-digit-sum/README.md) | `Array`, `Math` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 **Easy** | [PY](solutions/3467-transform-array-by-parity/solution.py) • [Notes](solutions/3467-transform-array-by-parity/README.md) | `Array`, `Sorting`, `Counting` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 **Easy** | [PY](solutions/3498-reverse-degree-of-a-string/solution.py) • [Notes](solutions/3498-reverse-degree-of-a-string/README.md) | `String`, `Simulation` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 **Easy** | [PY](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.py) • [Notes](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | `Array`, `Math` |
