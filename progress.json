@@ -269,5 +269,18 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:32:07.136342"
+  },
+  "1689": {
+    "id": "1689",
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers",
+    "tags": [
+      "String",
+      "Greedy"
+    ],
+    "solved_at": "2026-10-05T07:33:01.649610"
   }
 }

@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `22 / 1000` (2.2%)
+- **Total Solved:** `23 / 1000` (2.3%)
 - **🟢 Easy:** `18`
-- **🟡 Medium:** `4`
+- **🟡 Medium:** `5`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:32:07 UTC`
+- **Last Updated:** `2026-10-05 07:33:01 UTC`
 
 ---
 
@@ -17,6 +17,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | # | Title | Difficulty | Solution | Topics |
 |---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 **Medium** | [PY](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) • [Notes](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md) | `String`, `Greedy` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 **Easy** | [PY](solutions/2011-final-value-of-variable-after-performing-operations/solution.py) • [Notes](solutions/2011-final-value-of-variable-after-performing-operations/README.md) | `Array`, `String`, `Simulation` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
