@@ -1412,5 +1412,18 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:05:49.694294"
+  },
+  "2610": {
+    "id": "2610",
+    "title": "Convert an Array Into a 2D Array With Conditions",
+    "slug": "convert-an-array-into-a-2d-array-with-conditions",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2610-convert-an-array-into-a-2d-array-with-conditions",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ],
+    "solved_at": "2026-10-05T08:16:55.372235"
   }
 }
