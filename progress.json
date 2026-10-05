@@ -683,5 +683,18 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:46:40.896108"
+  },
+  "3280": {
+    "id": "3280",
+    "title": "Convert Date to Binary",
+    "slug": "convert-date-to-binary",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3280-convert-date-to-binary",
+    "tags": [
+      "Math",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:46:58.443047"
   }
 }
