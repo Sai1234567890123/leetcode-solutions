@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `50 / 1000` (5.0%)
+- **Total Solved:** `51 / 1000` (5.1%)
 - **🟢 Easy:** `40`
-- **🟡 Medium:** `10`
+- **🟡 Medium:** `11`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:45:21 UTC`
+- **Last Updated:** `2026-10-05 07:45:42 UTC`
 
 ---
 
@@ -30,6 +30,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | 🟡 **Medium** | [PY](solutions/2044-count-number-of-maximum-bitwise-or-subsets/solution.py) • [Notes](solutions/2044-count-number-of-maximum-bitwise-or-subsets/README.md) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 **Medium** | [PY](solutions/2265-count-nodes-equal-to-average-of-subtree/solution.py) • [Notes](solutions/2265-count-nodes-equal-to-average-of-subtree/README.md) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 **Easy** | [PY](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/solution.py) • [Notes](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | `Database` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
