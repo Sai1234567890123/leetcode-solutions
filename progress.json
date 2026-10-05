@@ -1941,5 +1941,19 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T08:32:20.141604"
+  },
+  "1464": {
+    "id": "1464",
+    "title": "Maximum Product of Two Elements in an Array",
+    "slug": "maximum-product-of-two-elements-in-an-array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1464-maximum-product-of-two-elements-in-an-array",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "solved_at": "2026-10-05T08:32:42.045433"
   }
 }
