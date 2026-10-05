@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `127 / 1000` (12.7%)
-- **🟢 Easy:** `97`
+- **Total Solved:** `128 / 1000` (12.8%)
+- **🟢 Easy:** `98`
 - **🟡 Medium:** `30`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:23:16 UTC`
+- **Last Updated:** `2026-10-05 08:23:35 UTC`
 
 ---
 
@@ -114,6 +114,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | 🟢 **Easy** | [PY](solutions/2890-reshape-data-melt/solution.py) • [Notes](solutions/2890-reshape-data-melt/README.md) |  |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 **Easy** | [PY](solutions/2894-divisible-and-non-divisible-sums-difference/solution.py) • [Notes](solutions/2894-divisible-and-non-divisible-sums-difference/README.md) | `Math` |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 **Easy** | [PY](solutions/2942-find-words-containing-character/solution.py) • [Notes](solutions/2942-find-words-containing-character/README.md) | `Array`, `String` |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | 🟢 **Easy** | [PY](solutions/2974-minimum-number-game/solution.py) • [Notes](solutions/2974-minimum-number-game/README.md) | `Array`, `Sorting`, `Heap (Priority Queue)` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | 🟢 **Easy** | [PY](solutions/3065-minimum-operations-to-exceed-threshold-value-i/solution.py) • [Notes](solutions/3065-minimum-operations-to-exceed-threshold-value-i/README.md) | `Array` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 **Easy** | [PY](solutions/3110-score-of-a-string/solution.py) • [Notes](solutions/3110-score-of-a-string/README.md) | `String` |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | 🟢 **Easy** | [PY](solutions/3146-permutation-difference-between-two-strings/solution.py) • [Notes](solutions/3146-permutation-difference-between-two-strings/README.md) | `Hash Table`, `String` |

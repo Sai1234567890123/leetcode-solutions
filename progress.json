@@ -1651,5 +1651,20 @@
       "Enumeration"
     ],
     "solved_at": "2026-10-05T08:23:16.897628"
+  },
+  "2974": {
+    "id": "2974",
+    "title": "Minimum Number Game",
+    "slug": "minimum-number-game",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2974-minimum-number-game",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T08:23:35.410928"
   }
 }
