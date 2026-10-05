@@ -1236,5 +1236,20 @@
       "Array"
     ],
     "solved_at": "2026-10-05T08:01:22.002738"
+  },
+  "1302": {
+    "id": "1302",
+    "title": "Deepest Leaves Sum",
+    "slug": "deepest-leaves-sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1302-deepest-leaves-sum",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:01:50.153345"
   }
 }
