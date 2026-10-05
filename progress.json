@@ -2306,5 +2306,19 @@
       "Bubble Sort"
     ],
     "solved_at": "2026-10-05T08:41:55.954470"
+  },
+  "1588": {
+    "id": "1588",
+    "title": "Sum of All Odd Length Subarrays",
+    "slug": "sum-of-all-odd-length-subarrays",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1588-sum-of-all-odd-length-subarrays",
+    "tags": [
+      "Array",
+      "Math",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:42:23.680995"
   }
 }
