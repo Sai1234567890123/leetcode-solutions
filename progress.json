@@ -2887,5 +2887,18 @@
       "Math"
     ],
     "solved_at": "2026-10-05T13:44:55.947437+00:00"
+  },
+  "1935": {
+    "id": "1935",
+    "title": "Maximum Number of Words You Can Type",
+    "slug": "maximum-number-of-words-you-can-type",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1935-maximum-number-of-words-you-can-type",
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T13:45:14.543138+00:00"
   }
 }

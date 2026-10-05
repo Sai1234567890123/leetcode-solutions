@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `220 / 10` (2200.0%)
-- **🟢 Easy:** `158`
+- **Total Solved:** `221 / 10` (2210.0%)
+- **🟢 Easy:** `159`
 - **🟡 Medium:** `60`
 - **🔴 Hard:** `2`
-- **Last Updated:** `2026-10-05 13:44:55 UTC`
+- **Last Updated:** `2026-10-05 13:45:14 UTC`
 
 ---
 
@@ -108,6 +108,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | 🟢 **Easy** | [PY](solutions/1913-maximum-product-difference-between-two-pairs/solution.py) • [Notes](solutions/1913-maximum-product-difference-between-two-pairs/README.md) | `Array`, `Sorting`, `Quicksort` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 **Easy** | [PY](solutions/1929-concatenation-of-array/solution.py) • [Notes](solutions/1929-concatenation-of-array/README.md) | `Array`, `Simulation` |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | 🟢 **Easy** | [PY](solutions/1935-maximum-number-of-words-you-can-type/solution.py) • [Notes](solutions/1935-maximum-number-of-words-you-can-type/README.md) | `Hash Table`, `String` |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 🟢 **Easy** | [PY](solutions/1967-number-of-strings-that-appear-as-substrings-in-word/solution.py) • [Notes](solutions/1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | `Array`, `String` |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | 🟢 **Easy** | [PY](solutions/1979-find-greatest-common-divisor-of-array/solution.py) • [Notes](solutions/1979-find-greatest-common-divisor-of-array/README.md) | `Array`, `Math`, `Number Theory` |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | 🟢 **Easy** | [PY](solutions/2000-reverse-prefix-of-word/solution.py) • [Notes](solutions/2000-reverse-prefix-of-word/README.md) | `Two Pointers`, `String`, `Stack` |
