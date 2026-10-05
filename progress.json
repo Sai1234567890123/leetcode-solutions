@@ -21,5 +21,15 @@
     "relative_dir": "solutions/2703-return-length-of-arguments-passed",
     "tags": [],
     "solved_at": "2026-10-05T07:18:08.644865"
+  },
+  "2879": {
+    "id": "2879",
+    "title": "Display the First Three Rows",
+    "slug": "display-the-first-three-rows",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2879-display-the-first-three-rows",
+    "tags": [],
+    "solved_at": "2026-10-05T07:18:32.154901"
   }
 }
