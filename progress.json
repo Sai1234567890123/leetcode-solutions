@@ -1000,5 +1000,19 @@
     "relative_dir": "solutions/2621-sleep",
     "tags": [],
     "solved_at": "2026-10-05T07:55:08.395588"
+  },
+  "1603": {
+    "id": "1603",
+    "title": "Design Parking System",
+    "slug": "design-parking-system",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1603-design-parking-system",
+    "tags": [
+      "Design",
+      "Simulation",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T07:55:29.292489"
   }
 }
