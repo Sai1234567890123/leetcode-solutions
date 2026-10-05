@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `26 / 1000` (2.6%)
-- **🟢 Easy:** `20`
+- **Total Solved:** `27 / 1000` (2.7%)
+- **🟢 Easy:** `21`
 - **🟡 Medium:** `6`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:34:55 UTC`
+- **Last Updated:** `2026-10-05 07:35:40 UTC`
 
 ---
 
@@ -39,6 +39,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 **Easy** | [PY](solutions/3668-restore-finishing-order/solution.py) • [Notes](solutions/3668-restore-finishing-order/README.md) | `Array`, `Hash Table` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 **Easy** | [PY](solutions/3838-weighted-word-mapping/solution.py) • [Notes](solutions/3838-weighted-word-mapping/README.md) | `Array`, `String`, `Simulation` |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 **Easy** | [PY](solutions/3898-find-the-degree-of-each-vertex/solution.py) • [Notes](solutions/3898-find-the-degree-of-each-vertex/README.md) | `Array`, `Graph Theory`, `Matrix` |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 **Easy** | [PY](solutions/3925-concatenate-array-with-reverse/solution.py) • [Notes](solutions/3925-concatenate-array-with-reverse/README.md) | `Array`, `Simulation` |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | 🟢 **Easy** | [PY](solutions/3945-digit-frequency-score/solution.py) • [Notes](solutions/3945-digit-frequency-score/README.md) | `Hash Table`, `Math` |

@@ -318,5 +318,19 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:34:55.804766"
+  },
+  "3838": {
+    "id": "3838",
+    "title": "Weighted Word Mapping",
+    "slug": "weighted-word-mapping",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3838-weighted-word-mapping",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:35:40.104855"
   }
 }
