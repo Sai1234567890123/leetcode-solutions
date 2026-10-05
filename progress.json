@@ -1159,5 +1159,20 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:59:23.821181"
+  },
+  "3264": {
+    "id": "3264",
+    "title": "Final Array State After K Multiplication Operations I",
+    "slug": "final-array-state-after-k-multiplication-operations-i",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3264-final-array-state-after-k-multiplication-operations-i",
+    "tags": [
+      "Array",
+      "Math",
+      "Heap (Priority Queue)",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:59:42.338395"
   }
 }
