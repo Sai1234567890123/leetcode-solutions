@@ -2434,5 +2434,21 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:45:10.853928"
+  },
+  "797": {
+    "id": "797",
+    "title": "All Paths From Source to Target",
+    "slug": "all-paths-from-source-to-target",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/0797-all-paths-from-source-to-target",
+    "tags": [
+      "Backtracking",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Directed Acyclic Graph"
+    ],
+    "solved_at": "2026-10-05T08:45:31.129409"
   }
 }
