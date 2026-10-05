@@ -11,5 +11,15 @@
       "Hash Table"
     ],
     "solved_at": "2026-10-05T07:16:34.426324"
+  },
+  "2703": {
+    "id": "2703",
+    "title": "Return Length of Arguments Passed",
+    "slug": "return-length-of-arguments-passed",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2703-return-length-of-arguments-passed",
+    "tags": [],
+    "solved_at": "2026-10-05T07:18:08.644865"
   }
 }
