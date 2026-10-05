@@ -1526,5 +1526,18 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T08:19:35.592386"
+  },
+  "3895": {
+    "id": "3895",
+    "title": "Count Digit Appearances",
+    "slug": "count-digit-appearances",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3895-count-digit-appearances",
+    "tags": [
+      "Array",
+      "Math"
+    ],
+    "solved_at": "2026-10-05T08:20:06.383114"
   }
 }
