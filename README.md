@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `159 / 1000` (15.9%)
+- **Total Solved:** `160 / 1000` (16.0%)
 - **🟢 Easy:** `121`
-- **🟡 Medium:** `38`
+- **🟡 Medium:** `39`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:35:39 UTC`
+- **Last Updated:** `2026-10-05 08:36:23 UTC`
 
 ---
 
@@ -154,6 +154,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | 🟢 **Easy** | [PY](solutions/3314-construct-the-minimum-bitwise-array-i/solution.py) • [Notes](solutions/3314-construct-the-minimum-bitwise-array-i/README.md) | `Array`, `Bit Manipulation` |
 | 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | 🟢 **Easy** | [PY](solutions/3427-sum-of-variable-length-subarrays/solution.py) • [Notes](solutions/3427-sum-of-variable-length-subarrays/README.md) | `Array`, `Prefix Sum` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | 🟢 **Easy** | [PY](solutions/3432-count-partitions-with-even-sum-difference/solution.py) • [Notes](solutions/3432-count-partitions-with-even-sum-difference/README.md) | `Array`, `Math`, `Prefix Sum` |
+| 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | 🟡 **Medium** | [PY](solutions/3446-sort-matrix-by-diagonals/solution.py) • [Notes](solutions/3446-sort-matrix-by-diagonals/README.md) | `Array`, `Sorting`, `Matrix` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 **Easy** | [PY](solutions/3467-transform-array-by-parity/solution.py) • [Notes](solutions/3467-transform-array-by-parity/README.md) | `Array`, `Sorting`, `Counting` |
 | 3475 | [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition/) | 🟡 **Medium** | [PY](solutions/3475-dna-pattern-recognition/solution.py) • [Notes](solutions/3475-dna-pattern-recognition/README.md) | `Database` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 **Easy** | [PY](solutions/3498-reverse-degree-of-a-string/solution.py) • [Notes](solutions/3498-reverse-degree-of-a-string/README.md) | `String`, `Simulation` |

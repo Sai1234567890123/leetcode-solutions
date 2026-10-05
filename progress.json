@@ -2067,5 +2067,19 @@
       "Hash Table"
     ],
     "solved_at": "2026-10-05T08:35:39.359455"
+  },
+  "3446": {
+    "id": "3446",
+    "title": "Sort Matrix by Diagonals",
+    "slug": "sort-matrix-by-diagonals",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3446-sort-matrix-by-diagonals",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T08:36:23.211435"
   }
 }
