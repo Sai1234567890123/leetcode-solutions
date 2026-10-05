@@ -41,5 +41,19 @@
     "relative_dir": "solutions/2884-modify-columns",
     "tags": [],
     "solved_at": "2026-10-05T07:19:04.084037"
+  },
+  "3898": {
+    "id": "3898",
+    "title": "Find the Degree of Each Vertex",
+    "slug": "find-the-degree-of-each-vertex",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3898-find-the-degree-of-each-vertex",
+    "tags": [
+      "Array",
+      "Graph Theory",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T07:19:41.634747"
   }
 }
