@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `204 / 1000` (20.4%)
-- **🟢 Easy:** `146`
+- **Total Solved:** `205 / 1000` (20.5%)
+- **🟢 Easy:** `147`
 - **🟡 Medium:** `57`
 - **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 08:54:16 UTC`
+- **Last Updated:** `2026-10-05 08:54:36 UTC`
 
 ---
 
@@ -22,6 +22,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 **Easy** | [PY](solutions/0557-reverse-words-in-a-string-iii/solution.py) • [Notes](solutions/0557-reverse-words-in-a-string-iii/README.md) | `Two Pointers`, `String` |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 **Easy** | [PY](solutions/0627-swap-sex-of-employees/solution.py) • [Notes](solutions/0627-swap-sex-of-employees/README.md) | `Database` |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 🟡 **Medium** | [PY](solutions/0654-maximum-binary-tree/solution.py) • [Notes](solutions/0654-maximum-binary-tree/README.md) | `Array`, `Divide and Conquer`, `Stack` |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 **Easy** | [PY](solutions/0700-search-in-a-binary-search-tree/solution.py) • [Notes](solutions/0700-search-in-a-binary-search-tree/README.md) | `Tree`, `Binary Search Tree`, `Binary Tree` |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 **Easy** | [PY](solutions/0709-to-lower-case/solution.py) • [Notes](solutions/0709-to-lower-case/README.md) | `String` |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 **Medium** | [PY](solutions/0797-all-paths-from-source-to-target/solution.py) • [Notes](solutions/0797-all-paths-from-source-to-target/README.md) | `Backtracking`, `Depth-First Search`, `Breadth-First Search` |

@@ -2675,5 +2675,19 @@
       "Linked List"
     ],
     "solved_at": "2026-10-05T08:54:16.255191"
+  },
+  "700": {
+    "id": "700",
+    "title": "Search in a Binary Search Tree",
+    "slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0700-search-in-a-binary-search-tree",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:54:36.536772"
   }
 }
