@@ -296,5 +296,15 @@
       "Brainteaser"
     ],
     "solved_at": "2026-10-05T07:33:55.435455"
+  },
+  "2888": {
+    "id": "2888",
+    "title": "Reshape Data: Concatenate",
+    "slug": "reshape-data-concatenate",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2888-reshape-data-concatenate",
+    "tags": [],
+    "solved_at": "2026-10-05T07:34:30.147655"
   }
 }
