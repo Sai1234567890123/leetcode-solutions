@@ -152,5 +152,18 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:25:51.998363"
+  },
+  "1920": {
+    "id": "1920",
+    "title": "Build Array from Permutation",
+    "slug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1920-build-array-from-permutation",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:26:47.195332"
   }
 }
