@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `101 / 1000` (10.1%)
+- **Total Solved:** `102 / 1000` (10.2%)
 - **🟢 Easy:** `80`
-- **🟡 Medium:** `21`
+- **🟡 Medium:** `22`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:02:56 UTC`
+- **Last Updated:** `2026-10-05 08:03:21 UTC`
 
 ---
 
@@ -31,6 +31,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 **Medium** | [PY](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.py) • [Notes](solutions/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | `String`, `Backtracking` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 **Easy** | [PY](solutions/1431-kids-with-the-greatest-number-of-candies/solution.py) • [Notes](solutions/1431-kids-with-the-greatest-number-of-candies/README.md) | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 **Easy** | [PY](solutions/1470-shuffle-the-array/solution.py) • [Notes](solutions/1470-shuffle-the-array/README.md) | `Array` |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | 🟡 **Medium** | [PY](solutions/1476-subrectangle-queries/solution.py) • [Notes](solutions/1476-subrectangle-queries/README.md) | `Array`, `Design`, `Matrix` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 **Easy** | [PY](solutions/1480-running-sum-of-1d-array/solution.py) • [Notes](solutions/1480-running-sum-of-1d-array/README.md) | `Array`, `Prefix Sum` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | 🟢 **Easy** | [PY](solutions/1486-xor-operation-in-an-array/solution.py) • [Notes](solutions/1486-xor-operation-in-an-array/README.md) | `Math`, `Bit Manipulation` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 **Easy** | [PY](solutions/1512-number-of-good-pairs/solution.py) • [Notes](solutions/1512-number-of-good-pairs/README.md) | `Array`, `Hash Table`, `Math` |
