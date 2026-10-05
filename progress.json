@@ -113,5 +113,18 @@
     "relative_dir": "solutions/2627-debounce",
     "tags": [],
     "solved_at": "2026-10-05T07:23:14.987122"
+  },
+  "3760": {
+    "id": "3760",
+    "title": "Maximum Substrings With Distinct Start",
+    "slug": "maximum-substrings-with-distinct-start",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/3760-maximum-substrings-with-distinct-start",
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:24:36.227431"
   }
 }

@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `10 / 1000` (1.0%)
+- **Total Solved:** `11 / 1000` (1.1%)
 - **🟢 Easy:** `9`
-- **🟡 Medium:** `1`
+- **🟡 Medium:** `2`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:23:14 UTC`
+- **Last Updated:** `2026-10-05 07:24:36 UTC`
 
 ---
 
@@ -25,4 +25,5 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 **Easy** | [PY](solutions/2884-modify-columns/solution.py) • [Notes](solutions/2884-modify-columns/README.md) |  |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 **Easy** | [PY](solutions/3498-reverse-degree-of-a-string/solution.py) • [Notes](solutions/3498-reverse-degree-of-a-string/README.md) | `String`, `Simulation` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 **Easy** | [PY](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.py) • [Notes](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | `Array`, `Math` |
+| 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 **Easy** | [PY](solutions/3898-find-the-degree-of-each-vertex/solution.py) • [Notes](solutions/3898-find-the-degree-of-each-vertex/README.md) | `Array`, `Graph Theory`, `Matrix` |
