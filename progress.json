@@ -2267,5 +2267,17 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:41:03.962206"
+  },
+  "3683": {
+    "id": "3683",
+    "title": "Earliest Time to Finish One Task",
+    "slug": "earliest-time-to-finish-one-task",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3683-earliest-time-to-finish-one-task",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T08:41:20.843677"
   }
 }
