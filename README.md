@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `183 / 1000` (18.3%)
+- **Total Solved:** `184 / 1000` (18.4%)
 - **🟢 Easy:** `137`
-- **🟡 Medium:** `46`
+- **🟡 Medium:** `47`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:44:16 UTC`
+- **Last Updated:** `2026-10-05 08:44:34 UTC`
 
 ---
 
@@ -104,6 +104,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | 🟢 **Easy** | [PY](solutions/2185-counting-words-with-a-given-prefix/solution.py) • [Notes](solutions/2185-counting-words-with-a-given-prefix/README.md) | `Array`, `String`, `String Matching` |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | 🟢 **Easy** | [PY](solutions/2194-cells-in-a-range-on-an-excel-sheet/solution.py) • [Notes](solutions/2194-cells-in-a-range-on-an-excel-sheet/README.md) | `String` |
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | 🟡 **Medium** | [PY](solutions/2196-create-binary-tree-from-descriptions/solution.py) • [Notes](solutions/2196-create-binary-tree-from-descriptions/README.md) | `Array`, `Hash Table`, `Tree` |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | 🟢 **Easy** | [PY](solutions/2220-minimum-bit-flips-to-convert-number/solution.py) • [Notes](solutions/2220-minimum-bit-flips-to-convert-number/README.md) | `Bit Manipulation` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 **Easy** | [PY](solutions/2235-add-two-integers/solution.py) • [Notes](solutions/2235-add-two-integers/README.md) | `Math` |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | 🟢 **Easy** | [PY](solutions/2236-root-equals-sum-of-children/solution.py) • [Notes](solutions/2236-root-equals-sum-of-children/README.md) | `Tree`, `Binary Tree` |

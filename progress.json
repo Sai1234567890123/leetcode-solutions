@@ -2392,5 +2392,20 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:44:16.039921"
+  },
+  "2196": {
+    "id": "2196",
+    "title": "Create Binary Tree From Descriptions",
+    "slug": "create-binary-tree-from-descriptions",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2196-create-binary-tree-from-descriptions",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:44:34.092743"
   }
 }
