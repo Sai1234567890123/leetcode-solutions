@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `31 / 1000` (3.1%)
+- **Total Solved:** `32 / 1000` (3.2%)
 - **🟢 Easy:** `25`
-- **🟡 Medium:** `6`
+- **🟡 Medium:** `7`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:38:16 UTC`
+- **Last Updated:** `2026-10-05 07:39:39 UTC`
 
 ---
 
@@ -19,6 +19,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 **Medium** | [PY](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) • [Notes](solutions/1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md) | `String`, `Greedy` |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | 🟡 **Medium** | [PY](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.py) • [Notes](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | `Array`, `String`, `Prefix Sum` |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 **Easy** | [PY](solutions/1863-sum-of-all-subset-xor-totals/solution.py) • [Notes](solutions/1863-sum-of-all-subset-xor-totals/README.md) | `Array`, `Math`, `Backtracking` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 **Easy** | [PY](solutions/2011-final-value-of-variable-after-performing-operations/solution.py) • [Notes](solutions/2011-final-value-of-variable-after-performing-operations/README.md) | `Array`, `String`, `Simulation` |
