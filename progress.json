@@ -1027,5 +1027,20 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:55:49.129752"
+  },
+  "2037": {
+    "id": "2037",
+    "title": "Minimum Number of Moves to Seat Everyone",
+    "slug": "minimum-number-of-moves-to-seat-everyone",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2037-minimum-number-of-moves-to-seat-everyone",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "solved_at": "2026-10-05T07:56:18.006958"
   }
 }

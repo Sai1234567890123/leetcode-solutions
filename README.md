@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `80 / 1000` (8.0%)
-- **🟢 Easy:** `65`
+- **Total Solved:** `81 / 1000` (8.1%)
+- **🟢 Easy:** `66`
 - **🟡 Medium:** `15`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:55:49 UTC`
+- **Last Updated:** `2026-10-05 07:56:18 UTC`
 
 ---
 
@@ -42,6 +42,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 **Easy** | [PY](solutions/1929-concatenation-of-array/solution.py) • [Notes](solutions/1929-concatenation-of-array/README.md) | `Array`, `Simulation` |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 **Easy** | [PY](solutions/2011-final-value-of-variable-after-performing-operations/solution.py) • [Notes](solutions/2011-final-value-of-variable-after-performing-operations/README.md) | `Array`, `String`, `Simulation` |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | 🟢 **Easy** | [PY](solutions/2037-minimum-number-of-moves-to-seat-everyone/solution.py) • [Notes](solutions/2037-minimum-number-of-moves-to-seat-everyone/README.md) | `Array`, `Greedy`, `Sorting` |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | 🟡 **Medium** | [PY](solutions/2044-count-number-of-maximum-bitwise-or-subsets/solution.py) • [Notes](solutions/2044-count-number-of-maximum-bitwise-or-subsets/README.md) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
