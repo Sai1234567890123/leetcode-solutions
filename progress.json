@@ -2254,5 +2254,18 @@
       "Monotonic Stack"
     ],
     "solved_at": "2026-10-05T08:40:44.240394"
+  },
+  "1832": {
+    "id": "1832",
+    "title": "Check if the Sentence Is Pangram",
+    "slug": "check-if-the-sentence-is-pangram",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1832-check-if-the-sentence-is-pangram",
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:41:03.962206"
   }
 }
