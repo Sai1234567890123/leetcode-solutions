@@ -2595,5 +2595,15 @@
       "Greatest Common Divisor"
     ],
     "solved_at": "2026-10-05T08:51:25.565648"
+  },
+  "2637": {
+    "id": "2637",
+    "title": "Promise Time Limit",
+    "slug": "promise-time-limit",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2637-promise-time-limit",
+    "tags": [],
+    "solved_at": "2026-10-05T08:51:53.765102"
   }
 }
