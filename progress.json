@@ -1539,5 +1539,20 @@
       "Math"
     ],
     "solved_at": "2026-10-05T08:20:06.383114"
+  },
+  "1379": {
+    "id": "1379",
+    "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:20:26.811660"
   }
 }
