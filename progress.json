@@ -817,5 +817,17 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:49:53.928914"
+  },
+  "1431": {
+    "id": "1431",
+    "title": "Kids With the Greatest Number of Candies",
+    "slug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1431-kids-with-the-greatest-number-of-candies",
+    "tags": [
+      "Array"
+    ],
+    "solved_at": "2026-10-05T07:50:13.478648"
   }
 }
