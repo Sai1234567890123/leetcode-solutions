@@ -1490,5 +1490,15 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:18:28.753043"
+  },
+  "2890": {
+    "id": "2890",
+    "title": "Reshape Data: Melt",
+    "slug": "reshape-data-melt",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2890-reshape-data-melt",
+    "tags": [],
+    "solved_at": "2026-10-05T08:18:46.064782"
   }
 }
