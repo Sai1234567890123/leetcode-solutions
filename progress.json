@@ -1902,5 +1902,19 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T08:31:09.621844"
+  },
+  "2391": {
+    "id": "2391",
+    "title": "Minimum Amount of Time to Collect Garbage",
+    "slug": "minimum-amount-of-time-to-collect-garbage",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2391-minimum-amount-of-time-to-collect-garbage",
+    "tags": [
+      "Array",
+      "String",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:31:30.120240"
   }
 }

@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `147 / 1000` (14.7%)
+- **Total Solved:** `148 / 1000` (14.8%)
 - **🟢 Easy:** `113`
-- **🟡 Medium:** `34`
+- **🟡 Medium:** `35`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:31:09 UTC`
+- **Last Updated:** `2026-10-05 08:31:30 UTC`
 
 ---
 
@@ -89,6 +89,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | 🟢 **Easy** | [PY](solutions/2367-number-of-arithmetic-triplets/solution.py) • [Notes](solutions/2367-number-of-arithmetic-triplets/README.md) | `Array`, `Hash Table`, `Two Pointers` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | 🟢 **Easy** | [PY](solutions/2373-largest-local-values-in-a-matrix/solution.py) • [Notes](solutions/2373-largest-local-values-in-a-matrix/README.md) | `Array`, `Matrix` |
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | 🟡 **Medium** | [PY](solutions/2375-construct-smallest-number-from-di-string/solution.py) • [Notes](solutions/2375-construct-smallest-number-from-di-string/README.md) | `String`, `Backtracking`, `Stack` |
+| 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | 🟡 **Medium** | [PY](solutions/2391-minimum-amount-of-time-to-collect-garbage/solution.py) • [Notes](solutions/2391-minimum-amount-of-time-to-collect-garbage/README.md) | `Array`, `String`, `Prefix Sum` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | 🟢 **Easy** | [PY](solutions/2413-smallest-even-multiple/solution.py) • [Notes](solutions/2413-smallest-even-multiple/README.md) | `Math`, `Number Theory` |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 **Medium** | [PY](solutions/2415-reverse-odd-levels-of-binary-tree/solution.py) • [Notes](solutions/2415-reverse-odd-levels-of-binary-tree/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
