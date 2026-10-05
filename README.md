@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `122 / 1000` (12.2%)
-- **🟢 Easy:** `92`
+- **Total Solved:** `123 / 1000` (12.3%)
+- **🟢 Easy:** `93`
 - **🟡 Medium:** `30`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:21:08 UTC`
+- **Last Updated:** `2026-10-05 08:21:38 UTC`
 
 ---
 
@@ -134,6 +134,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | 🟢 **Easy** | [PY](solutions/3794-reverse-string-prefix/solution.py) • [Notes](solutions/3794-reverse-string-prefix/README.md) | `Two Pointers`, `String` |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 **Easy** | [PY](solutions/3838-weighted-word-mapping/solution.py) • [Notes](solutions/3838-weighted-word-mapping/README.md) | `Array`, `String`, `Simulation` |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 **Easy** | [PY](solutions/3875-construct-uniform-parity-array-i/solution.py) • [Notes](solutions/3875-construct-uniform-parity-array-i/README.md) | `Array`, `Math` |
 | 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | 🟡 **Medium** | [PY](solutions/3895-count-digit-appearances/solution.py) • [Notes](solutions/3895-count-digit-appearances/README.md) | `Array`, `Math` |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 **Easy** | [PY](solutions/3898-find-the-degree-of-each-vertex/solution.py) • [Notes](solutions/3898-find-the-degree-of-each-vertex/README.md) | `Array`, `Graph Theory`, `Matrix` |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 **Easy** | [PY](solutions/3925-concatenate-array-with-reverse/solution.py) • [Notes](solutions/3925-concatenate-array-with-reverse/README.md) | `Array`, `Simulation` |
