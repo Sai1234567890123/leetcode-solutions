@@ -2823,5 +2823,15 @@
       "Matrix"
     ],
     "solved_at": "2026-10-05T13:42:55.102152+00:00"
+  },
+  "2724": {
+    "id": "2724",
+    "title": "Sort By",
+    "slug": "sort-by",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2724-sort-by",
+    "tags": [],
+    "solved_at": "2026-10-05T13:43:19.590763+00:00"
   }
 }

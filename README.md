@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `215 / 10` (2150.0%)
-- **🟢 Easy:** `156`
+- **Total Solved:** `216 / 10` (2160.0%)
+- **🟢 Easy:** `157`
 - **🟡 Medium:** `58`
 - **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 13:42:55 UTC`
+- **Last Updated:** `2026-10-05 13:43:19 UTC`
 
 ---
 
@@ -164,6 +164,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 **Easy** | [PY](solutions/2703-return-length-of-arguments-passed/solution.py) • [Notes](solutions/2703-return-length-of-arguments-passed/README.md) |  |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | 🟢 **Easy** | [PY](solutions/2715-timeout-cancellation/solution.py) • [Notes](solutions/2715-timeout-cancellation/README.md) |  |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | 🟢 **Easy** | [PY](solutions/2723-add-two-promises/solution.py) • [Notes](solutions/2723-add-two-promises/README.md) |  |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | 🟢 **Easy** | [PY](solutions/2724-sort-by/solution.py) • [Notes](solutions/2724-sort-by/README.md) |  |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | 🟢 **Easy** | [PY](solutions/2725-interval-cancellation/solution.py) • [Notes](solutions/2725-interval-cancellation/README.md) |  |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 **Easy** | [PY](solutions/2769-find-the-maximum-achievable-number/solution.py) • [Notes](solutions/2769-find-the-maximum-achievable-number/README.md) | `Math` |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 **Medium** | [PY](solutions/2785-sort-vowels-in-a-string/solution.py) • [Notes](solutions/2785-sort-vowels-in-a-string/README.md) | `String`, `Sorting` |
