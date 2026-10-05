@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `148 / 1000` (14.8%)
-- **🟢 Easy:** `113`
+- **Total Solved:** `149 / 1000` (14.9%)
+- **🟢 Easy:** `114`
 - **🟡 Medium:** `35`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:31:30 UTC`
+- **Last Updated:** `2026-10-05 08:31:49 UTC`
 
 ---
 
@@ -18,6 +18,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 |---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | 🟡 **Medium** | [PY](solutions/0535-encode-and-decode-tinyurl/solution.py) • [Notes](solutions/0535-encode-and-decode-tinyurl/README.md) | `Hash Table`, `String`, `Design` |
+| 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 **Easy** | [PY](solutions/0627-swap-sex-of-employees/solution.py) • [Notes](solutions/0627-swap-sex-of-employees/README.md) | `Database` |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 🟡 **Medium** | [PY](solutions/0654-maximum-binary-tree/solution.py) • [Notes](solutions/0654-maximum-binary-tree/README.md) | `Array`, `Divide and Conquer`, `Stack` |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 **Easy** | [PY](solutions/0709-to-lower-case/solution.py) • [Notes](solutions/0709-to-lower-case/README.md) | `String` |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
