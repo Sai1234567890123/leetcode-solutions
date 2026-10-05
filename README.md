@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `223 / 10` (2230.0%)
+- **Total Solved:** `224 / 10` (2240.0%)
 - **🟢 Easy:** `161`
-- **🟡 Medium:** `60`
+- **🟡 Medium:** `61`
 - **🔴 Hard:** `2`
-- **Last Updated:** `2026-10-05 13:45:54 UTC`
+- **Last Updated:** `2026-10-05 13:46:18 UTC`
 
 ---
 
@@ -17,6 +17,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | # | Title | Difficulty | Solution | Topics |
 |---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 **Easy** | [PY](solutions/0001-two-sum/solution.py) • [Notes](solutions/0001-two-sum/README.md) | `Array`, `Hash Table` |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 **Medium** | [PY](solutions/0078-subsets/solution.py) • [Notes](solutions/0078-subsets/README.md) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 **Medium** | [PY](solutions/0237-delete-node-in-a-linked-list/solution.py) • [Notes](solutions/0237-delete-node-in-a-linked-list/README.md) | `Linked List` |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | 🟡 **Medium** | [PY](solutions/0535-encode-and-decode-tinyurl/solution.py) • [Notes](solutions/0535-encode-and-decode-tinyurl/README.md) | `Hash Table`, `String`, `Design` |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 **Easy** | [PY](solutions/0557-reverse-words-in-a-string-iii/solution.py) • [Notes](solutions/0557-reverse-words-in-a-string-iii/README.md) | `Two Pointers`, `String` |
