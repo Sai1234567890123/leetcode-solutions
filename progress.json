@@ -965,5 +965,20 @@
       "Bracket Sequences"
     ],
     "solved_at": "2026-10-05T07:54:11.713964"
+  },
+  "1365": {
+    "id": "1365",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "solved_at": "2026-10-05T07:54:34.188640"
   }
 }
