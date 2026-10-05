@@ -712,5 +712,18 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T07:47:18.988878"
+  },
+  "2413": {
+    "id": "2413",
+    "title": "Smallest Even Multiple",
+    "slug": "smallest-even-multiple",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2413-smallest-even-multiple",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ],
+    "solved_at": "2026-10-05T07:47:35.219078"
   }
 }
