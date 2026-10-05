@@ -1638,5 +1638,18 @@
       "Database"
     ],
     "solved_at": "2026-10-05T08:22:42.770906"
+  },
+  "1534": {
+    "id": "1534",
+    "title": "Count Good Triplets",
+    "slug": "count-good-triplets",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1534-count-good-triplets",
+    "tags": [
+      "Array",
+      "Enumeration"
+    ],
+    "solved_at": "2026-10-05T08:23:16.897628"
   }
 }
