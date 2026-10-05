@@ -530,5 +530,19 @@
       "Enumeration"
     ],
     "solved_at": "2026-10-05T07:42:57.611136"
+  },
+  "3467": {
+    "id": "3467",
+    "title": "Transform Array by Parity",
+    "slug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3467-transform-array-by-parity",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T07:43:15.934481"
   }
 }
