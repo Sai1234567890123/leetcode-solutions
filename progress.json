@@ -1425,5 +1425,17 @@
       "Hash Table"
     ],
     "solved_at": "2026-10-05T08:16:55.372235"
+  },
+  "2652": {
+    "id": "2652",
+    "title": "Sum Multiples",
+    "slug": "sum-multiples",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2652-sum-multiples",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T08:17:15.988031"
   }
 }
