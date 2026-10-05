@@ -113,14 +113,14 @@ def run_batch(limit: int = None, strategy: str = None, single_slug: str = None, 
     limit = limit or BATCH_LIMIT
     strategy = strategy or SELECTION_STRATEGY
 
-    if not GEMINI_API_KEY:
+    adc_file = Path.home() / "AppData" / "Roaming" / "gcloud" / "application_default_credentials.json"
+    if not GEMINI_API_KEY and not adc_file.exists():
         print("\n" + "=" * 60)
-        print("❌ ERROR: GEMINI_API_KEY is not configured in .env!")
-        print("Please add your Gemini API key to .env:")
-        print("   GEMINI_API_KEY=AIzaSy...")
-        print("You can get a free key instantly at https://aistudio.google.com/app/apikey")
+        print("❌ ERROR: No authentication found!")
+        print("Please authenticate via gcloud auth application-default login or set GEMINI_API_KEY in .env")
         print("=" * 60 + "\n")
         return
+
 
     progress = load_progress()
 
@@ -157,9 +157,22 @@ def run_batch(limit: int = None, strategy: str = None, single_slug: str = None, 
         try:
             # 1. Fetch Question details
             details = fetch_question_details(slug)
+            snippets = details.get("snippets", {})
+            lang_to_use = TARGET_LANGUAGE
+            if lang_to_use not in snippets:
+                if "python" in snippets:
+                    lang_to_use = "python"
+                elif "cpp" in snippets:
+                    lang_to_use = "cpp"
+                elif snippets:
+                    lang_to_use = next(iter(snippets.keys()))
+                else:
+                    print(f"[-] Skipping #{q_id} ({slug}): No starter snippet available.")
+                    continue
 
             # 2. Call Gemini Solver
-            solution_data = solve_problem(details, language=TARGET_LANGUAGE)
+            solution_data = solve_problem(details, language=lang_to_use)
+            ext = EXT_MAP.get(lang_to_use, "py")
 
             # 3. Create directory
             prob_dir_name = f"{int(q_id):04d}-{slug}"
@@ -187,20 +200,21 @@ def run_batch(limit: int = None, strategy: str = None, single_slug: str = None, 
 
 ---
 
-## 💡 Solution & Approach
-
-{solution_data['explanation']}
-
----
-
 ## 💻 Implementation ({TARGET_LANGUAGE})
 
 ```{ext}
 {solution_data['code']}
 ```
+
+---
+
+## 💡 Solution, Complexity & Interview Analysis
+
+{solution_data['explanation']}
 """
             with open(doc_path, "w", encoding="utf-8") as f:
                 f.write(doc_content)
+
 
             # 6. Record progress
             progress[q_id] = {

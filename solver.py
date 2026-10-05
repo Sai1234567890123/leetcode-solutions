@@ -1,8 +1,11 @@
+import os
 import re
 import html
+import json
+from pathlib import Path
 from google import genai
 from google.genai import types
-from config import GEMINI_API_KEY, GEMINI_MODEL
+from config import GEMINI_API_KEY, GEMINI_MODEL, GCP_PROJECT_ID, GCP_LOCATION, BASE_DIR
 
 def clean_html(raw_html: str) -> str:
     """Converts basic LeetCode HTML content to clean Markdown."""
@@ -27,17 +30,18 @@ def clean_html(raw_html: str) -> str:
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 
-SYSTEM_INSTRUCTION = """You are an elite competitive programmer and Staff Software Engineer at Google.
-Your mission is to solve LeetCode problems with 100% optimal time and space complexity.
+SYSTEM_INSTRUCTION = """You are an elite competitive programmer and Principal Engineer who conducts coding interviews at Google and Meta.
+Your mission is to solve LeetCode problems with 100% optimal time and space complexity AND provide real interview prep intelligence.
+
 Requirements:
-1. Deliver clean, production-grade, readable code in the requested programming language.
-2. Adhere STRICTLY to the provided function/method signature.
-3. Include clear inline comments explaining non-trivial logic.
-4. Provide a structured explanation covering:
-   - Intuition
+1. Deliver clean, production-grade, readable code in the requested programming language adhering strictly to the starter method signature.
+2. Include clear inline comments explaining non-trivial logic.
+3. Provide a structured explanation covering:
+   - Intuition & Thought Process
    - Step-by-Step Approach
    - Complexity Analysis (Time Complexity & Space Complexity with Big-O notation)
-   - Edge Cases Handled
+   - Common Pitfalls / Mistakes candidates make in interviews
+   - Real Interview Follow-Up Questions (e.g. handling streaming data, memory constraints, scale, duplicates, concurrency) and how to answer them!
 
 Always output your response in the following exact format:
 
@@ -46,22 +50,45 @@ Always output your response in the following exact format:
 ---CODE_END---
 
 ---EXPLANATION_START---
-<put the markdown explanation here>
+<put the markdown explanation here, including intuition, complexity analysis, common pitfalls, and interview follow-up questions & answers>
 ---EXPLANATION_END---
 """
 
-def solve_problem(problem_details: dict, language: str = "python3") -> dict:
-    """Uses Gemini API to solve the problem and generate solution code and documentation."""
-    if not GEMINI_API_KEY:
-        raise ValueError("GEMINI_API_KEY is not set. Please provide your Gemini API Key in .env")
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+def find_service_account_file() -> str:
+    """Auto-detects any downloaded Google Cloud Service Account JSON file."""
+    search_dirs = [
+        Path.home() / "Downloads",
+        BASE_DIR,
+    ]
+    for d in search_dirs:
+        if not d.exists():
+            continue
+        for f in d.glob("*.json"):
+            try:
+                with open(f, "r", encoding="utf-8") as jf:
+                    data = json.load(jf)
+                    if data.get("type") == "service_account":
+                        return str(f)
+            except Exception:
+                continue
+    return None
+
+def solve_problem(problem_details: dict, language: str = "python3") -> dict:
+    """Uses Vertex AI powered by Google Cloud credits to solve the problem and generate solution code and documentation."""
+    # Use Vertex AI with authenticated Google Cloud Application Default Credentials (ADC)
+    client = genai.Client(
+        vertexai=True,
+        project=GCP_PROJECT_ID,
+        location=GCP_LOCATION
+    )
 
     title = problem_details["title"]
     diff = problem_details["difficulty"]
     q_id = problem_details["id"]
     description = clean_html(problem_details.get("content", ""))
     starter_code = problem_details.get("snippets", {}).get(language, "")
+
 
     prompt = f"""Problem #{q_id}: {title}
 Difficulty: {diff}

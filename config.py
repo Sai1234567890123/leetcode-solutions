@@ -10,6 +10,11 @@ load_dotenv(BASE_DIR / ".env")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip()
 
+GCP_PROJECT_ID = os.getenv("GCP_PROJECT_ID", "aiautomationplatform").strip()
+
+GCP_LOCATION = os.getenv("GCP_LOCATION", "us-central1").strip()
+
+
 # GitHub & Git Config
 GITHUB_REPO_URL = os.getenv("GITHUB_REPO_URL", "").strip()
 GIT_USER_NAME = os.getenv("GIT_USER_NAME", "").strip()
