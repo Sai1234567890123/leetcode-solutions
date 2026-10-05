@@ -1889,5 +1889,18 @@
       "Sqrt Decomposition"
     ],
     "solved_at": "2026-10-05T08:30:36.461063"
+  },
+  "3427": {
+    "id": "3427",
+    "title": "Sum of Variable Length Subarrays",
+    "slug": "sum-of-variable-length-subarrays",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3427-sum-of-variable-length-subarrays",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:31:09.621844"
   }
 }

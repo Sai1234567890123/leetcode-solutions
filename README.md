@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `146 / 1000` (14.6%)
-- **🟢 Easy:** `112`
+- **Total Solved:** `147 / 1000` (14.7%)
+- **🟢 Easy:** `113`
 - **🟡 Medium:** `34`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:30:36 UTC`
+- **Last Updated:** `2026-10-05 08:31:09 UTC`
 
 ---
 
@@ -141,6 +141,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | 🟢 **Easy** | [PY](solutions/3285-find-indices-of-stable-mountains/solution.py) • [Notes](solutions/3285-find-indices-of-stable-mountains/README.md) | `Array` |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 **Easy** | [PY](solutions/3289-the-two-sneaky-numbers-of-digitville/solution.py) • [Notes](solutions/3289-the-two-sneaky-numbers-of-digitville/README.md) | `Array`, `Hash Table`, `Math` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 🟢 **Easy** | [PY](solutions/3300-minimum-element-after-replacement-with-digit-sum/solution.py) • [Notes](solutions/3300-minimum-element-after-replacement-with-digit-sum/README.md) | `Array`, `Math` |
+| 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | 🟢 **Easy** | [PY](solutions/3427-sum-of-variable-length-subarrays/solution.py) • [Notes](solutions/3427-sum-of-variable-length-subarrays/README.md) | `Array`, `Prefix Sum` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | 🟢 **Easy** | [PY](solutions/3432-count-partitions-with-even-sum-difference/solution.py) • [Notes](solutions/3432-count-partitions-with-even-sum-difference/README.md) | `Array`, `Math`, `Prefix Sum` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 **Easy** | [PY](solutions/3467-transform-array-by-parity/solution.py) • [Notes](solutions/3467-transform-array-by-parity/README.md) | `Array`, `Sorting`, `Counting` |
 | 3475 | [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition/) | 🟡 **Medium** | [PY](solutions/3475-dna-pattern-recognition/solution.py) • [Notes](solutions/3475-dna-pattern-recognition/README.md) | `Database` |
