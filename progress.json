@@ -2517,5 +2517,17 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:48:51.175181"
+  },
+  "2315": {
+    "id": "2315",
+    "title": "Count Asterisks",
+    "slug": "count-asterisks",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2315-count-asterisks",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:49:11.055884"
   }
 }
