@@ -579,5 +579,19 @@
     "relative_dir": "solutions/2695-array-wrapper",
     "tags": [],
     "solved_at": "2026-10-05T07:44:09.541564"
+  },
+  "3541": {
+    "id": "3541",
+    "title": "Find Most Frequent Vowel and Consonant",
+    "slug": "find-most-frequent-vowel-and-consonant",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3541-find-most-frequent-vowel-and-consonant",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T07:44:27.212468"
   }
 }
