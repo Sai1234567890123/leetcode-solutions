@@ -2605,5 +2605,19 @@
     "relative_dir": "solutions/2637-promise-time-limit",
     "tags": [],
     "solved_at": "2026-10-05T08:51:53.765102"
+  },
+  "1329": {
+    "id": "1329",
+    "title": "Sort the Matrix Diagonally",
+    "slug": "sort-the-matrix-diagonally",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1329-sort-the-matrix-diagonally",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T08:52:24.993515"
   }
 }

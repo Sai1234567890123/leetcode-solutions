@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `199 / 1000` (19.9%)
+- **Total Solved:** `200 / 1000` (20.0%)
 - **🟢 Easy:** `146`
-- **🟡 Medium:** `53`
+- **🟡 Medium:** `54`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:51:53 UTC`
+- **Last Updated:** `2026-10-05 08:52:24 UTC`
 
 ---
 
@@ -46,6 +46,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | 🟢 **Easy** | [PY](solutions/1313-decompress-run-length-encoded-list/solution.py) • [Notes](solutions/1313-decompress-run-length-encoded-list/README.md) | `Array` |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | 🟡 **Medium** | [PY](solutions/1315-sum-of-nodes-with-even-valued-grandparent/solution.py) • [Notes](solutions/1315-sum-of-nodes-with-even-valued-grandparent/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | 🟢 **Easy** | [PY](solutions/1323-maximum-69-number/solution.py) • [Notes](solutions/1323-maximum-69-number/README.md) | `Math`, `Greedy` |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | 🟡 **Medium** | [PY](solutions/1329-sort-the-matrix-diagonally/solution.py) • [Notes](solutions/1329-sort-the-matrix-diagonally/README.md) | `Array`, `Sorting`, `Matrix` |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 🟢 **Easy** | [PY](solutions/1342-number-of-steps-to-reduce-a-number-to-zero/solution.py) • [Notes](solutions/1342-number-of-steps-to-reduce-a-number-to-zero/README.md) | `Math`, `Bit Manipulation` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 **Easy** | [PY](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/solution.py) • [Notes](solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | `Array`, `Hash Table`, `Sorting` |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 **Easy** | [PY](solutions/1378-replace-employee-id-with-the-unique-identifier/solution.py) • [Notes](solutions/1378-replace-employee-id-with-the-unique-identifier/README.md) | `Database` |
