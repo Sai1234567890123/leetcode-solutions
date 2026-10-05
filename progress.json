@@ -502,5 +502,18 @@
     "relative_dir": "solutions/2715-timeout-cancellation",
     "tags": [],
     "solved_at": "2026-10-05T07:42:17.569459"
+  },
+  "3701": {
+    "id": "3701",
+    "title": "Compute Alternating Sum",
+    "slug": "compute-alternating-sum",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3701-compute-alternating-sum",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:42:35.927378"
   }
 }

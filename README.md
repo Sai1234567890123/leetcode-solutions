@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `40 / 1000` (4.0%)
-- **🟢 Easy:** `32`
+- **Total Solved:** `41 / 1000` (4.1%)
+- **🟢 Easy:** `33`
 - **🟡 Medium:** `8`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:42:17 UTC`
+- **Last Updated:** `2026-10-05 07:42:35 UTC`
 
 ---
 
@@ -50,6 +50,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 **Easy** | [PY](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.py) • [Notes](solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | `Array`, `Math` |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 **Easy** | [PY](solutions/3658-gcd-of-odd-and-even-sums/solution.py) • [Notes](solutions/3658-gcd-of-odd-and-even-sums/README.md) | `Math`, `Number Theory` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 **Easy** | [PY](solutions/3668-restore-finishing-order/solution.py) • [Notes](solutions/3668-restore-finishing-order/README.md) | `Array`, `Hash Table` |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 **Easy** | [PY](solutions/3701-compute-alternating-sum/solution.py) • [Notes](solutions/3701-compute-alternating-sum/README.md) | `Array`, `Simulation` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 **Easy** | [PY](solutions/3838-weighted-word-mapping/solution.py) • [Notes](solutions/3838-weighted-word-mapping/README.md) | `Array`, `String`, `Simulation` |
