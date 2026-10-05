@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `17 / 1000` (1.7%)
-- **🟢 Easy:** `14`
+- **Total Solved:** `18 / 1000` (1.8%)
+- **🟢 Easy:** `15`
 - **🟡 Medium:** `3`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:28:41 UTC`
+- **Last Updated:** `2026-10-05 07:29:23 UTC`
 
 ---
 
@@ -33,3 +33,4 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 **Easy** | [PY](solutions/3898-find-the-degree-of-each-vertex/solution.py) • [Notes](solutions/3898-find-the-degree-of-each-vertex/README.md) | `Array`, `Graph Theory`, `Matrix` |
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | 🟢 **Easy** | [PY](solutions/3925-concatenate-array-with-reverse/solution.py) • [Notes](solutions/3925-concatenate-array-with-reverse/README.md) | `Array`, `Simulation` |

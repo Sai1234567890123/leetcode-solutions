@@ -202,5 +202,18 @@
       "Hash Table"
     ],
     "solved_at": "2026-10-05T07:28:41.011044"
+  },
+  "3925": {
+    "id": "3925",
+    "title": "Concatenate Array With Reverse",
+    "slug": "concatenate-array-with-reverse",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3925-concatenate-array-with-reverse",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "solved_at": "2026-10-05T07:29:23.181317"
   }
 }
