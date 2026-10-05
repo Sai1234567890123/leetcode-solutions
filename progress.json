@@ -1692,5 +1692,19 @@
       "Math"
     ],
     "solved_at": "2026-10-05T08:24:09.742714"
+  },
+  "2006": {
+    "id": "2006",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "slug": "count-number-of-pairs-with-absolute-difference-k",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2006-count-number-of-pairs-with-absolute-difference-k",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Counting"
+    ],
+    "solved_at": "2026-10-05T08:24:28.191819"
   }
 }
