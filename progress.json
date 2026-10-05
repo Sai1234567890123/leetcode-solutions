@@ -2745,5 +2745,17 @@
       "Quicksort"
     ],
     "solved_at": "2026-10-05T08:56:33.951767"
+  },
+  "1587": {
+    "id": "1587",
+    "title": "Bank Account Summary II",
+    "slug": "bank-account-summary-ii",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1587-bank-account-summary-ii",
+    "tags": [
+      "Database"
+    ],
+    "solved_at": "2026-10-05T08:56:58.085060"
   }
 }
