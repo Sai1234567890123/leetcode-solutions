@@ -126,5 +126,19 @@
       "String"
     ],
     "solved_at": "2026-10-05T07:24:36.227431"
+  },
+  "2807": {
+    "id": "2807",
+    "title": "Insert Greatest Common Divisors in Linked List",
+    "slug": "insert-greatest-common-divisors-in-linked-list",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2807-insert-greatest-common-divisors-in-linked-list",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Number Theory"
+    ],
+    "solved_at": "2026-10-05T07:25:17.490558"
   }
 }

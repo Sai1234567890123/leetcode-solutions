@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `11 / 1000` (1.1%)
+- **Total Solved:** `12 / 1000` (1.2%)
 - **🟢 Easy:** `9`
-- **🟡 Medium:** `2`
+- **🟡 Medium:** `3`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:24:36 UTC`
+- **Last Updated:** `2026-10-05 07:25:17 UTC`
 
 ---
 
@@ -21,6 +21,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 **Easy** | [PY](solutions/2703-return-length-of-arguments-passed/solution.py) • [Notes](solutions/2703-return-length-of-arguments-passed/README.md) |  |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | 🟢 **Easy** | [PY](solutions/2723-add-two-promises/solution.py) • [Notes](solutions/2723-add-two-promises/README.md) |  |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 **Easy** | [PY](solutions/2769-find-the-maximum-achievable-number/solution.py) • [Notes](solutions/2769-find-the-maximum-achievable-number/README.md) | `Math` |
+| 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | 🟡 **Medium** | [PY](solutions/2807-insert-greatest-common-divisors-in-linked-list/solution.py) • [Notes](solutions/2807-insert-greatest-common-divisors-in-linked-list/README.md) | `Linked List`, `Math`, `Number Theory` |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | 🟢 **Easy** | [PY](solutions/2879-display-the-first-three-rows/solution.py) • [Notes](solutions/2879-display-the-first-three-rows/README.md) |  |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 **Easy** | [PY](solutions/2884-modify-columns/solution.py) • [Notes](solutions/2884-modify-columns/README.md) |  |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 **Easy** | [PY](solutions/3498-reverse-degree-of-a-string/solution.py) • [Notes](solutions/3498-reverse-degree-of-a-string/README.md) | `String`, `Simulation` |
