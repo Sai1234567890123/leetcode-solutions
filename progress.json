@@ -426,5 +426,18 @@
       "Counting"
     ],
     "solved_at": "2026-10-05T07:40:15.506752"
+  },
+  "2574": {
+    "id": "2574",
+    "title": "Left and Right Sum Differences",
+    "slug": "left-and-right-sum-differences",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2574-left-and-right-sum-differences",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T07:40:34.940860"
   }
 }

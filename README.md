@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `34 / 1000` (3.4%)
-- **🟢 Easy:** `27`
+- **Total Solved:** `35 / 1000` (3.5%)
+- **🟢 Easy:** `28`
 - **🟡 Medium:** `7`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:40:15 UTC`
+- **Last Updated:** `2026-10-05 07:40:34 UTC`
 
 ---
 
@@ -28,6 +28,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 **Medium** | [PY](solutions/2161-partition-array-according-to-given-pivot/solution.py) • [Notes](solutions/2161-partition-array-according-to-given-pivot/README.md) | `Array`, `Two Pointers`, `Simulation` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 **Medium** | [PY](solutions/2396-strictly-palindromic-number/solution.py) • [Notes](solutions/2396-strictly-palindromic-number/README.md) | `Math`, `Two Pointers`, `Brainteaser` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 **Easy** | [PY](solutions/2469-convert-the-temperature/solution.py) • [Notes](solutions/2469-convert-the-temperature/README.md) | `Math` |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 **Easy** | [PY](solutions/2574-left-and-right-sum-differences/solution.py) • [Notes](solutions/2574-left-and-right-sum-differences/README.md) | `Array`, `Prefix Sum` |
 | 2627 | [Debounce](https://leetcode.com/problems/debounce/) | 🟡 **Medium** | [PY](solutions/2627-debounce/solution.py) • [Notes](solutions/2627-debounce/README.md) |  |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 **Easy** | [PY](solutions/2703-return-length-of-arguments-passed/solution.py) • [Notes](solutions/2703-return-length-of-arguments-passed/README.md) |  |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | 🟢 **Easy** | [PY](solutions/2723-add-two-promises/solution.py) • [Notes](solutions/2723-add-two-promises/README.md) |  |
