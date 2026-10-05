@@ -1744,5 +1744,15 @@
       "String"
     ],
     "solved_at": "2026-10-05T08:25:29.309839"
+  },
+  "2626": {
+    "id": "2626",
+    "title": "Array Reduce Transformation",
+    "slug": "array-reduce-transformation",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2626-array-reduce-transformation",
+    "tags": [],
+    "solved_at": "2026-10-05T08:25:48.560417"
   }
 }

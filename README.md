@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `134 / 1000` (13.4%)
-- **🟢 Easy:** `103`
+- **Total Solved:** `135 / 1000` (13.5%)
+- **🟢 Easy:** `104`
 - **🟡 Medium:** `31`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:25:29 UTC`
+- **Last Updated:** `2026-10-05 08:25:48 UTC`
 
 ---
 
@@ -96,6 +96,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 **Easy** | [PY](solutions/2574-left-and-right-sum-differences/solution.py) • [Notes](solutions/2574-left-and-right-sum-differences/README.md) | `Array`, `Prefix Sum` |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | 🟡 **Medium** | [PY](solutions/2610-convert-an-array-into-a-2d-array-with-conditions/solution.py) • [Notes](solutions/2610-convert-an-array-into-a-2d-array-with-conditions/README.md) | `Array`, `Hash Table` |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | 🟢 **Easy** | [PY](solutions/2621-sleep/solution.py) • [Notes](solutions/2621-sleep/README.md) |  |
+| 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | 🟢 **Easy** | [PY](solutions/2626-array-reduce-transformation/solution.py) • [Notes](solutions/2626-array-reduce-transformation/README.md) |  |
 | 2627 | [Debounce](https://leetcode.com/problems/debounce/) | 🟡 **Medium** | [PY](solutions/2627-debounce/solution.py) • [Notes](solutions/2627-debounce/README.md) |  |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | 🟢 **Easy** | [PY](solutions/2629-function-composition/solution.py) • [Notes](solutions/2629-function-composition/README.md) |  |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | 🟢 **Easy** | [PY](solutions/2634-filter-elements-from-array/solution.py) • [Notes](solutions/2634-filter-elements-from-array/README.md) |  |
