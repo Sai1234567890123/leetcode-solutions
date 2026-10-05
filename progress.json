@@ -2292,5 +2292,19 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T08:41:37.081526"
+  },
+  "1859": {
+    "id": "1859",
+    "title": "Sorting the Sentence",
+    "slug": "sorting-the-sentence",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1859-sorting-the-sentence",
+    "tags": [
+      "String",
+      "Sorting",
+      "Bubble Sort"
+    ],
+    "solved_at": "2026-10-05T08:41:55.954470"
   }
 }
