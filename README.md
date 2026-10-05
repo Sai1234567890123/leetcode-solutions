@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `189 / 1000` (18.9%)
-- **🟢 Easy:** `140`
+- **Total Solved:** `190 / 1000` (19.0%)
+- **🟢 Easy:** `141`
 - **🟡 Medium:** `49`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:47:35 UTC`
+- **Last Updated:** `2026-10-05 08:47:58 UTC`
 
 ---
 
@@ -25,6 +25,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 **Easy** | [PY](solutions/0709-to-lower-case/solution.py) • [Notes](solutions/0709-to-lower-case/README.md) | `String` |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 **Easy** | [PY](solutions/0771-jewels-and-stones/solution.py) • [Notes](solutions/0771-jewels-and-stones/README.md) | `Hash Table`, `String` |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | 🟡 **Medium** | [PY](solutions/0797-all-paths-from-source-to-target/solution.py) • [Notes](solutions/0797-all-paths-from-source-to-target/README.md) | `Backtracking`, `Depth-First Search`, `Breadth-First Search` |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 🟢 **Easy** | [PY](solutions/0804-unique-morse-code-words/solution.py) • [Notes](solutions/0804-unique-morse-code-words/README.md) | `Array`, `Hash Table`, `String` |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | 🟡 **Medium** | [PY](solutions/0807-max-increase-to-keep-city-skyline/solution.py) • [Notes](solutions/0807-max-increase-to-keep-city-skyline/README.md) | `Array`, `Greedy`, `Matrix` |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | 🟢 **Easy** | [PY](solutions/0832-flipping-an-image/solution.py) • [Notes](solutions/0832-flipping-an-image/README.md) | `Array`, `Two Pointers`, `Bit Manipulation` |
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | 🟡 **Medium** | [PY](solutions/0885-spiral-matrix-iii/solution.py) • [Notes](solutions/0885-spiral-matrix-iii/README.md) | `Array`, `Matrix`, `Simulation` |

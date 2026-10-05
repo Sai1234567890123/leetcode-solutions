@@ -2475,5 +2475,19 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T08:47:35.878384"
+  },
+  "804": {
+    "id": "804",
+    "title": "Unique Morse Code Words",
+    "slug": "unique-morse-code-words",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0804-unique-morse-code-words",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:47:58.150869"
   }
 }
