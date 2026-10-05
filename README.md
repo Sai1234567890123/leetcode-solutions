@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `100 / 1000` (10.0%)
-- **🟢 Easy:** `79`
+- **Total Solved:** `101 / 1000` (10.1%)
+- **🟢 Easy:** `80`
 - **🟡 Medium:** `21`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:02:39 UTC`
+- **Last Updated:** `2026-10-05 08:02:56 UTC`
 
 ---
 
@@ -51,6 +51,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 **Easy** | [PY](solutions/1863-sum-of-all-subset-xor-totals/solution.py) • [Notes](solutions/1863-sum-of-all-subset-xor-totals/README.md) | `Array`, `Math`, `Backtracking` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 **Easy** | [PY](solutions/1929-concatenation-of-array/solution.py) • [Notes](solutions/1929-concatenation-of-array/README.md) | `Array`, `Simulation` |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | 🟢 **Easy** | [PY](solutions/2000-reverse-prefix-of-word/solution.py) • [Notes](solutions/2000-reverse-prefix-of-word/README.md) | `Two Pointers`, `String`, `Stack` |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 **Easy** | [PY](solutions/2011-final-value-of-variable-after-performing-operations/solution.py) • [Notes](solutions/2011-final-value-of-variable-after-performing-operations/README.md) | `Array`, `String`, `Simulation` |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | 🟢 **Easy** | [PY](solutions/2037-minimum-number-of-moves-to-seat-everyone/solution.py) • [Notes](solutions/2037-minimum-number-of-moves-to-seat-everyone/README.md) | `Array`, `Greedy`, `Sorting` |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | 🟡 **Medium** | [PY](solutions/2044-count-number-of-maximum-bitwise-or-subsets/solution.py) • [Notes](solutions/2044-count-number-of-maximum-bitwise-or-subsets/README.md) | `Array`, `Backtracking`, `Bit Manipulation` |
