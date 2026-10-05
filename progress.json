@@ -1251,5 +1251,17 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:01:50.153345"
+  },
+  "1791": {
+    "id": "1791",
+    "title": "Find Center of Star Graph",
+    "slug": "find-center-of-star-graph",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1791-find-center-of-star-graph",
+    "tags": [
+      "Graph Theory"
+    ],
+    "solved_at": "2026-10-05T08:02:06.549753"
   }
 }

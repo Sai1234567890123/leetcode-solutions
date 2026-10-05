@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `97 / 1000` (9.7%)
-- **🟢 Easy:** `76`
+- **Total Solved:** `98 / 1000` (9.8%)
+- **🟢 Easy:** `77`
 - **🟡 Medium:** `21`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:01:50 UTC`
+- **Last Updated:** `2026-10-05 08:02:06 UTC`
 
 ---
 
@@ -44,6 +44,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | 🟢 **Easy** | [PY](solutions/1720-decode-xored-array/solution.py) • [Notes](solutions/1720-decode-xored-array/README.md) | `Array`, `Bit Manipulation` |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 **Easy** | [PY](solutions/1757-recyclable-and-low-fat-products/solution.py) • [Notes](solutions/1757-recyclable-and-low-fat-products/README.md) | `Database` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | 🟡 **Medium** | [PY](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.py) • [Notes](solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | `Array`, `String`, `Prefix Sum` |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | 🟢 **Easy** | [PY](solutions/1791-find-center-of-star-graph/solution.py) • [Notes](solutions/1791-find-center-of-star-graph/README.md) | `Graph Theory` |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | 🟢 **Easy** | [PY](solutions/1816-truncate-sentence/solution.py) • [Notes](solutions/1816-truncate-sentence/README.md) | `Array`, `String` |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | 🟡 **Medium** | [PY](solutions/1828-queries-on-number-of-points-inside-a-circle/solution.py) • [Notes](solutions/1828-queries-on-number-of-points-inside-a-circle/README.md) | `Array`, `Math`, `Geometry` |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 **Easy** | [PY](solutions/1863-sum-of-all-subset-xor-totals/solution.py) • [Notes](solutions/1863-sum-of-all-subset-xor-totals/README.md) | `Array`, `Math`, `Backtracking` |
