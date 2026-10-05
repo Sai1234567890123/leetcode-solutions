@@ -767,5 +767,19 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T07:48:36.864321"
+  },
+  "3731": {
+    "id": "3731",
+    "title": "Find Missing Elements",
+    "slug": "find-missing-elements",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3731-find-missing-elements",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "solved_at": "2026-10-05T07:48:58.894621"
   }
 }

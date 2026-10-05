@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `60 / 1000` (6.0%)
-- **🟢 Easy:** `46`
+- **Total Solved:** `61 / 1000` (6.1%)
+- **🟢 Easy:** `47`
 - **🟡 Medium:** `14`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 07:48:36 UTC`
+- **Last Updated:** `2026-10-05 07:48:58 UTC`
 
 ---
 
@@ -69,6 +69,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 **Easy** | [PY](solutions/3658-gcd-of-odd-and-even-sums/solution.py) • [Notes](solutions/3658-gcd-of-odd-and-even-sums/README.md) | `Math`, `Number Theory` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 **Easy** | [PY](solutions/3668-restore-finishing-order/solution.py) • [Notes](solutions/3668-restore-finishing-order/README.md) | `Array`, `Hash Table` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 **Easy** | [PY](solutions/3701-compute-alternating-sum/solution.py) • [Notes](solutions/3701-compute-alternating-sum/README.md) | `Array`, `Simulation` |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 **Easy** | [PY](solutions/3731-find-missing-elements/solution.py) • [Notes](solutions/3731-find-missing-elements/README.md) | `Array`, `Hash Table`, `Sorting` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 **Medium** | [PY](solutions/3760-maximum-substrings-with-distinct-start/solution.py) • [Notes](solutions/3760-maximum-substrings-with-distinct-start/README.md) | `Hash Table`, `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 **Easy** | [PY](solutions/3783-mirror-distance-of-an-integer/solution.py) • [Notes](solutions/3783-mirror-distance-of-an-integer/README.md) | `Math` |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | 🟢 **Easy** | [PY](solutions/3794-reverse-string-prefix/solution.py) • [Notes](solutions/3794-reverse-string-prefix/README.md) | `Two Pointers`, `String` |
