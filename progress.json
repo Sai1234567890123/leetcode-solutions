@@ -620,5 +620,17 @@
       "Bit Manipulation"
     ],
     "solved_at": "2026-10-05T07:45:04.785302"
+  },
+  "3516": {
+    "id": "3516",
+    "title": "Find Closest Person",
+    "slug": "find-closest-person",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3516-find-closest-person",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:45:21.474707"
   }
 }
