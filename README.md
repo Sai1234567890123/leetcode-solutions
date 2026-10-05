@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `152 / 1000` (15.2%)
-- **🟢 Easy:** `116`
+- **Total Solved:** `153 / 1000` (15.3%)
+- **🟢 Easy:** `117`
 - **🟡 Medium:** `36`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:33:09 UTC`
+- **Last Updated:** `2026-10-05 08:33:27 UTC`
 
 ---
 
@@ -29,6 +29,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 **Easy** | [PY](solutions/1068-product-sales-analysis-i/solution.py) • [Notes](solutions/1068-product-sales-analysis-i/README.md) | `Database` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 **Easy** | [PY](solutions/1108-defanging-an-ip-address/solution.py) • [Notes](solutions/1108-defanging-an-ip-address/README.md) | `String` |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | 🟢 **Easy** | [PY](solutions/1221-split-a-string-in-balanced-strings/solution.py) • [Notes](solutions/1221-split-a-string-in-balanced-strings/README.md) | `String`, `Greedy`, `Counting` |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | 🟢 **Easy** | [PY](solutions/1266-minimum-time-visiting-all-points/solution.py) • [Notes](solutions/1266-minimum-time-visiting-all-points/README.md) | `Array`, `Math`, `Geometry` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 **Easy** | [PY](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.py) • [Notes](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md) | `Math` |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | 🟡 **Medium** | [PY](solutions/1282-group-the-people-given-the-group-size-they-belong-to/solution.py) • [Notes](solutions/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | `Array`, `Hash Table`, `Greedy` |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | 🟡 **Medium** | [PY](solutions/1302-deepest-leaves-sum/solution.py) • [Notes](solutions/1302-deepest-leaves-sum/README.md) | `Tree`, `Depth-First Search`, `Breadth-First Search` |

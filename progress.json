@@ -1971,5 +1971,19 @@
       "Game Theory"
     ],
     "solved_at": "2026-10-05T08:33:09.400636"
+  },
+  "1266": {
+    "id": "1266",
+    "title": "Minimum Time Visiting All Points",
+    "slug": "minimum-time-visiting-all-points",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1266-minimum-time-visiting-all-points",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry"
+    ],
+    "solved_at": "2026-10-05T08:33:27.541823"
   }
 }
