@@ -1554,5 +1554,23 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:20:26.811660"
+  },
+  "654": {
+    "id": "654",
+    "title": "Maximum Binary Tree",
+    "slug": "maximum-binary-tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/0654-maximum-binary-tree",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Stack",
+      "Tree",
+      "Monotonic Stack",
+      "Binary Tree",
+      "Cartesian Tree"
+    ],
+    "solved_at": "2026-10-05T08:20:48.221169"
   }
 }
