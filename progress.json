@@ -1815,5 +1815,17 @@
       "Binary Tree"
     ],
     "solved_at": "2026-10-05T08:27:41.790565"
+  },
+  "709": {
+    "id": "709",
+    "title": "To Lower Case",
+    "slug": "to-lower-case",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0709-to-lower-case",
+    "tags": [
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:28:05.698539"
   }
 }
