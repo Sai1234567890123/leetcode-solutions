@@ -1792,5 +1792,15 @@
       "Sorting"
     ],
     "solved_at": "2026-10-05T08:26:58.712639"
+  },
+  "2885": {
+    "id": "2885",
+    "title": "Rename Columns",
+    "slug": "rename-columns",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2885-rename-columns",
+    "tags": [],
+    "solved_at": "2026-10-05T08:27:15.384467"
   }
 }
