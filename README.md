@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `165 / 1000` (16.5%)
+- **Total Solved:** `166 / 1000` (16.6%)
 - **🟢 Easy:** `124`
-- **🟡 Medium:** `41`
+- **🟡 Medium:** `42`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:38:01 UTC`
+- **Last Updated:** `2026-10-05 08:38:29 UTC`
 
 ---
 
@@ -75,6 +75,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | 🟢 **Easy** | [PY](solutions/1795-rearrange-products-table/solution.py) • [Notes](solutions/1795-rearrange-products-table/README.md) | `Database` |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | 🟢 **Easy** | [PY](solutions/1816-truncate-sentence/solution.py) • [Notes](solutions/1816-truncate-sentence/README.md) | `Array`, `String` |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | 🟡 **Medium** | [PY](solutions/1828-queries-on-number-of-points-inside-a-circle/solution.py) • [Notes](solutions/1828-queries-on-number-of-points-inside-a-circle/README.md) | `Array`, `Math`, `Geometry` |
+| 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | 🟡 **Medium** | [PY](solutions/1829-maximum-xor-for-each-query/solution.py) • [Notes](solutions/1829-maximum-xor-for-each-query/README.md) | `Array`, `Bit Manipulation`, `Prefix Sum` |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 **Easy** | [PY](solutions/1863-sum-of-all-subset-xor-totals/solution.py) • [Notes](solutions/1863-sum-of-all-subset-xor-totals/README.md) | `Array`, `Math`, `Backtracking` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 **Easy** | [PY](solutions/1920-build-array-from-permutation/solution.py) • [Notes](solutions/1920-build-array-from-permutation/README.md) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 **Easy** | [PY](solutions/1929-concatenation-of-array/solution.py) • [Notes](solutions/1929-concatenation-of-array/README.md) | `Array`, `Simulation` |

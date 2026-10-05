@@ -2151,5 +2151,19 @@
       "Math"
     ],
     "solved_at": "2026-10-05T08:38:01.912842"
+  },
+  "1829": {
+    "id": "1829",
+    "title": "Maximum XOR for Each Query",
+    "slug": "maximum-xor-for-each-query",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/1829-maximum-xor-for-each-query",
+    "tags": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ],
+    "solved_at": "2026-10-05T08:38:29.426665"
   }
 }
