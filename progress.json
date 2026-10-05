@@ -1731,5 +1731,18 @@
     "relative_dir": "solutions/2634-filter-elements-from-array",
     "tags": [],
     "solved_at": "2026-10-05T08:25:10.637745"
+  },
+  "1773": {
+    "id": "1773",
+    "title": "Count Items Matching a Rule",
+    "slug": "count-items-matching-a-rule",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1773-count-items-matching-a-rule",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:25:29.309839"
   }
 }
