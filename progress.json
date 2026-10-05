@@ -1146,5 +1146,18 @@
     "relative_dir": "solutions/2629-function-composition",
     "tags": [],
     "solved_at": "2026-10-05T07:59:07.614582"
+  },
+  "2114": {
+    "id": "2114",
+    "title": "Maximum Number of Words Found in Sentences",
+    "slug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2114-maximum-number-of-words-found-in-sentences",
+    "tags": [
+      "Array",
+      "String"
+    ],
+    "solved_at": "2026-10-05T07:59:23.821181"
   }
 }
