@@ -725,5 +725,18 @@
       "Number Theory"
     ],
     "solved_at": "2026-10-05T07:47:35.219078"
+  },
+  "2433": {
+    "id": "2433",
+    "title": "Find The Original Array of Prefix Xor",
+    "slug": "find-the-original-array-of-prefix-xor",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2433-find-the-original-array-of-prefix-xor",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "solved_at": "2026-10-05T07:47:57.370358"
   }
 }
