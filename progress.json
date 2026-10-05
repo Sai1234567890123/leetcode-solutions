@@ -2808,5 +2808,20 @@
       "Math"
     ],
     "solved_at": "2026-10-05T12:28:06.516612+00:00"
+  },
+  "2965": {
+    "id": "2965",
+    "title": "Find Missing and Repeated Values",
+    "slug": "find-missing-and-repeated-values",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2965-find-missing-and-repeated-values",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T13:42:55.102152+00:00"
   }
 }

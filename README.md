@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `214 / 2` (10700.0%)
-- **🟢 Easy:** `155`
+- **Total Solved:** `215 / 10` (2150.0%)
+- **🟢 Easy:** `156`
 - **🟡 Medium:** `58`
 - **🔴 Hard:** `1`
-- **Last Updated:** `2026-10-05 12:28:06 UTC`
+- **Last Updated:** `2026-10-05 13:42:55 UTC`
 
 ---
 
@@ -185,6 +185,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 **Easy** | [PY](solutions/2894-divisible-and-non-divisible-sums-difference/solution.py) • [Notes](solutions/2894-divisible-and-non-divisible-sums-difference/README.md) | `Math` |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 **Easy** | [PY](solutions/2942-find-words-containing-character/solution.py) • [Notes](solutions/2942-find-words-containing-character/README.md) | `Array`, `String` |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | 🟢 **Easy** | [PY](solutions/2956-find-common-elements-between-two-arrays/solution.py) • [Notes](solutions/2956-find-common-elements-between-two-arrays/README.md) | `Array`, `Hash Table` |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 **Easy** | [PY](solutions/2965-find-missing-and-repeated-values/solution.py) • [Notes](solutions/2965-find-missing-and-repeated-values/README.md) | `Array`, `Hash Table`, `Math` |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | 🟢 **Easy** | [PY](solutions/2974-minimum-number-game/solution.py) • [Notes](solutions/2974-minimum-number-game/README.md) | `Array`, `Sorting`, `Heap (Priority Queue)` |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | 🟡 **Medium** | [PY](solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/solution.py) • [Notes](solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/README.md) | `Array`, `Bit Manipulation` |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 **Medium** | [PY](solutions/3016-minimum-number-of-pushes-to-type-word-ii/solution.py) • [Notes](solutions/3016-minimum-number-of-pushes-to-type-word-ii/README.md) | `Hash Table`, `String`, `Greedy` |
