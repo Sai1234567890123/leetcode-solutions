@@ -1093,5 +1093,20 @@
       "Database"
     ],
     "solved_at": "2026-10-05T07:57:37.111438"
+  },
+  "2125": {
+    "id": "2125",
+    "title": "Number of Laser Beams in a Bank",
+    "slug": "number-of-laser-beams-in-a-bank",
+    "difficulty": "Medium",
+    "language": "python3",
+    "relative_dir": "solutions/2125-number-of-laser-beams-in-a-bank",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Matrix"
+    ],
+    "solved_at": "2026-10-05T07:57:56.319710"
   }
 }
