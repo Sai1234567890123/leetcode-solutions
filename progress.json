@@ -1447,5 +1447,19 @@
     "relative_dir": "solutions/2635-apply-transform-over-each-element-in-array",
     "tags": [],
     "solved_at": "2026-10-05T08:17:34.837495"
+  },
+  "1614": {
+    "id": "1614",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "slug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1614-maximum-nesting-depth-of-the-parentheses",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "solved_at": "2026-10-05T08:17:50.940980"
   }
 }
