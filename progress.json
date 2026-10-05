@@ -165,5 +165,17 @@
       "Simulation"
     ],
     "solved_at": "2026-10-05T07:26:47.195332"
+  },
+  "2894": {
+    "id": "2894",
+    "title": "Divisible and Non-divisible Sums Difference",
+    "slug": "divisible-and-non-divisible-sums-difference",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2894-divisible-and-non-divisible-sums-difference",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T07:27:18.902207"
   }
 }
