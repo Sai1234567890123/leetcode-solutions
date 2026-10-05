@@ -1802,5 +1802,18 @@
     "relative_dir": "solutions/2885-rename-columns",
     "tags": [],
     "solved_at": "2026-10-05T08:27:15.384467"
+  },
+  "2236": {
+    "id": "2236",
+    "title": "Root Equals Sum of Children",
+    "slug": "root-equals-sum-of-children",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2236-root-equals-sum-of-children",
+    "tags": [
+      "Tree",
+      "Binary Tree"
+    ],
+    "solved_at": "2026-10-05T08:27:41.790565"
   }
 }

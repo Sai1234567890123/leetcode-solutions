@@ -4,11 +4,11 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 
 ## 📊 Progress & Statistics
 
-- **Total Solved:** `139 / 1000` (13.9%)
-- **🟢 Easy:** `107`
+- **Total Solved:** `140 / 1000` (14.0%)
+- **🟢 Easy:** `108`
 - **🟡 Medium:** `32`
 - **🔴 Hard:** `0`
-- **Last Updated:** `2026-10-05 08:27:15 UTC`
+- **Last Updated:** `2026-10-05 08:27:41 UTC`
 
 ---
 
@@ -80,6 +80,7 @@ Automated pipeline powered by Google Gemini AI and Antigravity batch runner.
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 **Medium** | [PY](solutions/2181-merge-nodes-in-between-zeros/solution.py) • [Notes](solutions/2181-merge-nodes-in-between-zeros/README.md) | `Linked List`, `Simulation` |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | 🟢 **Easy** | [PY](solutions/2220-minimum-bit-flips-to-convert-number/solution.py) • [Notes](solutions/2220-minimum-bit-flips-to-convert-number/README.md) | `Bit Manipulation` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 **Easy** | [PY](solutions/2235-add-two-integers/solution.py) • [Notes](solutions/2235-add-two-integers/README.md) | `Math` |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | 🟢 **Easy** | [PY](solutions/2236-root-equals-sum-of-children/solution.py) • [Notes](solutions/2236-root-equals-sum-of-children/README.md) | `Tree`, `Binary Tree` |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 **Medium** | [PY](solutions/2265-count-nodes-equal-to-average-of-subtree/solution.py) • [Notes](solutions/2265-count-nodes-equal-to-average-of-subtree/README.md) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | 🟢 **Easy** | [PY](solutions/2325-decode-the-message/solution.py) • [Notes](solutions/2325-decode-the-message/README.md) | `Hash Table`, `String` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | 🟢 **Easy** | [PY](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/solution.py) • [Notes](solutions/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | `Database` |
