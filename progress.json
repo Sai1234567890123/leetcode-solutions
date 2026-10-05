@@ -1212,5 +1212,17 @@
     "relative_dir": "solutions/2666-allow-one-function-call",
     "tags": [],
     "solved_at": "2026-10-05T08:00:46.442197"
+  },
+  "1281": {
+    "id": "1281",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+    "tags": [
+      "Math"
+    ],
+    "solved_at": "2026-10-05T08:01:05.799944"
   }
 }
