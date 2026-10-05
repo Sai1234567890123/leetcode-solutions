@@ -189,5 +189,18 @@
       "Math"
     ],
     "solved_at": "2026-10-05T07:28:04.251778"
+  },
+  "3668": {
+    "id": "3668",
+    "title": "Restore Finishing Order",
+    "slug": "restore-finishing-order",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/3668-restore-finishing-order",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ],
+    "solved_at": "2026-10-05T07:28:41.011044"
   }
 }
