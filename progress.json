@@ -2320,5 +2320,18 @@
       "Prefix Sum"
     ],
     "solved_at": "2026-10-05T08:42:23.680995"
+  },
+  "557": {
+    "id": "557",
+    "title": "Reverse Words in a String III",
+    "slug": "reverse-words-in-a-string-iii",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/0557-reverse-words-in-a-string-iii",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "solved_at": "2026-10-05T08:42:43.624507"
   }
 }
