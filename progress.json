@@ -2912,5 +2912,15 @@
       "Array"
     ],
     "solved_at": "2026-10-05T13:45:33.991205+00:00"
+  },
+  "2889": {
+    "id": "2889",
+    "title": "Reshape Data: Pivot",
+    "slug": "reshape-data-pivot",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2889-reshape-data-pivot",
+    "tags": [],
+    "solved_at": "2026-10-05T13:45:54.341033+00:00"
   }
 }
