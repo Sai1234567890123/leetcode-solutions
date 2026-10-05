@@ -492,5 +492,15 @@
       "Number Theory"
     ],
     "solved_at": "2026-10-05T07:42:00.638020"
+  },
+  "2715": {
+    "id": "2715",
+    "title": "Timeout Cancellation",
+    "slug": "timeout-cancellation",
+    "difficulty": "Easy",
+    "language": "python3",
+    "relative_dir": "solutions/2715-timeout-cancellation",
+    "tags": [],
+    "solved_at": "2026-10-05T07:42:17.569459"
   }
 }
